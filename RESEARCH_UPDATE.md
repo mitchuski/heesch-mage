@@ -1,186 +1,27 @@
-# Latest batch: indices 24–47
+# Current research snapshot â€” 7 September 2026
 
-An additional 24 inputs received bounded periodic and geometric searches. Three verified two-ring witnesses were recovered. Stronger periodic follow-up excluded 0 of those shapes; 3 remain geometric leads with unresolved tiling status. No non-tiler certificate or score improvement is claimed. In total, 48 of 153 entries have received some follow-up; 105 are untouched. These remain mixed, bounded tests.
+This replaces the older 24/48-input and three-active-lead summaries.
 
-Unresolved leads:
+Of the public 153-case bank, 72 entries have received some bounded follow-up and
+81 remain untouched by this lab. Mixed tests do not close 72 cases. Explicit
+tiling certificates exclude indices 1, 22 and 43. Only indices 24 and 34 remain
+on the active two-ring shortlist; subsequent searches did not improve their
+verified depth or determine tiling status. See FOLLOWUP_75.md.
 
-```json
-[
-  {
-    "source_index": 24,
-    "canonical_digest": "ca232e7fada5ac5237f57c9818196d89742edf66f47de7667731760342b1c880",
-    "verified_depth": 2
-  },
-  {
-    "source_index": 34,
-    "canonical_digest": "4155c2546d147999ee5e57798f5ebbf16e620d9e6aa757d7567fd295bdbb5f95",
-    "verified_depth": 2
-  },
-  {
-    "source_index": 43,
-    "canonical_digest": "b47720b325d371f956b7e58eb28dc0c63053f8b3e15b803a9f2dfa3bef51136e",
-    "verified_depth": 2
-  }
-]
-```
+Inverse design retained 29 three-ring variants of one periodic seed, all tilers.
+The exact identity B = C A explains why the original protected-region family
+cannot escape its known periodic template. Relaxing protection yielded an
+overlap-repair queue of 184 different local mutations. All 184 now have explicit
+periodic tilings, independently checked. This closes that queue, not the public
+bank or all possible mutations. One other legal variant failed the original
+ring-level check and is outside the 184 overlap queue; this report does not
+claim a complete classification of all 214 legal relaxed variants.
 
-The earlier two-batch report follows for provenance.
+Coordinated repairs produced two three-ring patches while retaining the source
+inner region; outer regrowth produced eleven three-ring and one two-ring patch
+in a twelve-shape sample. All are tilers. The full saved-artifact audit passes
+162 geometry artifacts and 265 shape/certificate pairs. No official non-tiler
+proof gate, leaderboard improvement, or new finite Heesch number is claimed.
 
-# Latest research before publication
-
-The user asked to prioritize an actual candidate result before publication.
-We completed a further bounded pass of source indices 12–23 from the 153-case
-queue. This found a second explicit periodic tiling, at index 22. The eleven
-other shapes received three-second relaxed depth-two geometric searches:
-four exhausted that implementation, seven timed out, and none yielded a new
-two-ring witness. No official non-tiler certificates were produced.
-
-Across both batches, 24 source entries have received some follow-up and 129
-have not. There are two checked tiling exclusions. The eleven first-batch SAT
-UNSAT reports and four second-batch geometric exhaustions remain computational
-evidence without official certificates; the seven timeouts remain UNKNOWN.
-Do not aggregate these different tests into a claim that 24 cases are closed.
-
-DISCUSSION_POST.md and FOLLOWUP_75.md describe the first twelve-entry batch.
-Integrate this update when publishing. No leaderboard improvement or new finite
-Heesch number has been found. The result worth contributing now is reproducible
-search acceleration plus two explicit exclusions from a shared open queue.
-
-## Second periodic certificate
-
-The 23rd entry (zero-based index 22) has canonical digest
-`378a95b263f7cc868db91bce1d22bbfcb1047073086fb2ca63be402939f3228a`.
-It is a different canonical shape from the first exclusion. It also partitions
-all 80 residues under lattice basis `(8,0),(3,10)` with four 20-cell copies.
-The residue partition was independently rechecked, including distinct residues
-within each tile and disjointness between tiles.
-
-Use the exact same checking code in FOLLOWUP_75.md, replacing `shape`,
-`placements` and the expected canonical digest with these values:
-
-```json
-{
-  "status": "PERIODIC_TILER",
-  "lattices_tested": 265,
-  "certificate": {
-    "lattice_basis": [
-      [
-        8,
-        0
-      ],
-      [
-        3,
-        10
-      ]
-    ],
-    "copies_per_period": 4,
-    "placements": [
-      [
-        2,
-        0,
-        6
-      ],
-      [
-        5,
-        6,
-        7
-      ],
-      [
-        9,
-        6,
-        2
-      ],
-      [
-        6,
-        5,
-        1
-      ]
-    ],
-    "residue_partition_checked": true
-  },
-  "source_index": 22,
-  "cells": [
-    [
-      0,
-      1
-    ],
-    [
-      0,
-      2
-    ],
-    [
-      0,
-      3
-    ],
-    [
-      0,
-      4
-    ],
-    [
-      1,
-      1
-    ],
-    [
-      1,
-      2
-    ],
-    [
-      1,
-      3
-    ],
-    [
-      1,
-      4
-    ],
-    [
-      2,
-      0
-    ],
-    [
-      2,
-      1
-    ],
-    [
-      2,
-      2
-    ],
-    [
-      2,
-      3
-    ],
-    [
-      2,
-      4
-    ],
-    [
-      2,
-      5
-    ],
-    [
-      3,
-      1
-    ],
-    [
-      3,
-      2
-    ],
-    [
-      3,
-      3
-    ],
-    [
-      3,
-      4
-    ],
-    [
-      4,
-      1
-    ],
-    [
-      4,
-      2
-    ]
-  ],
-  "canonical_digest": "378a95b263f7cc868db91bce1d22bbfcb1047073086fb2ca63be402939f3228a"
-}
-```
+Next research should change the seed or edit domain and use recovered periodic
+templates as early counterexamples before spending more time regrowing coronas.

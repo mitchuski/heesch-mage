@@ -1,0 +1,523 @@
+{
+  "scope": "First two rings fixed; causal third-ring support release; bounded fourth/fifth search",
+  "group_count": 28,
+  "group_offset": 0,
+  "four_limit": 64,
+  "groups_tried": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27
+  ],
+  "valid_third_ring_patches": 107,
+  "valid_fourth_ring_patches": 60,
+  "elapsed_seconds": 18.715970700141042,
+  "winner": false,
+  "proof_gate_run": false,
+  "records": [
+    {
+      "group": 0,
+      "third_patch": 1,
+      "required5": 254,
+      "budget": 2,
+      "status": "EXHAUSTED",
+      "nodes": 8895
+    },
+    {
+      "group": 0,
+      "third_patch": 1,
+      "required5": 236,
+      "budget": 2,
+      "status": "EXHAUSTED",
+      "nodes": 41
+    },
+    {
+      "group": 0,
+      "third_patch": 1,
+      "required5": 235,
+      "budget": 2,
+      "status": "EXHAUSTED",
+      "nodes": 5924
+    },
+    {
+      "group": 0,
+      "third_patch": 1,
+      "required5": 233,
+      "budget": 2,
+      "status": "EXHAUSTED",
+      "nodes": 4939
+    },
+    {
+      "group": 0,
+      "third_patch": 1,
+      "required5": 247,
+      "budget": 2,
+      "status": "EXHAUSTED",
+      "nodes": 1
+    },
+    {
+      "group": 0,
+      "third_patch": 1,
+      "required5": 249,
+      "budget": 2,
+      "status": "EXHAUSTED",
+      "nodes": 1
+    },
+    {
+      "group": 0,
+      "third_patch": 1,
+      "required5": 243,
+      "budget": 2,
+      "status": "EXHAUSTED",
+      "nodes": 1
+    },
+    {
+      "group": 0,
+      "third_patch": 1,
+      "required5": 251,
+      "budget": 2,
+      "status": "EXHAUSTED",
+      "nodes": 131
+    },
+    {
+      "group": 0,
+      "third_patch": 1,
+      "required5": 252,
+      "budget": 2,
+      "status": "EXHAUSTED",
+      "nodes": 2779
+    },
+    {
+      "group": 0,
+      "third_patch": 1,
+      "required5": 245,
+      "budget": 2,
+      "status": "EXHAUSTED",
+      "nodes": 5
+    },
+    {
+      "group": 0,
+      "third_patch": 1,
+      "required5": 245,
+      "budget": 2,
+      "status": "EXHAUSTED",
+      "nodes": 5
+    },
+    {
+      "group": 0,
+      "third_patch": 1,
+      "required5": 252,
+      "budget": 2,
+      "status": "EXHAUSTED",
+      "nodes": 6026
+    },
+    {
+      "group": 0,
+      "third_patch": 1,
+      "required5": 255,
+      "budget": 3,
+      "status": "EXHAUSTED",
+      "nodes": 1
+    },
+    {
+      "group": 0,
+      "third_patch": 1,
+      "required5": 254,
+      "budget": 2,
+      "status": "EXHAUSTED",
+      "nodes": 1
+    },
+    {
+      "group": 0,
+      "third_patch": 1,
+      "required5": 254,
+      "budget": 2,
+      "status": "EXHAUSTED",
+      "nodes": 1
+    },
+    {
+      "group": 0,
+      "third_patch": 1,
+      "required5": 254,
+      "budget": 2,
+      "status": "EXHAUSTED",
+      "nodes": 1
+    },
+    {
+      "group": 0,
+      "third_patch": 1,
+      "required5": 246,
+      "budget": 2,
+      "status": "EXHAUSTED",
+      "nodes": 1
+    },
+    {
+      "group": 0,
+      "third_patch": 1,
+      "required5": 253,
+      "budget": 2,
+      "status": "EXHAUSTED",
+      "nodes": 1
+    },
+    {
+      "group": 3,
+      "third_patch": 21,
+      "required5": 266,
+      "budget": 3,
+      "status": "EXHAUSTED",
+      "nodes": 1
+    },
+    {
+      "group": 3,
+      "third_patch": 21,
+      "required5": 262,
+      "budget": 3,
+      "status": "EXHAUSTED",
+      "nodes": 10
+    },
+    {
+      "group": 3,
+      "third_patch": 21,
+      "required5": 266,
+      "budget": 3,
+      "status": "EXHAUSTED",
+      "nodes": 17
+    },
+    {
+      "group": 3,
+      "third_patch": 21,
+      "required5": 261,
+      "budget": 3,
+      "status": "EXHAUSTED",
+      "nodes": 10
+    },
+    {
+      "group": 3,
+      "third_patch": 21,
+      "required5": 276,
+      "budget": 3,
+      "status": "EXHAUSTED",
+      "nodes": 5
+    },
+    {
+      "group": 3,
+      "third_patch": 21,
+      "required5": 269,
+      "budget": 3,
+      "status": "EXHAUSTED",
+      "nodes": 1
+    },
+    {
+      "group": 3,
+      "third_patch": 21,
+      "required5": 276,
+      "budget": 3,
+      "status": "EXHAUSTED",
+      "nodes": 5
+    },
+    {
+      "group": 3,
+      "third_patch": 21,
+      "required5": 277,
+      "budget": 3,
+      "status": "EXHAUSTED",
+      "nodes": 5
+    },
+    {
+      "group": 3,
+      "third_patch": 21,
+      "required5": 278,
+      "budget": 3,
+      "status": "EXHAUSTED",
+      "nodes": 5
+    },
+    {
+      "group": 3,
+      "third_patch": 21,
+      "required5": 277,
+      "budget": 3,
+      "status": "EXHAUSTED",
+      "nodes": 1
+    },
+    {
+      "group": 3,
+      "third_patch": 21,
+      "required5": 277,
+      "budget": 3,
+      "status": "EXHAUSTED",
+      "nodes": 10
+    },
+    {
+      "group": 3,
+      "third_patch": 21,
+      "required5": 267,
+      "budget": 3,
+      "status": "EXHAUSTED",
+      "nodes": 1
+    },
+    {
+      "group": 3,
+      "third_patch": 21,
+      "required5": 268,
+      "budget": 3,
+      "status": "EXHAUSTED",
+      "nodes": 1
+    },
+    {
+      "group": 3,
+      "third_patch": 21,
+      "required5": 262,
+      "budget": 3,
+      "status": "EXHAUSTED",
+      "nodes": 1
+    },
+    {
+      "group": 3,
+      "third_patch": 21,
+      "required5": 267,
+      "budget": 3,
+      "status": "EXHAUSTED",
+      "nodes": 1
+    },
+    {
+      "group": 3,
+      "third_patch": 21,
+      "required5": 276,
+      "budget": 3,
+      "status": "EXHAUSTED",
+      "nodes": 5
+    },
+    {
+      "group": 3,
+      "third_patch": 21,
+      "required5": 277,
+      "budget": 3,
+      "status": "EXHAUSTED",
+      "nodes": 1
+    },
+    {
+      "group": 3,
+      "third_patch": 21,
+      "required5": 269,
+      "budget": 3,
+      "status": "EXHAUSTED",
+      "nodes": 1
+    },
+    {
+      "group": 3,
+      "third_patch": 21,
+      "required5": 248,
+      "budget": 2,
+      "status": "EXHAUSTED",
+      "nodes": 1
+    },
+    {
+      "group": 3,
+      "third_patch": 21,
+      "required5": 244,
+      "budget": 2,
+      "status": "EXHAUSTED",
+      "nodes": 1
+    },
+    {
+      "group": 3,
+      "third_patch": 21,
+      "required5": 248,
+      "budget": 2,
+      "status": "EXHAUSTED",
+      "nodes": 5
+    },
+    {
+      "group": 11,
+      "third_patch": 33,
+      "required5": 259,
+      "budget": 3,
+      "status": "EXHAUSTED",
+      "nodes": 17
+    },
+    {
+      "group": 11,
+      "third_patch": 33,
+      "required5": 241,
+      "budget": 2,
+      "status": "EXHAUSTED",
+      "nodes": 7
+    },
+    {
+      "group": 11,
+      "third_patch": 33,
+      "required5": 238,
+      "budget": 2,
+      "status": "EXHAUSTED",
+      "nodes": 15
+    },
+    {
+      "group": 11,
+      "third_patch": 33,
+      "required5": 240,
+      "budget": 2,
+      "status": "EXHAUSTED",
+      "nodes": 15
+    },
+    {
+      "group": 11,
+      "third_patch": 33,
+      "required5": 252,
+      "budget": 2,
+      "status": "EXHAUSTED",
+      "nodes": 1
+    },
+    {
+      "group": 11,
+      "third_patch": 33,
+      "required5": 248,
+      "budget": 2,
+      "status": "EXHAUSTED",
+      "nodes": 1
+    },
+    {
+      "group": 11,
+      "third_patch": 33,
+      "required5": 254,
+      "budget": 2,
+      "status": "EXHAUSTED",
+      "nodes": 1
+    },
+    {
+      "group": 11,
+      "third_patch": 33,
+      "required5": 257,
+      "budget": 3,
+      "status": "EXHAUSTED",
+      "nodes": 30
+    },
+    {
+      "group": 11,
+      "third_patch": 33,
+      "required5": 250,
+      "budget": 2,
+      "status": "EXHAUSTED",
+      "nodes": 1
+    },
+    {
+      "group": 11,
+      "third_patch": 33,
+      "required5": 257,
+      "budget": 3,
+      "status": "EXHAUSTED",
+      "nodes": 68
+    },
+    {
+      "group": 11,
+      "third_patch": 33,
+      "required5": 250,
+      "budget": 2,
+      "status": "EXHAUSTED",
+      "nodes": 1
+    },
+    {
+      "group": 11,
+      "third_patch": 33,
+      "required5": 259,
+      "budget": 3,
+      "status": "EXHAUSTED",
+      "nodes": 1
+    },
+    {
+      "group": 11,
+      "third_patch": 33,
+      "required5": 258,
+      "budget": 3,
+      "status": "EXHAUSTED",
+      "nodes": 1
+    },
+    {
+      "group": 11,
+      "third_patch": 33,
+      "required5": 260,
+      "budget": 3,
+      "status": "EXHAUSTED",
+      "nodes": 1
+    },
+    {
+      "group": 11,
+      "third_patch": 33,
+      "required5": 251,
+      "budget": 2,
+      "status": "EXHAUSTED",
+      "nodes": 1
+    },
+    {
+      "group": 11,
+      "third_patch": 33,
+      "required5": 259,
+      "budget": 3,
+      "status": "EXHAUSTED",
+      "nodes": 1
+    },
+    {
+      "group": 11,
+      "third_patch": 33,
+      "required5": 259,
+      "budget": 3,
+      "status": "EXHAUSTED",
+      "nodes": 1
+    },
+    {
+      "group": 11,
+      "third_patch": 33,
+      "required5": 259,
+      "budget": 3,
+      "status": "EXHAUSTED",
+      "nodes": 1
+    },
+    {
+      "group": 11,
+      "third_patch": 33,
+      "required5": 256,
+      "budget": 3,
+      "status": "EXHAUSTED",
+      "nodes": 30
+    },
+    {
+      "group": 11,
+      "third_patch": 33,
+      "required5": 260,
+      "budget": 3,
+      "status": "EXHAUSTED",
+      "nodes": 14
+    },
+    {
+      "group": 11,
+      "third_patch": 33,
+      "required5": 250,
+      "budget": 2,
+      "status": "EXHAUSTED",
+      "nodes": 1
+    }
+  ]
+}

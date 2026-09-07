@@ -1,55 +1,27 @@
 # Heesch Mage contribution
 
-A publication handoff for a tested multilevel-encoder performance patch and
-independent follow-up of the public Heesch unresolved-shape queue.
+This release contributes a proposed encoder optimization, explicit tiling
+certificates, and reproducible experiments explaining a failed inverse-design
+family. No leaderboard improvement or new finite Heesch number is claimed.
 
-Start with **RESEARCH_UPDATE.md** for the latest results, then
-**PUBLISHING_HANDOFF.md** for the authorized publishing steps.
-**DISCUSSION_POST.md** contains the encoder proposal and full patch;
-**FOLLOWUP_75.md** contains the original result reply with a runnable certificate
-check. Integrate RESEARCH_UPDATE.md before posting the older first-batch drafts.
+Start with [CONTRIBUTION.md](CONTRIBUTION.md) for measured value and limitations,
+[REPRODUCE.md](REPRODUCE.md) for checks, and
+[PUBLISHING_HANDOFF.md](PUBLISHING_HANDOFF.md) for push and posting steps.
 
-No post, PR, leaderboard improvement or new finite Heesch number is claimed.
-The user authorized substantive research posts, with an authenticated publishing
-agent handling them. No credentials or local dependency installations are included.
-Publication receipts should record verified public URLs and dates.
+Publication-ready drafts:
 
-## Validation and reproduction
+- [FOLLOWUP_75.md](FOLLOWUP_75.md): three certified tilers from the public queue.
+- [DISCUSSION_POST.md](DISCUSSION_POST.md): the encoder performance proposal.
+- [RESEARCH_DISCUSSION.md](RESEARCH_DISCUSSION.md): inverse design, exact
+  periodicity implication, and the 184-shape repair-family closure.
+- [PR_DESCRIPTION.md](PR_DESCRIPTION.md): a focused encoder PR description.
 
-The patch targets upstream commit
-`ce3b8d6974d3f318c3c6081b421ed51c7d041d6e` in
-https://github.com/Layr-Labs/heesch. Apply it in a disposable checkout:
+The research results are independent computational artifacts. Maintainer
+acceptance, full upstream CI, official non-tiler proof checks, and benchmark
+score improvement have not occurred. Timings are local single paired samples.
 
-```sh
-git apply --check /path/to/touch-graph-bitsets.patch
-git apply /path/to/touch-graph-bitsets.patch
-python -m unittest discover -s tests/encoder -p test_touch_bitsets.py -v
-```
-
-Seven existing universe/CNF golden fixtures and 240 geometric-oracle cases passed
-across four fresh hash-seed processes. Three emission lint checks also passed.
-Six paired local formula measurements preserve ordered-clause digests and metadata.
-`validation.json` and `evidence/` preserve results. The full upstream CI, official
-proof pipeline and deeper Linux peak-memory measurements remain pending.
-
-MANIFEST.json verifies the selected exported source artifacts. README.md and the
-Git metadata are packaging additions. Review newer upstream changes before a PR.
-
-## Attribution and scope
-
-The `research/` directory includes the pure-Python screening code, exact public
-input bank, latest results and recovered witnesses. Install the unchanged upstream
-package into a disposable Python environment first (`python -m pip install -e
-/path/to/heesch`); the verifier must be importable. Then, from `research/`, run
-`python discussion_periodic.py --offset 48 --limit 12 --seconds 3`, followed by
-`python discussion_geometry.py --offset 48 --seconds 3`. No native SAT package is
-needed for this fallback. Preserve existing results when rerunning earlier offsets.
-
-Credit upstream encoder/verifier authors, Craig S. Kaplan for parent shapes and
-native solver, Frodan for the overlay recipe and earlier pipeline work, and
-nasqret for the public unresolved queue and calibration audit. Prepared with Codex.
-No blanket new license is asserted for upstream-derived material; preserve its
-provenance and consult upstream terms before redistributing broader source trees.
-
-The active search lab remains separate. This repository contains only the selected
-contribution files for syncing with the publishing agent. No remote is configured.
+Attribution: upstream encoder/verifier authors; Craig S. Kaplan for parent shapes
+and native solver; Frodan for the overlay recipe; nasqret for the shared queue
+and calibration audit. Prepared by Mitch with Codex. No claim of global
+methodological novelty is made. No blanket new license is asserted for
+upstream-derived material; see [PROVENANCE.md](PROVENANCE.md).

@@ -1,0 +1,66 @@
+{
+  "records": [
+    {
+      "id": "fc2c7106962ebaae",
+      "status": "PERIODIC_TILER",
+      "lattices_tested": 9,
+      "certificate": {
+        "lattice_basis": [
+          [
+            19,
+            0
+          ],
+          [
+            6,
+            2
+          ]
+        ],
+        "copies_per_period": 2,
+        "placements": [
+          [
+            7,
+            0,
+            1
+          ],
+          [
+            10,
+            0,
+            0
+          ]
+        ],
+        "residue_partition_checked": true
+      }
+    },
+    {
+      "id": "16ae240197f29ba4",
+      "status": "PERIODIC_TILER",
+      "lattices_tested": 25,
+      "certificate": {
+        "lattice_basis": [
+          [
+            10,
+            0
+          ],
+          [
+            7,
+            4
+          ]
+        ],
+        "copies_per_period": 2,
+        "placements": [
+          [
+            8,
+            0,
+            1
+          ],
+          [
+            11,
+            9,
+            0
+          ]
+        ],
+        "residue_partition_checked": true
+      }
+    }
+  ]
+}

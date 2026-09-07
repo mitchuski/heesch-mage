@@ -1,0 +1,43 @@
+{
+  "records": [
+    {
+      "canonical_digest": "ca232e7fada5ac5237f57c9818196d89742edf66f47de7667731760342b1c880",
+      "source_index": 24,
+      "previous_verified_depth": 2,
+      "search": {
+        "status": "UNKNOWN_TIMEOUT",
+        "depth": 3,
+        "seconds": 15.005708899814636,
+        "search_nodes_completed_subcalls": 1949,
+        "expansions_by_remaining_depth": {
+          "3": 1,
+          "2": 2,
+          "1": 471
+        },
+        "cached_failed_patches": 472,
+        "relaxed_witness": null,
+        "official_non_tiler_certificate": false
+      }
+    },
+    {
+      "canonical_digest": "4155c2546d147999ee5e57798f5ebbf16e620d9e6aa757d7567fd295bdbb5f95",
+      "source_index": 34,
+      "previous_verified_depth": 2,
+      "search": {
+        "status": "UNKNOWN_TIMEOUT",
+        "depth": 3,
+        "seconds": 15.006977100390941,
+        "search_nodes_completed_subcalls": 13914,
+        "expansions_by_remaining_depth": {
+          "3": 1,
+          "2": 246,
+          "1": 384
+        },
+        "cached_failed_patches": 630,
+        "relaxed_witness": null,
+        "official_non_tiler_certificate": false
+      }
+    }
+  ],
+  "scope": "Fifteen-second global budgets; no child truncation. Timeout remains UNKNOWN. No official proof certificates."
+}

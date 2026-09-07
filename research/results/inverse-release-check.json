@@ -1,0 +1,14 @@
+[
+  {
+    "region": "center_only",
+    "all_accepted_shapes_same_as_prior_tilers": true,
+    "accepted": 29,
+    "overlap_repair_candidates": 184
+  },
+  {
+    "region": "center_and_halo",
+    "all_accepted_shapes_same_as_prior_tilers": true,
+    "accepted": 29,
+    "overlap_repair_candidates": 184
+  }
+]

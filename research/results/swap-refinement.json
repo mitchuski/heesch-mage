@@ -1,0 +1,136 @@
+{
+  "records": [
+    {
+      "id": "405a064be2142b37",
+      "periodic_search": {
+        "status": "PERIODIC_TILER",
+        "lattices_tested": 244,
+        "certificate": {
+          "lattice_basis": [
+            [
+              12,
+              0
+            ],
+            [
+              9,
+              6
+            ]
+          ],
+          "copies_per_period": 4,
+          "placements": [
+            [
+              2,
+              0,
+              4
+            ],
+            [
+              6,
+              7,
+              1
+            ],
+            [
+              9,
+              7,
+              2
+            ],
+            [
+              5,
+              11,
+              5
+            ]
+          ],
+          "residue_partition_checked": true
+        }
+      },
+      "verified_depth": 3
+    },
+    {
+      "id": "bf62725ccfe83cf3",
+      "periodic_search": {
+        "status": "PERIODIC_TILER",
+        "lattices_tested": 244,
+        "certificate": {
+          "lattice_basis": [
+            [
+              12,
+              0
+            ],
+            [
+              9,
+              6
+            ]
+          ],
+          "copies_per_period": 4,
+          "placements": [
+            [
+              1,
+              0,
+              0
+            ],
+            [
+              7,
+              7,
+              3
+            ],
+            [
+              10,
+              6,
+              0
+            ],
+            [
+              4,
+              1,
+              3
+            ]
+          ],
+          "residue_partition_checked": true
+        }
+      },
+      "verified_depth": 3
+    },
+    {
+      "id": "cc017fd4f8f29ec4",
+      "periodic_search": {
+        "status": "PERIODIC_TILER",
+        "lattices_tested": 244,
+        "certificate": {
+          "lattice_basis": [
+            [
+              12,
+              0
+            ],
+            [
+              9,
+              6
+            ]
+          ],
+          "copies_per_period": 4,
+          "placements": [
+            [
+              2,
+              0,
+              5
+            ],
+            [
+              5,
+              2,
+              4
+            ],
+            [
+              9,
+              8,
+              1
+            ],
+            [
+              6,
+              9,
+              2
+            ]
+          ],
+          "residue_partition_checked": true
+        }
+      },
+      "verified_depth": 3
+    }
+  ]
+}

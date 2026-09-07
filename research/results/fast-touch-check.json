@@ -1,0 +1,356 @@
+{
+  "random_graph_checks": 120,
+  "full_formula_comparisons": 5,
+  "records": [
+    {
+      "id": "hex11-kaplan-hc4hh4",
+      "depth": 2,
+      "runs": [
+        {
+          "touch_graph_seconds": 4.875729100313038,
+          "touch_graph_vertices": 3260,
+          "touch_graph_edges": 340774,
+          "experimental_fast_graph": false,
+          "seconds": 5.710903599858284,
+          "ordered_clause_sha256": "9cc0b2dc957b65002439c5594c4fa51b49d26dcb21c194bd68a638136f6198ca",
+          "clauses": 120991,
+          "variables": 37647,
+          "family_counts": [
+            [
+              "1",
+              21
+            ],
+            [
+              "2",
+              110797
+            ],
+            [
+              "4",
+              2880
+            ],
+            [
+              "5",
+              0
+            ],
+            [
+              "6",
+              7293
+            ]
+          ]
+        },
+        {
+          "touch_graph_seconds": 0.207676500082016,
+          "touch_graph_vertices": 3260,
+          "touch_graph_edges": 340774,
+          "experimental_fast_graph": true,
+          "seconds": 1.0485042999498546,
+          "ordered_clause_sha256": "9cc0b2dc957b65002439c5594c4fa51b49d26dcb21c194bd68a638136f6198ca",
+          "clauses": 120991,
+          "variables": 37647,
+          "family_counts": [
+            [
+              "1",
+              21
+            ],
+            [
+              "2",
+              110797
+            ],
+            [
+              "4",
+              2880
+            ],
+            [
+              "5",
+              0
+            ],
+            [
+              "6",
+              7293
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hex13-kaplan-hc4hh4",
+      "depth": 2,
+      "runs": [
+        {
+          "touch_graph_seconds": 8.814394500106573,
+          "touch_graph_vertices": 4029,
+          "touch_graph_edges": 484841,
+          "experimental_fast_graph": false,
+          "seconds": 9.892427599988878,
+          "ordered_clause_sha256": "ad1fc49acd85518e787f0a1a4225d0154108c994faf5947a4cde65c7945858d6",
+          "clauses": 167470,
+          "variables": 55217,
+          "family_counts": [
+            [
+              "1",
+              20
+            ],
+            [
+              "2",
+              156500
+            ],
+            [
+              "4",
+              3624
+            ],
+            [
+              "5",
+              0
+            ],
+            [
+              "6",
+              7326
+            ]
+          ]
+        },
+        {
+          "touch_graph_seconds": 0.36300629982724786,
+          "touch_graph_vertices": 4029,
+          "touch_graph_edges": 484841,
+          "experimental_fast_graph": true,
+          "seconds": 1.4608982000499964,
+          "ordered_clause_sha256": "ad1fc49acd85518e787f0a1a4225d0154108c994faf5947a4cde65c7945858d6",
+          "clauses": 167470,
+          "variables": 55217,
+          "family_counts": [
+            [
+              "1",
+              20
+            ],
+            [
+              "2",
+              156500
+            ],
+            [
+              "4",
+              3624
+            ],
+            [
+              "5",
+              0
+            ],
+            [
+              "6",
+              7326
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hex15-kaplan-hc4hh4-a",
+      "depth": 2,
+      "runs": [
+        {
+          "touch_graph_seconds": 10.861471199896187,
+          "touch_graph_vertices": 4088,
+          "touch_graph_edges": 473403,
+          "experimental_fast_graph": false,
+          "seconds": 12.080651999916881,
+          "ordered_clause_sha256": "085a55bf0c9adbb730ceca277ceceaf7e5055232d4cfb8570758ae68af2876b4",
+          "clauses": 195179,
+          "variables": 64009,
+          "family_counts": [
+            [
+              "1",
+              20
+            ],
+            [
+              "2",
+              184091
+            ],
+            [
+              "4",
+              3680
+            ],
+            [
+              "5",
+              0
+            ],
+            [
+              "6",
+              7388
+            ]
+          ]
+        },
+        {
+          "touch_graph_seconds": 0.3851999999023974,
+          "touch_graph_vertices": 4088,
+          "touch_graph_edges": 473403,
+          "experimental_fast_graph": true,
+          "seconds": 1.6116110999137163,
+          "ordered_clause_sha256": "085a55bf0c9adbb730ceca277ceceaf7e5055232d4cfb8570758ae68af2876b4",
+          "clauses": 195179,
+          "variables": 64009,
+          "family_counts": [
+            [
+              "1",
+              20
+            ],
+            [
+              "2",
+              184091
+            ],
+            [
+              "4",
+              3680
+            ],
+            [
+              "5",
+              0
+            ],
+            [
+              "6",
+              7388
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hex16-kaplan-hc4hh4",
+      "depth": 2,
+      "runs": [
+        {
+          "touch_graph_seconds": 20.990186600014567,
+          "touch_graph_vertices": 5106,
+          "touch_graph_edges": 689312,
+          "experimental_fast_graph": false,
+          "seconds": 22.722183000296354,
+          "ordered_clause_sha256": "3dcdf6f738b2d82de3ae875074892a1e3bf412e9b5e22a4148643a30be3b1cc2",
+          "clauses": 259378,
+          "variables": 85225,
+          "family_counts": [
+            [
+              "1",
+              24
+            ],
+            [
+              "2",
+              244295
+            ],
+            [
+              "4",
+              4635
+            ],
+            [
+              "5",
+              0
+            ],
+            [
+              "6",
+              10424
+            ]
+          ]
+        },
+        {
+          "touch_graph_seconds": 0.6212148000486195,
+          "touch_graph_vertices": 5106,
+          "touch_graph_edges": 689312,
+          "experimental_fast_graph": true,
+          "seconds": 2.4722878001630306,
+          "ordered_clause_sha256": "3dcdf6f738b2d82de3ae875074892a1e3bf412e9b5e22a4148643a30be3b1cc2",
+          "clauses": 259378,
+          "variables": 85225,
+          "family_counts": [
+            [
+              "1",
+              24
+            ],
+            [
+              "2",
+              244295
+            ],
+            [
+              "4",
+              4635
+            ],
+            [
+              "5",
+              0
+            ],
+            [
+              "6",
+              10424
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "frontier-15hex-b",
+      "depth": 2,
+      "runs": [
+        {
+          "touch_graph_seconds": 23.57921769982204,
+          "touch_graph_vertices": 5848,
+          "touch_graph_edges": 848454,
+          "experimental_fast_graph": false,
+          "seconds": 25.33392810029909,
+          "ordered_clause_sha256": "36759053558e3209dbd4e6d0dc3a5eb44dfd7967e91acb97c497839c37a4b194",
+          "clauses": 279851,
+          "variables": 91257,
+          "family_counts": [
+            [
+              "1",
+              23
+            ],
+            [
+              "2",
+              264546
+            ],
+            [
+              "4",
+              5376
+            ],
+            [
+              "5",
+              0
+            ],
+            [
+              "6",
+              9906
+            ]
+          ]
+        },
+        {
+          "touch_graph_seconds": 0.828114700037986,
+          "touch_graph_vertices": 5848,
+          "touch_graph_edges": 848454,
+          "experimental_fast_graph": true,
+          "seconds": 2.588986699935049,
+          "ordered_clause_sha256": "36759053558e3209dbd4e6d0dc3a5eb44dfd7967e91acb97c497839c37a4b194",
+          "clauses": 279851,
+          "variables": 91257,
+          "family_counts": [
+            [
+              "1",
+              23
+            ],
+            [
+              "2",
+              264546
+            ],
+            [
+              "4",
+              5376
+            ],
+            [
+              "5",
+              0
+            ],
+            [
+              "6",
+              9906
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

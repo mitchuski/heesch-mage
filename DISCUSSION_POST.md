@@ -96,14 +96,14 @@ regenerating an already explored mutation bank. Credit nasqret for the published
 inputs and calibration audit, Frodan for the overlay construction and earlier
 pipeline work, and Kaplan for the parent shapes and native solver.
 
-We checked all 153 published shape identities and native-input hashes, then tested
-the first twelve entries in source order. Eleven returned UNSAT from the
-experimental depth-two formula; these are preliminary solver results without
-official proof certificates. One yielded a strictly verified two-ring witness,
-then a checked four-copy periodic tiling certificate. That positive tiling
-certificate is a useful exclusion; the other eleven should not be labelled
-officially closed from these solver outputs alone. No leaderboard improvement
-or new finite Heesch number is claimed.
+We checked all 153 published shape identities and native-input hashes. Across
+72 entries receiving mixed bounded follow-up, three now have independently
+checked periodic partitions (indices 1, 22 and 43); 81 entries remain untouched
+by this lab. Experimental UNSAT reports have no official proof certificates.
+Indices 24 and 34 retain two-ring witnesses with unresolved tiling status.
+See FOLLOWUP_75.md and public-queue-certificates.json for the separate result
+reply and exact certificates. No leaderboard improvement or new finite Heesch
+number is claimed.
 
 The bitset technique is standard. The contribution proposed here is a tested
 implementation improvement to this encoder, plus a reproducible follow-up of an

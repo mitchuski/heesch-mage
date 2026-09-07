@@ -1,0 +1,109 @@
+{
+  "target_depth": 3,
+  "controls_total": 5,
+  "controls_recovered": 5,
+  "missing_controls": [],
+  "records": [
+    {
+      "target_depth": 3,
+      "official_proof_gate_run": false,
+      "clauses_added": 731452,
+      "models_checked": 1,
+      "variables": 191194,
+      "universe_sizes": [
+        405,
+        3624,
+        9768
+      ],
+      "encode_seconds": 24.719000000040978,
+      "status": "VERIFIED_WITNESS",
+      "verified_depth": 3,
+      "seconds": 27.891000000294298,
+      "id": "hex13-kaplan-hc4hh4",
+      "witness": "results\\shapes\\sat-d3-hex13-kaplan-hc4hh4.heesch",
+      "source": "results\\sat-controls-d3-offset-1.json"
+    },
+    {
+      "target_depth": 3,
+      "official_proof_gate_run": false,
+      "clauses_added": 824681,
+      "models_checked": 1,
+      "variables": 221082,
+      "universe_sizes": [
+        408,
+        3680,
+        9872
+      ],
+      "encode_seconds": 30.45299999974668,
+      "status": "VERIFIED_WITNESS",
+      "verified_depth": 3,
+      "seconds": 31.20299999974668,
+      "id": "hex15-kaplan-hc4hh4-a",
+      "witness": "results\\shapes\\sat-d3-hex15-kaplan-hc4hh4-a.heesch",
+      "source": "results\\sat-controls-d3-offset-1.json"
+    },
+    {
+      "target_depth": 3,
+      "official_proof_gate_run": false,
+      "clauses_added": 1119257,
+      "models_checked": 1,
+      "variables": 296733,
+      "universe_sizes": [
+        471,
+        4635,
+        12505
+      ],
+      "encode_seconds": 46.79700000025332,
+      "status": "VERIFIED_WITNESS",
+      "verified_depth": 3,
+      "seconds": 47.17200000025332,
+      "id": "hex16-kaplan-hc4hh4",
+      "witness": "results\\shapes\\sat-d3-hex16-kaplan-hc4hh4.heesch",
+      "source": "results\\sat-controls-d3-offset-3.json"
+    },
+    {
+      "target_depth": 3,
+      "official_proof_gate_run": false,
+      "clauses_added": 1218929,
+      "models_checked": 1,
+      "touch_graph_seconds": 3.265000000130385,
+      "touch_graph_vertices": 15184,
+      "touch_graph_edges": 2824668,
+      "experimental_fast_graph": true,
+      "variables": 325147,
+      "universe_sizes": [
+        472,
+        5376,
+        14712
+      ],
+      "encode_seconds": 26.625,
+      "status": "VERIFIED_WITNESS",
+      "verified_depth": 3,
+      "seconds": 27.375,
+      "id": "frontier-15hex-b",
+      "witness": "results\\shapes\\sat-d3-frontier-15hex-b.heesch",
+      "source": "results\\sat-controls-d3-offset-4-fast.json"
+    },
+    {
+      "target_depth": 3,
+      "official_proof_gate_run": false,
+      "clauses_added": 529105,
+      "models_checked": 1,
+      "variables": 127407,
+      "universe_sizes": [
+        380,
+        2880,
+        7560
+      ],
+      "encode_seconds": 15.985000000335276,
+      "status": "VERIFIED_WITNESS",
+      "verified_depth": 3,
+      "seconds": 16.219000000040978,
+      "id": "hex11-kaplan-hc4hh4",
+      "witness": "results\\shapes\\sat-d3-hex11-kaplan-hc4hh4.heesch",
+      "source": "results\\sat-controls-d3.json"
+    }
+  ],
+  "interpretation": "Known positive controls only; no new finite Heesch result. SAT runs used larger budgets than five-second backtracking controls; this is not a matched-time speed comparison.",
+  "official_non_tiler_proof_gate_run": false
+}

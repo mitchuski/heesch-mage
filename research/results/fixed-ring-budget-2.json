@@ -1,0 +1,13 @@
+{
+  "status": "EXHAUSTED",
+  "nodes": 8895,
+  "leaves": 0,
+  "selected": null,
+  "source_sha256": "87d35cd173835f0f775cc632921423f6d511dea88352eca30124010cb02b3572",
+  "required_cells": 254,
+  "candidate_placements": 2476,
+  "budget": 2,
+  "elapsed_seconds": 0.1578995999880135,
+  "proof_gate_run": false,
+  "scope": "Entire fifth-ring placement universe with the four inner rings fixed"
+}

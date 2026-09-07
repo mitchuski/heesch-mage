@@ -1,0 +1,26 @@
+{
+  "records": [
+    {
+      "target_depth": 3,
+      "official_proof_gate_run": false,
+      "clauses_added": 1218929,
+      "models_checked": 1,
+      "touch_graph_seconds": 3.265000000130385,
+      "touch_graph_vertices": 15184,
+      "touch_graph_edges": 2824668,
+      "experimental_fast_graph": true,
+      "variables": 325147,
+      "universe_sizes": [
+        472,
+        5376,
+        14712
+      ],
+      "encode_seconds": 26.625,
+      "status": "VERIFIED_WITNESS",
+      "verified_depth": 3,
+      "seconds": 27.375,
+      "id": "frontier-15hex-b",
+      "witness": "results\\shapes\\sat-d3-frontier-15hex-b.heesch"
+    }
+  ]
+}

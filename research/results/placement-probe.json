@@ -1,0 +1,85 @@
+{
+  "cases": [
+    {
+      "case": "incumbent-ring-0",
+      "candidate_count": 472,
+      "exact_order_and_transforms_match": true,
+      "reference_seconds": 0.009192799683660269,
+      "current_seconds": 0.0034060999751091003,
+      "speedup": 2.6989224482072975
+    },
+    {
+      "case": "incumbent-ring-1",
+      "candidate_count": 872,
+      "exact_order_and_transforms_match": true,
+      "reference_seconds": 0.024771299678832293,
+      "current_seconds": 0.006726299878209829,
+      "speedup": 3.6827527953489114
+    },
+    {
+      "case": "incumbent-ring-2",
+      "candidate_count": 1367,
+      "exact_order_and_transforms_match": true,
+      "reference_seconds": 0.05305479979142547,
+      "current_seconds": 0.014968400355428457,
+      "speedup": 3.5444535509223303
+    },
+    {
+      "case": "incumbent-ring-3",
+      "candidate_count": 1761,
+      "exact_order_and_transforms_match": true,
+      "reference_seconds": 0.06290729995816946,
+      "current_seconds": 0.019185099750757217,
+      "speedup": 3.2789665300378004
+    },
+    {
+      "case": "incumbent-ring-4",
+      "candidate_count": 2476,
+      "exact_order_and_transforms_match": true,
+      "reference_seconds": 0.106954799965024,
+      "current_seconds": 0.027712200302630663,
+      "speedup": 3.8594842270561602
+    },
+    {
+      "case": "hex11-kaplan-hc4hh4",
+      "candidate_count": 380,
+      "exact_order_and_transforms_match": true,
+      "reference_seconds": 0.004709800239652395,
+      "current_seconds": 0.0019324999302625656,
+      "speedup": 2.4371541576265323
+    },
+    {
+      "case": "hex13-kaplan-hc4hh4",
+      "candidate_count": 405,
+      "exact_order_and_transforms_match": true,
+      "reference_seconds": 0.00594109995290637,
+      "current_seconds": 0.0021567000076174736,
+      "speedup": 2.754717824418037
+    },
+    {
+      "case": "hex15-kaplan-hc4hh4-a",
+      "candidate_count": 408,
+      "exact_order_and_transforms_match": true,
+      "reference_seconds": 0.007904899772256613,
+      "current_seconds": 0.0025681001134216785,
+      "speedup": 3.078111998415943
+    },
+    {
+      "case": "hex16-kaplan-hc4hh4",
+      "candidate_count": 471,
+      "exact_order_and_transforms_match": true,
+      "reference_seconds": 0.009815400000661612,
+      "current_seconds": 0.00316169997677207,
+      "speedup": 3.1044691377334988
+    },
+    {
+      "case": "frontier-15hex-b",
+      "candidate_count": 472,
+      "exact_order_and_transforms_match": true,
+      "reference_seconds": 0.008913500234484673,
+      "current_seconds": 0.003179199993610382,
+      "speedup": 2.8036928322845993
+    }
+  ],
+  "scope": "Local candidate enumeration; no leaderboard score implication"
+}

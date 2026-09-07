@@ -1,0 +1,418 @@
+{
+  "records": [
+    {
+      "index": 49,
+      "id": "d745fc78a0133020",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          1
+        ],
+        [
+          6,
+          0
+        ],
+        [
+          6,
+          1
+        ]
+      ],
+      "added_in_parent_coordinates": [
+        [
+          -4,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "status": "TWO_RINGS_TILING_UNRESOLVED",
+      "search": {
+        "status": "VERIFIED_TWO_CORONAS",
+        "first_rings_tested": 7,
+        "seconds": 0.41321599995717406,
+        "inner_search_nodes": 21,
+        "upper_bound": null
+      },
+      "witness": "results\\shapes\\paired-d745fc78a0133020.heesch",
+      "tiling_search": {
+        "status": "UNRESOLVED",
+        "lattices_tested": 115,
+        "certificate": null
+      },
+      "classification": "UNRESOLVED: geometry lower bound only"
+    },
+    {
+      "index": 57,
+      "id": "571221128a0af8d1",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          1
+        ]
+      ],
+      "added_in_parent_coordinates": [
+        [
+          0,
+          -1
+        ],
+        [
+          1,
+          -1
+        ]
+      ],
+      "status": "TWO_RINGS_TILING_UNRESOLVED",
+      "search": {
+        "status": "VERIFIED_TWO_CORONAS",
+        "first_rings_tested": 4,
+        "seconds": 0.26895020017400384,
+        "inner_search_nodes": 32,
+        "upper_bound": null
+      },
+      "witness": "results\\shapes\\paired-571221128a0af8d1.heesch",
+      "tiling_search": {
+        "status": "UNRESOLVED",
+        "lattices_tested": 108,
+        "certificate": null
+      },
+      "classification": "UNRESOLVED: geometry lower bound only"
+    },
+    {
+      "index": 121,
+      "id": "064c7fa8949c4bd9",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          6,
+          2
+        ]
+      ],
+      "added_in_parent_coordinates": [
+        [
+          3,
+          -1
+        ],
+        [
+          3,
+          -2
+        ]
+      ],
+      "status": "TWO_RINGS_TILING_UNRESOLVED",
+      "search": {
+        "status": "VERIFIED_TWO_CORONAS",
+        "first_rings_tested": 2,
+        "seconds": 0.10773679986596107,
+        "inner_search_nodes": 14,
+        "upper_bound": null
+      },
+      "witness": "results\\shapes\\paired-064c7fa8949c4bd9.heesch",
+      "tiling_search": {
+        "status": "UNRESOLVED",
+        "lattices_tested": 114,
+        "certificate": null
+      },
+      "classification": "UNRESOLVED: geometry lower bound only"
+    },
+    {
+      "index": 233,
+      "id": "15336def3f3b6b91",
+      "cells": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ]
+      ],
+      "added_in_parent_coordinates": [
+        [
+          -4,
+          3
+        ],
+        [
+          -3,
+          1
+        ]
+      ],
+      "status": "TWO_RINGS_TILING_UNRESOLVED",
+      "search": {
+        "status": "VERIFIED_TWO_CORONAS",
+        "first_rings_tested": 1,
+        "seconds": 0.051687400322407484,
+        "inner_search_nodes": 13,
+        "upper_bound": null
+      },
+      "witness": "results\\shapes\\paired-15336def3f3b6b91.heesch",
+      "tiling_search": {
+        "status": "UNRESOLVED",
+        "lattices_tested": 100,
+        "certificate": null
+      },
+      "classification": "UNRESOLVED: geometry lower bound only"
+    }
+  ],
+  "count": 4,
+  "next_action": "Independent non-tiler classification; retain existing two-ring witnesses. No official proof generated."
+}

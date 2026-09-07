@@ -1,0 +1,13 @@
+{
+  "records": [
+    {
+      "target_depth": 3,
+      "official_proof_gate_run": false,
+      "clauses_added": 925696,
+      "models_checked": 0,
+      "status": "UNKNOWN_ENCODE_TIMEOUT",
+      "seconds": 71.5160000002943,
+      "id": "frontier-15hex-b"
+    }
+  ]
+}

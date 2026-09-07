@@ -1,0 +1,16 @@
+{
+  "monohex_control_passed": true,
+  "timeout_control_passed": true,
+  "records": [
+    {
+      "id": "064c7fa8949c4bd9",
+      "relaxed_depth": 3,
+      "strict_geometry": "VERIFIED"
+    },
+    {
+      "id": "15336def3f3b6b91",
+      "relaxed_depth": 3,
+      "strict_geometry": "VERIFIED"
+    }
+  ]
+}

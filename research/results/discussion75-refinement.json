@@ -1,0 +1,64 @@
+{
+  "canonical_digest": "f8df9dc177363142ba2df27d279a12b78b974c40f2f66d9418841fc5036bd0f6",
+  "periodic_search": {
+    "status": "PERIODIC_TILER",
+    "lattices_tested": 265,
+    "certificate": {
+      "lattice_basis": [
+        [
+          8,
+          0
+        ],
+        [
+          3,
+          10
+        ]
+      ],
+      "copies_per_period": 4,
+      "placements": [
+        [
+          1,
+          0,
+          5
+        ],
+        [
+          10,
+          5,
+          3
+        ],
+        [
+          4,
+          4,
+          8
+        ],
+        [
+          7,
+          4,
+          0
+        ]
+      ],
+      "residue_partition_checked": true
+    }
+  },
+  "depth_three": {
+    "target_depth": 3,
+    "official_proof_gate_run": false,
+    "clauses_added": 1351725,
+    "models_checked": 1,
+    "touch_graph_seconds": 2.4840000001713634,
+    "touch_graph_vertices": 13128,
+    "touch_graph_edges": 2329179,
+    "experimental_fast_graph": true,
+    "variables": 371539,
+    "universe_sizes": [
+      472,
+      4712,
+      12656
+    ],
+    "encode_seconds": 26.484000000171363,
+    "status": "VERIFIED_WITNESS",
+    "verified_depth": 3,
+    "seconds": 26.70300000021234
+  },
+  "witness": "results\\shapes\\discussion75-d3-f8df9dc177363142.heesch"
+}

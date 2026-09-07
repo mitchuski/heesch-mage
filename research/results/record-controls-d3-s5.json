@@ -1,0 +1,75 @@
+{
+  "target_depth": 3,
+  "seconds_per_shape": 5.0,
+  "records": [
+    {
+      "verified_depth": 2,
+      "target_depth": 3,
+      "seconds": 5.008611100260168,
+      "valid_patches_by_depth": {
+        "1": 450,
+        "2": 42
+      },
+      "upper_bound": null,
+      "id": "hex11-kaplan-hc4hh4",
+      "known_record_hc": 4,
+      "control_success": false,
+      "witness": "results\\shapes\\control-d3-hex11-kaplan-hc4hh4.heesch"
+    },
+    {
+      "verified_depth": 2,
+      "target_depth": 3,
+      "seconds": 5.002845800016075,
+      "valid_patches_by_depth": {
+        "1": 373,
+        "2": 32
+      },
+      "upper_bound": null,
+      "id": "hex13-kaplan-hc4hh4",
+      "known_record_hc": 4,
+      "control_success": false,
+      "witness": "results\\shapes\\control-d3-hex13-kaplan-hc4hh4.heesch"
+    },
+    {
+      "verified_depth": 1,
+      "target_depth": 3,
+      "seconds": 5.004081299994141,
+      "valid_patches_by_depth": {
+        "1": 382
+      },
+      "upper_bound": null,
+      "id": "hex15-kaplan-hc4hh4-a",
+      "known_record_hc": 4,
+      "control_success": false,
+      "witness": "results\\shapes\\control-d3-hex15-kaplan-hc4hh4-a.heesch"
+    },
+    {
+      "verified_depth": 1,
+      "target_depth": 3,
+      "seconds": 5.005908799823374,
+      "valid_patches_by_depth": {
+        "1": 298
+      },
+      "upper_bound": null,
+      "id": "hex16-kaplan-hc4hh4",
+      "known_record_hc": 4,
+      "control_success": false,
+      "witness": "results\\shapes\\control-d3-hex16-kaplan-hc4hh4.heesch"
+    },
+    {
+      "verified_depth": 2,
+      "target_depth": 3,
+      "seconds": 5.000976399984211,
+      "valid_patches_by_depth": {
+        "1": 134,
+        "2": 77
+      },
+      "upper_bound": null,
+      "id": "frontier-15hex-b",
+      "known_record_hc": 4,
+      "control_success": false,
+      "witness": "results\\shapes\\control-d3-frontier-15hex-b.heesch"
+    }
+  ],
+  "controls_recovered": 0
+}

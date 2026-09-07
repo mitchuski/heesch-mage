@@ -1,0 +1,44 @@
+{
+  "random_graph_checks": 120,
+  "full_formula_comparisons": 0,
+  "records": [
+    {
+      "id": "frontier-15hex-b",
+      "depth": 3,
+      "runs": [
+        {
+          "touch_graph_seconds": 7.944001100026071,
+          "touch_graph_vertices": 15184,
+          "touch_graph_edges": 2824668,
+          "experimental_fast_graph": true,
+          "seconds": 42.15799110010266,
+          "ordered_clause_sha256": "011dd59bbe56712d17c49ad9930efba4161facbcf3ca0653689b3dcf0acc369c",
+          "clauses": 1218929,
+          "variables": 325147,
+          "family_counts": [
+            [
+              "1",
+              23
+            ],
+            [
+              "2",
+              924784
+            ],
+            [
+              "4",
+              20088
+            ],
+            [
+              "5",
+              140480
+            ],
+            [
+              "6",
+              133554
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "records": [
+    {
+      "target_depth": 3,
+      "official_proof_gate_run": false,
+      "clauses_added": 731452,
+      "models_checked": 1,
+      "variables": 191194,
+      "universe_sizes": [
+        405,
+        3624,
+        9768
+      ],
+      "encode_seconds": 24.719000000040978,
+      "status": "VERIFIED_WITNESS",
+      "verified_depth": 3,
+      "seconds": 27.891000000294298,
+      "id": "hex13-kaplan-hc4hh4",
+      "witness": "results\\shapes\\sat-d3-hex13-kaplan-hc4hh4.heesch"
+    },
+    {
+      "target_depth": 3,
+      "official_proof_gate_run": false,
+      "clauses_added": 824681,
+      "models_checked": 1,
+      "variables": 221082,
+      "universe_sizes": [
+        408,
+        3680,
+        9872
+      ],
+      "encode_seconds": 30.45299999974668,
+      "status": "VERIFIED_WITNESS",
+      "verified_depth": 3,
+      "seconds": 31.20299999974668,
+      "id": "hex15-kaplan-hc4hh4-a",
+      "witness": "results\\shapes\\sat-d3-hex15-kaplan-hc4hh4-a.heesch"
+    },
+    {
+      "target_depth": 3,
+      "official_proof_gate_run": false,
+      "clauses_added": 843776,
+      "models_checked": 0,
+      "status": "UNKNOWN_ENCODE_TIMEOUT",
+      "seconds": 37.938000000081956,
+      "id": "hex16-kaplan-hc4hh4"
+    },
+    {
+      "target_depth": 3,
+      "official_proof_gate_run": false,
+      "clauses_added": 925696,
+      "models_checked": 0,
+      "status": "UNKNOWN_ENCODE_TIMEOUT",
+      "seconds": 43.42199999978766,
+      "id": "frontier-15hex-b"
+    }
+  ]
+}

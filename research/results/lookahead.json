@@ -1,0 +1,245 @@
+{
+  "records": [
+    {
+      "status": "VERIFIED_TWO_CORONAS",
+      "first_rings_tested": 22,
+      "seconds": 0.38381139980629086,
+      "inner_search_nodes": 44,
+      "upper_bound": null,
+      "id": "hex11-kaplan-hc4hh4",
+      "control": true,
+      "witness": "results\\shapes\\hex11-kaplan-hc4hh4-two.heesch"
+    },
+    {
+      "status": "NO_WITNESS_WITHIN_SEARCH",
+      "first_rings_tested": 24,
+      "seconds": 0.6235525002703071,
+      "inner_search_nodes": 54,
+      "upper_bound": null,
+      "id": "hex13-kaplan-hc4hh4",
+      "control": true
+    },
+    {
+      "status": "NO_WITNESS_WITHIN_SEARCH",
+      "first_rings_tested": 19,
+      "seconds": 0.6206514998339117,
+      "inner_search_nodes": 19,
+      "upper_bound": null,
+      "id": "hex15-kaplan-hc4hh4-a",
+      "control": true
+    },
+    {
+      "status": "NO_WITNESS_WITHIN_SEARCH",
+      "first_rings_tested": 15,
+      "seconds": 0.6281051002442837,
+      "inner_search_nodes": 18,
+      "upper_bound": null,
+      "id": "hex16-kaplan-hc4hh4",
+      "control": true
+    },
+    {
+      "status": "VERIFIED_TWO_CORONAS",
+      "first_rings_tested": 2,
+      "seconds": 0.06481759995222092,
+      "inner_search_nodes": 22,
+      "upper_bound": null,
+      "id": "frontier-15hex-b",
+      "control": true,
+      "witness": "results\\shapes\\frontier-15hex-b-two.heesch"
+    },
+    {
+      "status": "NO_WITNESS_WITHIN_SEARCH",
+      "first_rings_tested": 13,
+      "seconds": 0.6004821001552045,
+      "inner_search_nodes": 13,
+      "upper_bound": null,
+      "id": "bd0a194f6841d427",
+      "control": false
+    },
+    {
+      "status": "NO_WITNESS_WITHIN_SEARCH",
+      "first_rings_tested": 4,
+      "seconds": 0.6835688999854028,
+      "inner_search_nodes": 4,
+      "upper_bound": null,
+      "id": "e1973424513c3985",
+      "control": false
+    },
+    {
+      "status": "NO_WITNESS_WITHIN_SEARCH",
+      "first_rings_tested": 9,
+      "seconds": 0.6350970002822578,
+      "inner_search_nodes": 9,
+      "upper_bound": null,
+      "id": "d54508bf62e564b5",
+      "control": false
+    },
+    {
+      "status": "NO_WITNESS_WITHIN_SEARCH",
+      "first_rings_tested": 0,
+      "seconds": 0.0035844999365508556,
+      "inner_search_nodes": 0,
+      "upper_bound": null,
+      "id": "4bc78f9158e85189",
+      "control": false
+    },
+    {
+      "status": "NO_WITNESS_WITHIN_SEARCH",
+      "first_rings_tested": 1,
+      "seconds": 0.0726983998902142,
+      "inner_search_nodes": 1,
+      "upper_bound": null,
+      "id": "85fc7160bc945a62",
+      "control": false
+    },
+    {
+      "status": "VERIFIED_TWO_CORONAS",
+      "first_rings_tested": 6,
+      "seconds": 0.3145484998822212,
+      "inner_search_nodes": 17,
+      "upper_bound": null,
+      "id": "fc2c7106962ebaae",
+      "control": false,
+      "witness": "results\\shapes\\fc2c7106962ebaae-two.heesch"
+    },
+    {
+      "status": "NO_WITNESS_WITHIN_SEARCH",
+      "first_rings_tested": 0,
+      "seconds": 0.03253659978508949,
+      "inner_search_nodes": 0,
+      "upper_bound": null,
+      "id": "b114b802fbefad5b",
+      "control": false
+    },
+    {
+      "status": "NO_WITNESS_WITHIN_SEARCH",
+      "first_rings_tested": 7,
+      "seconds": 0.6002095001749694,
+      "inner_search_nodes": 11,
+      "upper_bound": null,
+      "id": "0a3848ab5534edc7",
+      "control": false
+    },
+    {
+      "status": "NO_WITNESS_WITHIN_SEARCH",
+      "first_rings_tested": 10,
+      "seconds": 0.6586250001564622,
+      "inner_search_nodes": 10,
+      "upper_bound": null,
+      "id": "90959aa2c1c9cbe8",
+      "control": false
+    },
+    {
+      "status": "NO_WITNESS_WITHIN_SEARCH",
+      "first_rings_tested": 0,
+      "seconds": 0.21063069999217987,
+      "inner_search_nodes": 0,
+      "upper_bound": null,
+      "id": "12d1f7efcf0a56ba",
+      "control": false
+    },
+    {
+      "status": "VERIFIED_TWO_CORONAS",
+      "first_rings_tested": 1,
+      "seconds": 0.07074370002374053,
+      "inner_search_nodes": 13,
+      "upper_bound": null,
+      "id": "16ae240197f29ba4",
+      "control": false,
+      "witness": "results\\shapes\\16ae240197f29ba4-two.heesch"
+    },
+    {
+      "status": "NO_WITNESS_WITHIN_SEARCH",
+      "first_rings_tested": 1,
+      "seconds": 0.11383009981364012,
+      "inner_search_nodes": 1,
+      "upper_bound": null,
+      "id": "4cd743dde721e071",
+      "control": false
+    },
+    {
+      "status": "NO_WITNESS_WITHIN_SEARCH",
+      "first_rings_tested": 0,
+      "seconds": 0.10385219985619187,
+      "inner_search_nodes": 0,
+      "upper_bound": null,
+      "id": "78b5d5dbe7e9e080",
+      "control": false
+    },
+    {
+      "status": "NO_WITNESS_WITHIN_SEARCH",
+      "first_rings_tested": 12,
+      "seconds": 0.6001635999418795,
+      "inner_search_nodes": 13,
+      "upper_bound": null,
+      "id": "f20bc6d8f0ebdbfc",
+      "control": false
+    },
+    {
+      "status": "NO_WITNESS_WITHIN_SEARCH",
+      "first_rings_tested": 6,
+      "seconds": 0.7027881997637451,
+      "inner_search_nodes": 6,
+      "upper_bound": null,
+      "id": "5fbedd9122759202",
+      "control": false
+    },
+    {
+      "status": "NO_WITNESS_WITHIN_SEARCH",
+      "first_rings_tested": 0,
+      "seconds": 0.005342900287359953,
+      "inner_search_nodes": 0,
+      "upper_bound": null,
+      "id": "5e183e31391bafc0",
+      "control": false
+    },
+    {
+      "status": "NO_WITNESS_WITHIN_SEARCH",
+      "first_rings_tested": 0,
+      "seconds": 0.3006382999010384,
+      "inner_search_nodes": 0,
+      "upper_bound": null,
+      "id": "fd8cec72eaf1b378",
+      "control": false
+    },
+    {
+      "status": "NO_WITNESS_WITHIN_SEARCH",
+      "first_rings_tested": 0,
+      "seconds": 0.0039276001043617725,
+      "inner_search_nodes": 0,
+      "upper_bound": null,
+      "id": "30116bd51006494d",
+      "control": false
+    },
+    {
+      "status": "NO_WITNESS_WITHIN_SEARCH",
+      "first_rings_tested": 0,
+      "seconds": 0.30330790020525455,
+      "inner_search_nodes": 0,
+      "upper_bound": null,
+      "id": "d5d1ae39de0e8b95",
+      "control": false
+    },
+    {
+      "status": "NO_WITNESS_WITHIN_SEARCH",
+      "first_rings_tested": 4,
+      "seconds": 0.24446920026093721,
+      "inner_search_nodes": 4,
+      "upper_bound": null,
+      "id": "d9013d262f808186",
+      "control": false
+    },
+    {
+      "status": "NO_WITNESS_WITHIN_SEARCH",
+      "first_rings_tested": 0,
+      "seconds": 0.03106419974938035,
+      "inner_search_nodes": 0,
+      "upper_bound": null,
+      "id": "1afbc89710b5b66e",
+      "control": false
+    }
+  ],
+  "known_hc4_controls_recovered": 2,
+  "new_shapes_with_two_coronas": 2,
+  "non_tiler_proofs_generated": 0
+}

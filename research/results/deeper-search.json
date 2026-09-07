@@ -1,0 +1,356 @@
+{
+  "elapsed_seconds": 6.681550299748778,
+  "records": [
+    {
+      "id": "bd0a194f6841d427",
+      "area": 18,
+      "translation_lattice": null,
+      "non_tiler_status": "UNPROVEN",
+      "verified_corona_lower_bound": 1,
+      "upper_bound": null,
+      "expanded_per_depth": [
+        12,
+        0
+      ],
+      "time_limit_encountered": false,
+      "witness": "results\\shapes\\bd0a194f6841d427-deep.heesch",
+      "scope": "Bounded sampled corona beam; failure is inconclusive"
+    },
+    {
+      "id": "e1973424513c3985",
+      "area": 18,
+      "translation_lattice": null,
+      "non_tiler_status": "UNPROVEN",
+      "verified_corona_lower_bound": 1,
+      "upper_bound": null,
+      "expanded_per_depth": [
+        12,
+        0
+      ],
+      "time_limit_encountered": false,
+      "witness": "results\\shapes\\e1973424513c3985-deep.heesch",
+      "scope": "Bounded sampled corona beam; failure is inconclusive"
+    },
+    {
+      "id": "d54508bf62e564b5",
+      "area": 19,
+      "translation_lattice": null,
+      "non_tiler_status": "UNPROVEN",
+      "verified_corona_lower_bound": 1,
+      "upper_bound": null,
+      "expanded_per_depth": [
+        12,
+        0
+      ],
+      "time_limit_encountered": false,
+      "witness": "results\\shapes\\d54508bf62e564b5-deep.heesch",
+      "scope": "Bounded sampled corona beam; failure is inconclusive"
+    },
+    {
+      "id": "4bc78f9158e85189",
+      "area": 18,
+      "translation_lattice": null,
+      "non_tiler_status": "UNPROVEN",
+      "verified_corona_lower_bound": 1,
+      "upper_bound": null,
+      "expanded_per_depth": [
+        2,
+        0
+      ],
+      "time_limit_encountered": false,
+      "witness": "results\\shapes\\4bc78f9158e85189-deep.heesch",
+      "scope": "Bounded sampled corona beam; failure is inconclusive"
+    },
+    {
+      "id": "85fc7160bc945a62",
+      "area": 18,
+      "translation_lattice": null,
+      "non_tiler_status": "UNPROVEN",
+      "verified_corona_lower_bound": 1,
+      "upper_bound": null,
+      "expanded_per_depth": [
+        12,
+        0
+      ],
+      "time_limit_encountered": false,
+      "witness": "results\\shapes\\85fc7160bc945a62-deep.heesch",
+      "scope": "Bounded sampled corona beam; failure is inconclusive"
+    },
+    {
+      "id": "fc2c7106962ebaae",
+      "area": 19,
+      "translation_lattice": null,
+      "non_tiler_status": "UNPROVEN",
+      "verified_corona_lower_bound": 1,
+      "upper_bound": null,
+      "expanded_per_depth": [
+        12,
+        0
+      ],
+      "time_limit_encountered": false,
+      "witness": "results\\shapes\\fc2c7106962ebaae-deep.heesch",
+      "scope": "Bounded sampled corona beam; failure is inconclusive"
+    },
+    {
+      "id": "b114b802fbefad5b",
+      "area": 18,
+      "translation_lattice": null,
+      "non_tiler_status": "UNPROVEN",
+      "verified_corona_lower_bound": 1,
+      "upper_bound": null,
+      "expanded_per_depth": [
+        12,
+        0
+      ],
+      "time_limit_encountered": false,
+      "witness": "results\\shapes\\b114b802fbefad5b-deep.heesch",
+      "scope": "Bounded sampled corona beam; failure is inconclusive"
+    },
+    {
+      "id": "0a3848ab5534edc7",
+      "area": 19,
+      "translation_lattice": null,
+      "non_tiler_status": "UNPROVEN",
+      "verified_corona_lower_bound": 1,
+      "upper_bound": null,
+      "expanded_per_depth": [
+        12,
+        0
+      ],
+      "time_limit_encountered": false,
+      "witness": "results\\shapes\\0a3848ab5534edc7-deep.heesch",
+      "scope": "Bounded sampled corona beam; failure is inconclusive"
+    },
+    {
+      "id": "90959aa2c1c9cbe8",
+      "area": 20,
+      "translation_lattice": null,
+      "non_tiler_status": "UNPROVEN",
+      "verified_corona_lower_bound": 1,
+      "upper_bound": null,
+      "expanded_per_depth": [
+        12,
+        0
+      ],
+      "time_limit_encountered": false,
+      "witness": "results\\shapes\\90959aa2c1c9cbe8-deep.heesch",
+      "scope": "Bounded sampled corona beam; failure is inconclusive"
+    },
+    {
+      "id": "82ddf4e10a2062f6",
+      "area": 18,
+      "translation_lattice": [
+        [
+          6,
+          0
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "non_tiler_status": "REFUTED_BY_TRANSLATION_TILING",
+      "verified_corona_lower_bound": 1,
+      "upper_bound": null
+    },
+    {
+      "id": "12d1f7efcf0a56ba",
+      "area": 20,
+      "translation_lattice": null,
+      "non_tiler_status": "UNPROVEN",
+      "verified_corona_lower_bound": 1,
+      "upper_bound": null,
+      "expanded_per_depth": [
+        12,
+        0
+      ],
+      "time_limit_encountered": false,
+      "witness": "results\\shapes\\12d1f7efcf0a56ba-deep.heesch",
+      "scope": "Bounded sampled corona beam; failure is inconclusive"
+    },
+    {
+      "id": "16ae240197f29ba4",
+      "area": 20,
+      "translation_lattice": null,
+      "non_tiler_status": "UNPROVEN",
+      "verified_corona_lower_bound": 1,
+      "upper_bound": null,
+      "expanded_per_depth": [
+        12,
+        0
+      ],
+      "time_limit_encountered": false,
+      "witness": "results\\shapes\\16ae240197f29ba4-deep.heesch",
+      "scope": "Bounded sampled corona beam; failure is inconclusive"
+    },
+    {
+      "id": "4cd743dde721e071",
+      "area": 19,
+      "translation_lattice": null,
+      "non_tiler_status": "UNPROVEN",
+      "verified_corona_lower_bound": 1,
+      "upper_bound": null,
+      "expanded_per_depth": [
+        12,
+        0
+      ],
+      "time_limit_encountered": false,
+      "witness": "results\\shapes\\4cd743dde721e071-deep.heesch",
+      "scope": "Bounded sampled corona beam; failure is inconclusive"
+    },
+    {
+      "id": "78b5d5dbe7e9e080",
+      "area": 18,
+      "translation_lattice": null,
+      "non_tiler_status": "UNPROVEN",
+      "verified_corona_lower_bound": 1,
+      "upper_bound": null,
+      "expanded_per_depth": [
+        12,
+        0
+      ],
+      "time_limit_encountered": false,
+      "witness": "results\\shapes\\78b5d5dbe7e9e080-deep.heesch",
+      "scope": "Bounded sampled corona beam; failure is inconclusive"
+    },
+    {
+      "id": "f20bc6d8f0ebdbfc",
+      "area": 18,
+      "translation_lattice": null,
+      "non_tiler_status": "UNPROVEN",
+      "verified_corona_lower_bound": 1,
+      "upper_bound": null,
+      "expanded_per_depth": [
+        12,
+        0
+      ],
+      "time_limit_encountered": false,
+      "witness": "results\\shapes\\f20bc6d8f0ebdbfc-deep.heesch",
+      "scope": "Bounded sampled corona beam; failure is inconclusive"
+    },
+    {
+      "id": "5fbedd9122759202",
+      "area": 20,
+      "translation_lattice": null,
+      "non_tiler_status": "UNPROVEN",
+      "verified_corona_lower_bound": 1,
+      "upper_bound": null,
+      "expanded_per_depth": [
+        12,
+        0
+      ],
+      "time_limit_encountered": false,
+      "witness": "results\\shapes\\5fbedd9122759202-deep.heesch",
+      "scope": "Bounded sampled corona beam; failure is inconclusive"
+    },
+    {
+      "id": "5e183e31391bafc0",
+      "area": 18,
+      "translation_lattice": null,
+      "non_tiler_status": "UNPROVEN",
+      "verified_corona_lower_bound": 1,
+      "upper_bound": null,
+      "expanded_per_depth": [
+        4,
+        0
+      ],
+      "time_limit_encountered": false,
+      "witness": "results\\shapes\\5e183e31391bafc0-deep.heesch",
+      "scope": "Bounded sampled corona beam; failure is inconclusive"
+    },
+    {
+      "id": "fd8cec72eaf1b378",
+      "area": 19,
+      "translation_lattice": null,
+      "non_tiler_status": "UNPROVEN",
+      "verified_corona_lower_bound": 1,
+      "upper_bound": null,
+      "expanded_per_depth": [
+        12,
+        0
+      ],
+      "time_limit_encountered": false,
+      "witness": "results\\shapes\\fd8cec72eaf1b378-deep.heesch",
+      "scope": "Bounded sampled corona beam; failure is inconclusive"
+    },
+    {
+      "id": "30116bd51006494d",
+      "area": 18,
+      "translation_lattice": null,
+      "non_tiler_status": "UNPROVEN",
+      "verified_corona_lower_bound": 1,
+      "upper_bound": null,
+      "expanded_per_depth": [
+        2,
+        0
+      ],
+      "time_limit_encountered": false,
+      "witness": "results\\shapes\\30116bd51006494d-deep.heesch",
+      "scope": "Bounded sampled corona beam; failure is inconclusive"
+    },
+    {
+      "id": "d5d1ae39de0e8b95",
+      "area": 18,
+      "translation_lattice": null,
+      "non_tiler_status": "UNPROVEN",
+      "verified_corona_lower_bound": 1,
+      "upper_bound": null,
+      "expanded_per_depth": [
+        12,
+        0
+      ],
+      "time_limit_encountered": false,
+      "witness": "results\\shapes\\d5d1ae39de0e8b95-deep.heesch",
+      "scope": "Bounded sampled corona beam; failure is inconclusive"
+    },
+    {
+      "id": "d9013d262f808186",
+      "area": 19,
+      "translation_lattice": null,
+      "non_tiler_status": "UNPROVEN",
+      "verified_corona_lower_bound": 1,
+      "upper_bound": null,
+      "expanded_per_depth": [
+        12,
+        0
+      ],
+      "time_limit_encountered": false,
+      "witness": "results\\shapes\\d9013d262f808186-deep.heesch",
+      "scope": "Bounded sampled corona beam; failure is inconclusive"
+    },
+    {
+      "id": "1afbc89710b5b66e",
+      "area": 18,
+      "translation_lattice": null,
+      "non_tiler_status": "UNPROVEN",
+      "verified_corona_lower_bound": 1,
+      "upper_bound": null,
+      "expanded_per_depth": [
+        12,
+        0
+      ],
+      "time_limit_encountered": false,
+      "witness": "results\\shapes\\1afbc89710b5b66e-deep.heesch",
+      "scope": "Bounded sampled corona beam; failure is inconclusive"
+    },
+    {
+      "id": "39c7d9f7af292671",
+      "area": 20,
+      "translation_lattice": [
+        [
+          5,
+          0
+        ],
+        [
+          0,
+          4
+        ]
+      ],
+      "non_tiler_status": "REFUTED_BY_TRANSLATION_TILING",
+      "verified_corona_lower_bound": 1,
+      "upper_bound": null
+    }
+  ],
+  "translation_tilers": 2,
+  "max_unclassified_corona_lower_bound": 1
+}

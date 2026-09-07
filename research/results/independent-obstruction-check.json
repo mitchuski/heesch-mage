@@ -1,0 +1,24 @@
+{
+  "independent_algorithm": "Python cell-set recursion, direct per-pivot geometric enumeration",
+  "cores": [
+    {
+      "cells": 5,
+      "status": "EXHAUSTED",
+      "nodes": 9
+    },
+    {
+      "cells": 2,
+      "status": "EXHAUSTED",
+      "nodes": 2
+    },
+    {
+      "cells": 59,
+      "status": "EXHAUSTED",
+      "nodes": 2697
+    }
+  ],
+  "pairwise_disjoint": true,
+  "confirmed_lower_bound": 3,
+  "elapsed_seconds": 0.8496709996834397,
+  "official_proof_gate_certificate": false
+}

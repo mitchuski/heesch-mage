@@ -1,0 +1,1317 @@
+{
+  "source_discussion": "https://github.com/Layr-Labs/heesch/discussions/75",
+  "source_gist": "https://gist.github.com/nasqret/598c8f7e05310294e5fc81b7af9b2e59",
+  "all_153_source_identities_verified": true,
+  "offset": 0,
+  "next_offset": 12,
+  "records": [
+    {
+      "source_index": 0,
+      "canonical_digest": "3cd935f791adbb998e18273e6a0a825f23f6210cbb20589427740f9caaeb5f16",
+      "cells": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          4,
+          5
+        ],
+        [
+          5,
+          4
+        ]
+      ],
+      "periodic_search": {
+        "status": "UNRESOLVED",
+        "lattices_tested": 163,
+        "certificate": null
+      },
+      "status": "UNSAT_EXPERIMENTAL_FORMULA",
+      "sat": {
+        "target_depth": 2,
+        "official_proof_gate_run": false,
+        "clauses_added": 406381,
+        "models_checked": 0,
+        "touch_graph_seconds": 0.8280000002123415,
+        "touch_graph_vertices": 6684,
+        "touch_graph_edges": 1023249,
+        "experimental_fast_graph": true,
+        "variables": 130785,
+        "universe_sizes": [
+          540,
+          6144
+        ],
+        "encode_seconds": 3.4840000001713634,
+        "status": "UNSAT_EXPERIMENTAL_FORMULA",
+        "seconds": 3.530999999959022
+      }
+    },
+    {
+      "source_index": 1,
+      "canonical_digest": "f8df9dc177363142ba2df27d279a12b78b974c40f2f66d9418841fc5036bd0f6",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "periodic_search": {
+        "status": "UNRESOLVED",
+        "lattices_tested": 153,
+        "certificate": null
+      },
+      "status": "VERIFIED_WITNESS",
+      "sat": {
+        "target_depth": 2,
+        "official_proof_gate_run": false,
+        "clauses_added": 327937,
+        "models_checked": 1,
+        "touch_graph_seconds": 0.5150000001303852,
+        "touch_graph_vertices": 5184,
+        "touch_graph_edges": 666237,
+        "experimental_fast_graph": true,
+        "variables": 106910,
+        "universe_sizes": [
+          472,
+          4712
+        ],
+        "encode_seconds": 2.4840000001713634,
+        "status": "VERIFIED_WITNESS",
+        "verified_depth": 2,
+        "seconds": 2.546000000089407
+      },
+      "witness": "results\\shapes\\discussion75-d2-f8df9dc177363142.heesch"
+    },
+    {
+      "source_index": 2,
+      "canonical_digest": "e6c3d8a54f3cab88778505849b5b2816f1022f52bc03c13e1e16fde0fe43e3a5",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          2
+        ]
+      ],
+      "periodic_search": {
+        "status": "UNRESOLVED",
+        "lattices_tested": 152,
+        "certificate": null
+      },
+      "status": "UNSAT_EXPERIMENTAL_FORMULA",
+      "sat": {
+        "target_depth": 2,
+        "official_proof_gate_run": false,
+        "clauses_added": 322548,
+        "models_checked": 0,
+        "touch_graph_seconds": 0.5309999999590218,
+        "touch_graph_vertices": 5389,
+        "touch_graph_edges": 711102,
+        "experimental_fast_graph": true,
+        "variables": 105874,
+        "universe_sizes": [
+          464,
+          4925
+        ],
+        "encode_seconds": 2.4369999999180436,
+        "status": "UNSAT_EXPERIMENTAL_FORMULA",
+        "seconds": 2.530999999959022
+      }
+    },
+    {
+      "source_index": 3,
+      "canonical_digest": "3bfe38b2d0ccbea33786265704138bc5be96577664db4a68d0a03272da5af051",
+      "cells": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          5,
+          1
+        ]
+      ],
+      "periodic_search": {
+        "status": "UNRESOLVED",
+        "lattices_tested": 157,
+        "certificate": null
+      },
+      "status": "UNSAT_EXPERIMENTAL_FORMULA",
+      "sat": {
+        "target_depth": 2,
+        "official_proof_gate_run": false,
+        "clauses_added": 334460,
+        "models_checked": 0,
+        "touch_graph_seconds": 0.5470000002533197,
+        "touch_graph_vertices": 5328,
+        "touch_graph_edges": 736795,
+        "experimental_fast_graph": true,
+        "variables": 110326,
+        "universe_sizes": [
+          504,
+          4824
+        ],
+        "encode_seconds": 2.625,
+        "status": "UNSAT_EXPERIMENTAL_FORMULA",
+        "seconds": 2.7179999998770654
+      }
+    },
+    {
+      "source_index": 4,
+      "canonical_digest": "a0a1976b2e8e6136f85c907e9c60963f8c85047bf07d6d1ddca2852822361aea",
+      "cells": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          3
+        ]
+      ],
+      "periodic_search": {
+        "status": "UNRESOLVED",
+        "lattices_tested": 148,
+        "certificate": null
+      },
+      "status": "UNSAT_EXPERIMENTAL_FORMULA",
+      "sat": {
+        "target_depth": 2,
+        "official_proof_gate_run": false,
+        "clauses_added": 324935,
+        "models_checked": 0,
+        "touch_graph_seconds": 0.5780000002123415,
+        "touch_graph_vertices": 5468,
+        "touch_graph_edges": 753086,
+        "experimental_fast_graph": true,
+        "variables": 107770,
+        "universe_sizes": [
+          476,
+          4992
+        ],
+        "encode_seconds": 2.530999999959022,
+        "status": "UNSAT_EXPERIMENTAL_FORMULA",
+        "seconds": 2.780999999959022
+      }
+    },
+    {
+      "source_index": 5,
+      "canonical_digest": "75da71e1d8a12f2c59d6955fc2d9db5514f3aedb00ec4598298bd5e7e2decf81",
+      "cells": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          4,
+          5
+        ],
+        [
+          5,
+          1
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          6,
+          1
+        ]
+      ],
+      "periodic_search": {
+        "status": "UNRESOLVED",
+        "lattices_tested": 159,
+        "certificate": null
+      },
+      "status": "UNSAT_EXPERIMENTAL_FORMULA",
+      "sat": {
+        "target_depth": 2,
+        "official_proof_gate_run": false,
+        "clauses_added": 424590,
+        "models_checked": 0,
+        "touch_graph_seconds": 0.8590000001713634,
+        "touch_graph_vertices": 6682,
+        "touch_graph_edges": 1046855,
+        "experimental_fast_graph": true,
+        "variables": 137614,
+        "universe_sizes": [
+          546,
+          6136
+        ],
+        "encode_seconds": 3.530999999959022,
+        "status": "UNSAT_EXPERIMENTAL_FORMULA",
+        "seconds": 3.6090000001713634
+      }
+    },
+    {
+      "source_index": 6,
+      "canonical_digest": "829a3b79eba05c840f1498936738ae3a2a1efff723766e31bbe56257e0e6a4ed",
+      "cells": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          3
+        ]
+      ],
+      "periodic_search": {
+        "status": "UNRESOLVED",
+        "lattices_tested": 145,
+        "certificate": null
+      },
+      "status": "UNSAT_EXPERIMENTAL_FORMULA",
+      "sat": {
+        "target_depth": 2,
+        "official_proof_gate_run": false,
+        "clauses_added": 337344,
+        "models_checked": 0,
+        "touch_graph_seconds": 0.546000000089407,
+        "touch_graph_vertices": 5398,
+        "touch_graph_edges": 703104,
+        "experimental_fast_graph": true,
+        "variables": 111696,
+        "universe_sizes": [
+          456,
+          4942
+        ],
+        "encode_seconds": 2.4220000002533197,
+        "status": "UNSAT_EXPERIMENTAL_FORMULA",
+        "seconds": 2.6090000001713634
+      }
+    },
+    {
+      "source_index": 7,
+      "canonical_digest": "f1e7a00e63a7a65b7555136495339da56fcb9447a82775fffd431e3a17037ee3",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "periodic_search": {
+        "status": "UNRESOLVED",
+        "lattices_tested": 155,
+        "certificate": null
+      },
+      "status": "UNSAT_EXPERIMENTAL_FORMULA",
+      "sat": {
+        "target_depth": 2,
+        "official_proof_gate_run": false,
+        "clauses_added": 341044,
+        "models_checked": 0,
+        "touch_graph_seconds": 0.6400000001303852,
+        "touch_graph_vertices": 5432,
+        "touch_graph_edges": 727395,
+        "experimental_fast_graph": true,
+        "variables": 112333,
+        "universe_sizes": [
+          484,
+          4948
+        ],
+        "encode_seconds": 2.890000000130385,
+        "status": "UNSAT_EXPERIMENTAL_FORMULA",
+        "seconds": 2.9220000002533197
+      }
+    },
+    {
+      "source_index": 8,
+      "canonical_digest": "bde28e34bad35867d59fbf1e2a1f432bfdeff7b3011f95877ab85f5847d14ece",
+      "cells": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          1
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          6,
+          0
+        ]
+      ],
+      "periodic_search": {
+        "status": "UNRESOLVED",
+        "lattices_tested": 156,
+        "certificate": null
+      },
+      "status": "UNSAT_EXPERIMENTAL_FORMULA",
+      "sat": {
+        "target_depth": 2,
+        "official_proof_gate_run": false,
+        "clauses_added": 339114,
+        "models_checked": 0,
+        "touch_graph_seconds": 0.5469999997876585,
+        "touch_graph_vertices": 5392,
+        "touch_graph_edges": 743302,
+        "experimental_fast_graph": true,
+        "variables": 111657,
+        "universe_sizes": [
+          504,
+          4888
+        ],
+        "encode_seconds": 2.625,
+        "status": "UNSAT_EXPERIMENTAL_FORMULA",
+        "seconds": 2.6869999999180436
+      }
+    },
+    {
+      "source_index": 9,
+      "canonical_digest": "e7c7d49cb3938a7bb56683aa296f6b5863775cd45a2f15cb52c340d4807babb8",
+      "cells": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          2
+        ]
+      ],
+      "periodic_search": {
+        "status": "UNRESOLVED",
+        "lattices_tested": 175,
+        "certificate": null
+      },
+      "status": "UNSAT_EXPERIMENTAL_FORMULA",
+      "sat": {
+        "target_depth": 2,
+        "official_proof_gate_run": false,
+        "clauses_added": 348334,
+        "models_checked": 0,
+        "touch_graph_seconds": 0.5630000000819564,
+        "touch_graph_vertices": 5487,
+        "touch_graph_edges": 756019,
+        "experimental_fast_graph": true,
+        "variables": 113390,
+        "universe_sizes": [
+          519,
+          4968
+        ],
+        "encode_seconds": 2.8119999999180436,
+        "status": "UNSAT_EXPERIMENTAL_FORMULA",
+        "seconds": 2.8279999997466803
+      }
+    },
+    {
+      "source_index": 10,
+      "canonical_digest": "06b7b7f51f6b1cc54ea2d08485c32ccb07c9e1d73819b30c106a05878403ff12",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          6,
+          3
+        ]
+      ],
+      "periodic_search": {
+        "status": "UNRESOLVED",
+        "lattices_tested": 168,
+        "certificate": null
+      },
+      "status": "UNSAT_EXPERIMENTAL_FORMULA",
+      "sat": {
+        "target_depth": 2,
+        "official_proof_gate_run": false,
+        "clauses_added": 492968,
+        "models_checked": 0,
+        "touch_graph_seconds": 1.0779999997466803,
+        "touch_graph_vertices": 7886,
+        "touch_graph_edges": 1320826,
+        "experimental_fast_graph": true,
+        "variables": 162773,
+        "universe_sizes": [
+          544,
+          7342
+        ],
+        "encode_seconds": 3.828999999910593,
+        "status": "UNSAT_EXPERIMENTAL_FORMULA",
+        "seconds": 3.844000000040978
+      }
+    },
+    {
+      "source_index": 11,
+      "canonical_digest": "79dfddc3b5817078461cb1f1a98e620d22bdbc95c33fb95dfa1bba017e516a53",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          5,
+          1
+        ],
+        [
+          5,
+          2
+        ]
+      ],
+      "periodic_search": {
+        "status": "UNRESOLVED",
+        "lattices_tested": 153,
+        "certificate": null
+      },
+      "status": "UNSAT_EXPERIMENTAL_FORMULA",
+      "sat": {
+        "target_depth": 2,
+        "official_proof_gate_run": false,
+        "clauses_added": 325918,
+        "models_checked": 0,
+        "touch_graph_seconds": 0.5630000000819564,
+        "touch_graph_vertices": 5433,
+        "touch_graph_edges": 777868,
+        "experimental_fast_graph": true,
+        "variables": 106922,
+        "universe_sizes": [
+          505,
+          4928
+        ],
+        "encode_seconds": 2.6570000001229346,
+        "status": "UNSAT_EXPERIMENTAL_FORMULA",
+        "seconds": 2.6880000000819564
+      }
+    }
+  ],
+  "official_proof_gate_run": false,
+  "scope": "Bounded independent follow-up. SAT UNSAT reports are not official proof certificates."
+}

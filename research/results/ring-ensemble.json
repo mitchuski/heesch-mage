@@ -1,0 +1,221 @@
+{
+  "scope": "First three rings fixed, fourth ring varied; bounded search",
+  "search_status": "ENSEMBLE_LIMIT",
+  "elapsed_seconds": 10.518711499869823,
+  "ring4_candidate_placements": 1761,
+  "distinct_ring4_patches_tested": 30,
+  "winner": false,
+  "proof_gate_run": false,
+  "records": [
+    {
+      "ring4_tiles": 31,
+      "required5": 254,
+      "budget": 2,
+      "status": "EXHAUSTED",
+      "nodes": 8895
+    },
+    {
+      "ring4_tiles": 30,
+      "required5": 235,
+      "budget": 2,
+      "status": "EXHAUSTED",
+      "nodes": 5924
+    },
+    {
+      "ring4_tiles": 30,
+      "required5": 233,
+      "budget": 2,
+      "status": "EXHAUSTED",
+      "nodes": 4939
+    },
+    {
+      "ring4_tiles": 31,
+      "required5": 249,
+      "budget": 2,
+      "status": "EXHAUSTED",
+      "nodes": 1
+    },
+    {
+      "ring4_tiles": 31,
+      "required5": 251,
+      "budget": 2,
+      "status": "EXHAUSTED",
+      "nodes": 131
+    },
+    {
+      "ring4_tiles": 31,
+      "required5": 252,
+      "budget": 2,
+      "status": "EXHAUSTED",
+      "nodes": 2779
+    },
+    {
+      "ring4_tiles": 31,
+      "required5": 245,
+      "budget": 2,
+      "status": "EXHAUSTED",
+      "nodes": 5
+    },
+    {
+      "ring4_tiles": 31,
+      "required5": 245,
+      "budget": 2,
+      "status": "EXHAUSTED",
+      "nodes": 5
+    },
+    {
+      "ring4_tiles": 31,
+      "required5": 252,
+      "budget": 2,
+      "status": "EXHAUSTED",
+      "nodes": 6026
+    },
+    {
+      "ring4_tiles": 30,
+      "required5": 235,
+      "budget": 2,
+      "status": "EXHAUSTED",
+      "nodes": 7768
+    },
+    {
+      "ring4_tiles": 31,
+      "required5": 253,
+      "budget": 2,
+      "status": "EXHAUSTED",
+      "nodes": 1021
+    },
+    {
+      "ring4_tiles": 31,
+      "required5": 252,
+      "budget": 2,
+      "status": "EXHAUSTED",
+      "nodes": 1
+    },
+    {
+      "ring4_tiles": 31,
+      "required5": 249,
+      "budget": 2,
+      "status": "EXHAUSTED",
+      "nodes": 1
+    },
+    {
+      "ring4_tiles": 32,
+      "required5": 265,
+      "budget": 3,
+      "status": "EXHAUSTED",
+      "nodes": 1
+    },
+    {
+      "ring4_tiles": 32,
+      "required5": 267,
+      "budget": 3,
+      "status": "EXHAUSTED",
+      "nodes": 5
+    },
+    {
+      "ring4_tiles": 32,
+      "required5": 269,
+      "budget": 3,
+      "status": "EXHAUSTED",
+      "nodes": 1
+    },
+    {
+      "ring4_tiles": 32,
+      "required5": 264,
+      "budget": 3,
+      "status": "EXHAUSTED",
+      "nodes": 1
+    },
+    {
+      "ring4_tiles": 32,
+      "required5": 269,
+      "budget": 3,
+      "status": "EXHAUSTED",
+      "nodes": 1
+    },
+    {
+      "ring4_tiles": 33,
+      "required5": 267,
+      "budget": 3,
+      "status": "EXHAUSTED",
+      "nodes": 1
+    },
+    {
+      "ring4_tiles": 31,
+      "required5": 252,
+      "budget": 2,
+      "status": "EXHAUSTED",
+      "nodes": 198
+    },
+    {
+      "ring4_tiles": 32,
+      "required5": 265,
+      "budget": 3,
+      "status": "EXHAUSTED",
+      "nodes": 65
+    },
+    {
+      "ring4_tiles": 31,
+      "required5": 251,
+      "budget": 2,
+      "status": "EXHAUSTED",
+      "nodes": 3588
+    },
+    {
+      "ring4_tiles": 31,
+      "required5": 251,
+      "budget": 2,
+      "status": "EXHAUSTED",
+      "nodes": 369
+    },
+    {
+      "ring4_tiles": 32,
+      "required5": 267,
+      "budget": 3,
+      "status": "EXHAUSTED",
+      "nodes": 5
+    },
+    {
+      "ring4_tiles": 32,
+      "required5": 269,
+      "budget": 3,
+      "status": "EXHAUSTED",
+      "nodes": 23
+    },
+    {
+      "ring4_tiles": 32,
+      "required5": 261,
+      "budget": 3,
+      "status": "UNKNOWN_TIMEOUT",
+      "nodes": 257
+    },
+    {
+      "ring4_tiles": 32,
+      "required5": 254,
+      "budget": 2,
+      "status": "EXHAUSTED",
+      "nodes": 5
+    },
+    {
+      "ring4_tiles": 32,
+      "required5": 254,
+      "budget": 2,
+      "status": "EXHAUSTED",
+      "nodes": 5
+    },
+    {
+      "ring4_tiles": 32,
+      "required5": 261,
+      "budget": 3,
+      "status": "UNKNOWN_TIMEOUT",
+      "nodes": 513
+    },
+    {
+      "ring4_tiles": 31,
+      "required5": 251,
+      "budget": 2,
+      "status": "EXHAUSTED",
+      "nodes": 849
+    }
+  ]
+}

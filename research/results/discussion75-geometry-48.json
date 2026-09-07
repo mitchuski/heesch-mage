@@ -1,0 +1,437 @@
+{
+  "records": [
+    {
+      "source_index": 48,
+      "canonical_digest": "823a8a35e0fd9d443d4a67ba79136fc338a8535c0678c912ec719344aadedb99",
+      "screen": {
+        "status": "UNKNOWN_TIMEOUT",
+        "depth": 2,
+        "seconds": 1.0000609001144767,
+        "search_nodes_completed_subcalls": 698,
+        "expansions_by_remaining_depth": {
+          "2": 1,
+          "1": 59
+        },
+        "cached_failed_patches": 59,
+        "relaxed_witness": null,
+        "official_non_tiler_certificate": false
+      },
+      "verified_depth": 0
+    },
+    {
+      "source_index": 49,
+      "canonical_digest": "85b12d1209dcd3d24679e38efca29a3cfe277c8cee234fb714129fbcd648ce51",
+      "screen": {
+        "status": "UNKNOWN_TIMEOUT",
+        "depth": 2,
+        "seconds": 1.0119596002623439,
+        "search_nodes_completed_subcalls": 333,
+        "expansions_by_remaining_depth": {
+          "2": 1,
+          "1": 38
+        },
+        "cached_failed_patches": 38,
+        "relaxed_witness": null,
+        "official_non_tiler_certificate": false
+      },
+      "verified_depth": 0
+    },
+    {
+      "source_index": 50,
+      "canonical_digest": "8d4a730e5046e50de69c0b7517a75c3d2bd34386bca10d3dc912b85e856b5244",
+      "screen": {
+        "status": "UNKNOWN_TIMEOUT",
+        "depth": 2,
+        "seconds": 1.0101184998638928,
+        "search_nodes_completed_subcalls": 229,
+        "expansions_by_remaining_depth": {
+          "2": 1,
+          "1": 41
+        },
+        "cached_failed_patches": 41,
+        "relaxed_witness": null,
+        "official_non_tiler_certificate": false
+      },
+      "verified_depth": 0
+    },
+    {
+      "source_index": 51,
+      "canonical_digest": "3eca6f5781959804c19a5fd3e819c3805a78d9aa80701a37a5619594a4b8be53",
+      "screen": {
+        "status": "UNKNOWN_TIMEOUT",
+        "depth": 2,
+        "seconds": 1.0210639997385442,
+        "search_nodes_completed_subcalls": 265,
+        "expansions_by_remaining_depth": {
+          "2": 1,
+          "1": 28
+        },
+        "cached_failed_patches": 28,
+        "relaxed_witness": null,
+        "official_non_tiler_certificate": false
+      },
+      "verified_depth": 0
+    },
+    {
+      "source_index": 52,
+      "canonical_digest": "1da119da3f6c870081927502fb788745d7e2878a5bbddd4a9736b4267c256e06",
+      "screen": {
+        "status": "UNKNOWN_TIMEOUT",
+        "depth": 2,
+        "seconds": 1.0148076000623405,
+        "search_nodes_completed_subcalls": 97,
+        "expansions_by_remaining_depth": {
+          "2": 1,
+          "1": 34
+        },
+        "cached_failed_patches": 34,
+        "relaxed_witness": null,
+        "official_non_tiler_certificate": false
+      },
+      "verified_depth": 0
+    },
+    {
+      "source_index": 53,
+      "canonical_digest": "f49c93153999aa52727a430f3ed7265def50d26ca126d4623f361a190c0c23f6",
+      "screen": {
+        "status": "UNKNOWN_TIMEOUT",
+        "depth": 2,
+        "seconds": 1.0155632998794317,
+        "search_nodes_completed_subcalls": 246,
+        "expansions_by_remaining_depth": {
+          "2": 1,
+          "1": 35
+        },
+        "cached_failed_patches": 35,
+        "relaxed_witness": null,
+        "official_non_tiler_certificate": false
+      },
+      "verified_depth": 0
+    },
+    {
+      "source_index": 54,
+      "canonical_digest": "568538b3d4452e1a2d5cdd5f82aba0b248836326b722774d6554d8f5a3c3f152",
+      "screen": {
+        "status": "UNKNOWN_TIMEOUT",
+        "depth": 2,
+        "seconds": 1.0148280998691916,
+        "search_nodes_completed_subcalls": 261,
+        "expansions_by_remaining_depth": {
+          "2": 1,
+          "1": 35
+        },
+        "cached_failed_patches": 35,
+        "relaxed_witness": null,
+        "official_non_tiler_certificate": false
+      },
+      "verified_depth": 0
+    },
+    {
+      "source_index": 55,
+      "canonical_digest": "d63c995324c0978dd48de2e5be9b4d4a5d943da606d91a8669a62f21bc2cd62d",
+      "screen": {
+        "status": "UNKNOWN_TIMEOUT",
+        "depth": 2,
+        "seconds": 1.005320300348103,
+        "search_nodes_completed_subcalls": 94,
+        "expansions_by_remaining_depth": {
+          "2": 1,
+          "1": 26
+        },
+        "cached_failed_patches": 26,
+        "relaxed_witness": null,
+        "official_non_tiler_certificate": false
+      },
+      "verified_depth": 0
+    },
+    {
+      "source_index": 56,
+      "canonical_digest": "837c84f9b629174de6d8ff8ee8add652f8b10a66b6b0464fffa935c2177627e5",
+      "screen": {
+        "status": "UNKNOWN_TIMEOUT",
+        "depth": 2,
+        "seconds": 1.00095280027017,
+        "search_nodes_completed_subcalls": 209,
+        "expansions_by_remaining_depth": {
+          "2": 1,
+          "1": 32
+        },
+        "cached_failed_patches": 32,
+        "relaxed_witness": null,
+        "official_non_tiler_certificate": false
+      },
+      "verified_depth": 0
+    },
+    {
+      "source_index": 57,
+      "canonical_digest": "f27bbddbdc697c0f4b03c3fb5d84e2efc7944a499edade7d17fb24f45e906523",
+      "screen": {
+        "status": "UNKNOWN_TIMEOUT",
+        "depth": 2,
+        "seconds": 1.0000483002513647,
+        "search_nodes_completed_subcalls": 146,
+        "expansions_by_remaining_depth": {
+          "2": 1,
+          "1": 36
+        },
+        "cached_failed_patches": 36,
+        "relaxed_witness": null,
+        "official_non_tiler_certificate": false
+      },
+      "verified_depth": 0
+    },
+    {
+      "source_index": 58,
+      "canonical_digest": "0d40ea92a7707604a0dc3c1e5b2d18f9f4791ff9f9ec8ba8d78d74a738912fbd",
+      "screen": {
+        "status": "UNKNOWN_TIMEOUT",
+        "depth": 2,
+        "seconds": 1.0025661997497082,
+        "search_nodes_completed_subcalls": 239,
+        "expansions_by_remaining_depth": {
+          "2": 1,
+          "1": 31
+        },
+        "cached_failed_patches": 31,
+        "relaxed_witness": null,
+        "official_non_tiler_certificate": false
+      },
+      "verified_depth": 0
+    },
+    {
+      "source_index": 59,
+      "canonical_digest": "569305a126fd81b82e4ba01ff74fafb8e0c0e40d9dd266a63f763d417792b7d4",
+      "screen": {
+        "status": "UNKNOWN_TIMEOUT",
+        "depth": 2,
+        "seconds": 1.0035369996912777,
+        "search_nodes_completed_subcalls": 1156,
+        "expansions_by_remaining_depth": {
+          "2": 1,
+          "1": 36
+        },
+        "cached_failed_patches": 36,
+        "relaxed_witness": null,
+        "official_non_tiler_certificate": false
+      },
+      "verified_depth": 0
+    },
+    {
+      "source_index": 60,
+      "canonical_digest": "a48d041d158ab1325744b04fb1d009d0cbfbf9230fd516e8ccbfeac8b0fac00d",
+      "screen": {
+        "status": "UNKNOWN_TIMEOUT",
+        "depth": 2,
+        "seconds": 1.0044412002898753,
+        "search_nodes_completed_subcalls": 282,
+        "expansions_by_remaining_depth": {
+          "2": 1,
+          "1": 34
+        },
+        "cached_failed_patches": 34,
+        "relaxed_witness": null,
+        "official_non_tiler_certificate": false
+      },
+      "verified_depth": 0
+    },
+    {
+      "source_index": 61,
+      "canonical_digest": "ff1db566689d0ee401bb5f18aed9b5ae8a72f61fd5562eca71c7106d0d848555",
+      "screen": {
+        "status": "UNKNOWN_TIMEOUT",
+        "depth": 2,
+        "seconds": 1.014851300045848,
+        "search_nodes_completed_subcalls": 116,
+        "expansions_by_remaining_depth": {
+          "2": 1,
+          "1": 36
+        },
+        "cached_failed_patches": 36,
+        "relaxed_witness": null,
+        "official_non_tiler_certificate": false
+      },
+      "verified_depth": 0
+    },
+    {
+      "source_index": 62,
+      "canonical_digest": "2bcb5c9be4ee4259ba7ae72a44b108a08a11e3d100c557c5efb2663b19349278",
+      "screen": {
+        "status": "UNKNOWN_TIMEOUT",
+        "depth": 2,
+        "seconds": 1.001709799747914,
+        "search_nodes_completed_subcalls": 177,
+        "expansions_by_remaining_depth": {
+          "2": 1,
+          "1": 37
+        },
+        "cached_failed_patches": 37,
+        "relaxed_witness": null,
+        "official_non_tiler_certificate": false
+      },
+      "verified_depth": 0
+    },
+    {
+      "source_index": 63,
+      "canonical_digest": "59784f0b60d9eabd5025f1aa91125be328eaa31d74804ddb4f3bab240ffb033d",
+      "screen": {
+        "status": "UNKNOWN_TIMEOUT",
+        "depth": 2,
+        "seconds": 1.011228000279516,
+        "search_nodes_completed_subcalls": 160,
+        "expansions_by_remaining_depth": {
+          "2": 1,
+          "1": 27
+        },
+        "cached_failed_patches": 27,
+        "relaxed_witness": null,
+        "official_non_tiler_certificate": false
+      },
+      "verified_depth": 0
+    },
+    {
+      "source_index": 64,
+      "canonical_digest": "41aa95ba14ccf9c955183e9af3c3b3d7ce1ca11a952280ae11261aca0ecbc56f",
+      "screen": {
+        "status": "UNKNOWN_TIMEOUT",
+        "depth": 2,
+        "seconds": 1.0028185998089612,
+        "search_nodes_completed_subcalls": 160,
+        "expansions_by_remaining_depth": {
+          "2": 1,
+          "1": 23
+        },
+        "cached_failed_patches": 23,
+        "relaxed_witness": null,
+        "official_non_tiler_certificate": false
+      },
+      "verified_depth": 0
+    },
+    {
+      "source_index": 65,
+      "canonical_digest": "84111c9dc74e92efc392cc4802bc589b801a544b0ead7829b2fa111a9c7fbf78",
+      "screen": {
+        "status": "UNKNOWN_TIMEOUT",
+        "depth": 2,
+        "seconds": 1.0062140999361873,
+        "search_nodes_completed_subcalls": 278,
+        "expansions_by_remaining_depth": {
+          "2": 1,
+          "1": 33
+        },
+        "cached_failed_patches": 33,
+        "relaxed_witness": null,
+        "official_non_tiler_certificate": false
+      },
+      "verified_depth": 0
+    },
+    {
+      "source_index": 66,
+      "canonical_digest": "ae753e0892164ad4b3c6308556f3df21b491fcd2e3dbce1a89ae97e9824991e3",
+      "screen": {
+        "status": "UNKNOWN_TIMEOUT",
+        "depth": 2,
+        "seconds": 1.028541499748826,
+        "search_nodes_completed_subcalls": 433,
+        "expansions_by_remaining_depth": {
+          "2": 1,
+          "1": 37
+        },
+        "cached_failed_patches": 37,
+        "relaxed_witness": null,
+        "official_non_tiler_certificate": false
+      },
+      "verified_depth": 0
+    },
+    {
+      "source_index": 67,
+      "canonical_digest": "16bc44f1a18b6f8fa96ee0d95c1b466b50e4e3910479e58f026cda0d6751ff30",
+      "screen": {
+        "status": "UNKNOWN_TIMEOUT",
+        "depth": 2,
+        "seconds": 1.0255303997546434,
+        "search_nodes_completed_subcalls": 213,
+        "expansions_by_remaining_depth": {
+          "2": 1,
+          "1": 34
+        },
+        "cached_failed_patches": 34,
+        "relaxed_witness": null,
+        "official_non_tiler_certificate": false
+      },
+      "verified_depth": 0
+    },
+    {
+      "source_index": 68,
+      "canonical_digest": "5bfbf0aa6fc19feda0eaa9c9d9457c42a0da2f07fd8e5254dc4ae0c8709b83de",
+      "screen": {
+        "status": "UNKNOWN_TIMEOUT",
+        "depth": 2,
+        "seconds": 1.0022446997463703,
+        "search_nodes_completed_subcalls": 746,
+        "expansions_by_remaining_depth": {
+          "2": 1,
+          "1": 41
+        },
+        "cached_failed_patches": 41,
+        "relaxed_witness": null,
+        "official_non_tiler_certificate": false
+      },
+      "verified_depth": 0
+    },
+    {
+      "source_index": 69,
+      "canonical_digest": "fb744edab03aaeac59454cc1fc46e959747b4bc9543520b43465fb490aef2a3b",
+      "screen": {
+        "status": "UNKNOWN_TIMEOUT",
+        "depth": 2,
+        "seconds": 1.0042723002843559,
+        "search_nodes_completed_subcalls": 162,
+        "expansions_by_remaining_depth": {
+          "2": 1,
+          "1": 32
+        },
+        "cached_failed_patches": 32,
+        "relaxed_witness": null,
+        "official_non_tiler_certificate": false
+      },
+      "verified_depth": 0
+    },
+    {
+      "source_index": 70,
+      "canonical_digest": "3311295a39f4a89a7cf80ef9f56212df374386c703c75c3d9f5aea2012cfded1",
+      "screen": {
+        "status": "UNKNOWN_TIMEOUT",
+        "depth": 2,
+        "seconds": 1.0258802003227174,
+        "search_nodes_completed_subcalls": 120,
+        "expansions_by_remaining_depth": {
+          "2": 1,
+          "1": 29
+        },
+        "cached_failed_patches": 29,
+        "relaxed_witness": null,
+        "official_non_tiler_certificate": false
+      },
+      "verified_depth": 0
+    },
+    {
+      "source_index": 71,
+      "canonical_digest": "0ec4ae162cd775c477ddfb515c71acbb567492b08f7e79edfe67e0a9f9907b6f",
+      "screen": {
+        "status": "UNKNOWN_TIMEOUT",
+        "depth": 2,
+        "seconds": 1.0303457002155483,
+        "search_nodes_completed_subcalls": 1108,
+        "expansions_by_remaining_depth": {
+          "2": 1,
+          "1": 36
+        },
+        "cached_failed_patches": 36,
+        "relaxed_witness": null,
+        "official_non_tiler_certificate": false
+      },
+      "verified_depth": 0
+    }
+  ],
+  "scope": "Bounded relaxed geometry search; positives independently checked. No official non-tiler certificates."
+}

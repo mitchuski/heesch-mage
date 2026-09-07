@@ -1,0 +1,9 @@
+{
+  "exact_row_identities_checked": 80,
+  "candidate_variables": 44,
+  "geometric_matrices_independently_rebuilt": true,
+  "matrix_entries_checked": 3520,
+  "baseline_occupancy_passed": true,
+  "claim": "B=C*A checked exactly: preserving this protected occupancy forces this periodic partition.",
+  "official_non_tiler_proof": false
+}

@@ -1,0 +1,4412 @@
+{
+  "records": [
+    {
+      "source_witness": "results\\shapes\\sat-d3-frontier-15hex-b.heesch",
+      "source_depth": 3,
+      "protected_cells": 172,
+      "boundary_candidates": 23,
+      "search_sizes": [
+        {
+          "exchanged_cells": 1,
+          "removal_sets": 15,
+          "addition_sets": 23
+        },
+        {
+          "exchanged_cells": 2,
+          "removal_sets": 105,
+          "addition_sets": 253
+        }
+      ],
+      "signature_matches": 0,
+      "legal_new_shapes": 0,
+      "verified_deep_shapes": 0,
+      "rejections": {},
+      "candidates": [],
+      "seconds": 0.02666450012475252
+    },
+    {
+      "source_witness": "results\\shapes\\sat-d3-hex11-kaplan-hc4hh4.heesch",
+      "source_depth": 3,
+      "protected_cells": 135,
+      "boundary_candidates": 21,
+      "search_sizes": [
+        {
+          "exchanged_cells": 1,
+          "removal_sets": 11,
+          "addition_sets": 21
+        },
+        {
+          "exchanged_cells": 2,
+          "removal_sets": 55,
+          "addition_sets": 210
+        }
+      ],
+      "signature_matches": 0,
+      "legal_new_shapes": 0,
+      "verified_deep_shapes": 0,
+      "rejections": {},
+      "candidates": [],
+      "seconds": 0.01904899999499321
+    },
+    {
+      "source_witness": "results\\shapes\\sat-d3-hex13-kaplan-hc4hh4.heesch",
+      "source_depth": 3,
+      "protected_cells": 147,
+      "boundary_candidates": 20,
+      "search_sizes": [
+        {
+          "exchanged_cells": 1,
+          "removal_sets": 13,
+          "addition_sets": 20
+        },
+        {
+          "exchanged_cells": 2,
+          "removal_sets": 78,
+          "addition_sets": 190
+        }
+      ],
+      "signature_matches": 0,
+      "legal_new_shapes": 0,
+      "verified_deep_shapes": 0,
+      "rejections": {},
+      "candidates": [],
+      "seconds": 0.01755379978567362
+    },
+    {
+      "source_witness": "results\\shapes\\sat-d3-hex15-kaplan-hc4hh4-a.heesch",
+      "source_depth": 3,
+      "protected_cells": 140,
+      "boundary_candidates": 20,
+      "search_sizes": [
+        {
+          "exchanged_cells": 1,
+          "removal_sets": 15,
+          "addition_sets": 20
+        },
+        {
+          "exchanged_cells": 2,
+          "removal_sets": 105,
+          "addition_sets": 190
+        }
+      ],
+      "signature_matches": 0,
+      "legal_new_shapes": 0,
+      "verified_deep_shapes": 0,
+      "rejections": {},
+      "candidates": [],
+      "seconds": 0.018196099903434515
+    },
+    {
+      "source_witness": "results\\shapes\\sat-d3-hex16-kaplan-hc4hh4.heesch",
+      "source_depth": 3,
+      "protected_cells": 147,
+      "boundary_candidates": 24,
+      "search_sizes": [
+        {
+          "exchanged_cells": 1,
+          "removal_sets": 16,
+          "addition_sets": 24
+        },
+        {
+          "exchanged_cells": 2,
+          "removal_sets": 120,
+          "addition_sets": 276
+        }
+      ],
+      "signature_matches": 0,
+      "legal_new_shapes": 0,
+      "verified_deep_shapes": 0,
+      "rejections": {},
+      "candidates": [],
+      "seconds": 0.023518600035458803
+    },
+    {
+      "source_witness": "results\\shapes\\discussion75-d3-f8df9dc177363142.heesch",
+      "source_depth": 3,
+      "protected_cells": 205,
+      "boundary_candidates": 24,
+      "search_sizes": [
+        {
+          "exchanged_cells": 1,
+          "removal_sets": 20,
+          "addition_sets": 24
+        },
+        {
+          "exchanged_cells": 2,
+          "removal_sets": 190,
+          "addition_sets": 276
+        }
+      ],
+      "signature_matches": 45,
+      "legal_new_shapes": 30,
+      "verified_deep_shapes": 29,
+      "rejections": {
+        "PATCH_LEVEL_MISMATCH": 1
+      },
+      "candidates": [
+        {
+          "canonical_digest": "951c6706e1f62c40c7a102dce6a20b23cfda43904102a1e7dd6541e07509ff5a",
+          "cells": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              2
+            ],
+            [
+              0,
+              5
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              1,
+              3
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              1
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              2,
+              3
+            ],
+            [
+              2,
+              4
+            ],
+            [
+              3,
+              1
+            ],
+            [
+              3,
+              2
+            ],
+            [
+              3,
+              3
+            ],
+            [
+              3,
+              4
+            ],
+            [
+              4,
+              0
+            ],
+            [
+              4,
+              1
+            ],
+            [
+              4,
+              3
+            ],
+            [
+              5,
+              0
+            ]
+          ],
+          "removed": [
+            [
+              0,
+              3
+            ]
+          ],
+          "added": [
+            [
+              5,
+              0
+            ]
+          ],
+          "verified_depth": 3,
+          "witness": "results\\shapes\\inverse-951c6706e1f62c40.heesch",
+          "periodic_search": {
+            "status": "PERIODIC_TILER",
+            "seconds": 0.010144999716430902,
+            "lattices_tested": 5,
+            "certificate": {
+              "lattice_basis": [
+                [
+                  8,
+                  0
+                ],
+                [
+                  2,
+                  10
+                ]
+              ],
+              "copies_per_period": 4,
+              "placements": [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  3,
+                  0,
+                  5
+                ],
+                [
+                  0,
+                  5,
+                  5
+                ],
+                [
+                  3,
+                  3,
+                  0
+                ]
+              ],
+              "residue_partition_checked": true
+            }
+          }
+        },
+        {
+          "canonical_digest": "476d55fd7e2af4045f04e04261e711fcfa7bafe47dc214c3b229f53abeacce0b",
+          "cells": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              2
+            ],
+            [
+              0,
+              3
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              1,
+              3
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              1
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              2,
+              3
+            ],
+            [
+              2,
+              4
+            ],
+            [
+              3,
+              0
+            ],
+            [
+              3,
+              1
+            ],
+            [
+              3,
+              2
+            ],
+            [
+              3,
+              3
+            ],
+            [
+              3,
+              4
+            ],
+            [
+              4,
+              0
+            ],
+            [
+              4,
+              1
+            ],
+            [
+              4,
+              3
+            ]
+          ],
+          "removed": [
+            [
+              0,
+              5
+            ]
+          ],
+          "added": [
+            [
+              3,
+              0
+            ]
+          ],
+          "verified_depth": 3,
+          "witness": "results\\shapes\\inverse-476d55fd7e2af404.heesch",
+          "periodic_search": {
+            "status": "PERIODIC_TILER",
+            "seconds": 0.22887360025197268,
+            "lattices_tested": 67,
+            "certificate": {
+              "lattice_basis": [
+                [
+                  40,
+                  0
+                ],
+                [
+                  18,
+                  2
+                ]
+              ],
+              "copies_per_period": 4,
+              "placements": [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  3,
+                  3,
+                  0
+                ],
+                [
+                  3,
+                  12,
+                  1
+                ],
+                [
+                  0,
+                  9,
+                  1
+                ]
+              ],
+              "residue_partition_checked": true
+            }
+          }
+        },
+        {
+          "canonical_digest": "403457974c25d0dd5da5c02ee1942e1bbc9ea45f08a0ed6d6ab74ee7ebc5d9d5",
+          "cells": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              2
+            ],
+            [
+              0,
+              3
+            ],
+            [
+              0,
+              5
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              1
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              2,
+              3
+            ],
+            [
+              2,
+              4
+            ],
+            [
+              3,
+              1
+            ],
+            [
+              3,
+              2
+            ],
+            [
+              3,
+              3
+            ],
+            [
+              3,
+              4
+            ],
+            [
+              4,
+              0
+            ],
+            [
+              4,
+              1
+            ],
+            [
+              4,
+              3
+            ],
+            [
+              5,
+              -1
+            ]
+          ],
+          "removed": [
+            [
+              1,
+              3
+            ]
+          ],
+          "added": [
+            [
+              5,
+              -1
+            ]
+          ],
+          "verified_depth": 3,
+          "witness": "results\\shapes\\inverse-403457974c25d0dd.heesch",
+          "periodic_search": {
+            "status": "PERIODIC_TILER",
+            "seconds": 0.2266623000614345,
+            "lattices_tested": 77,
+            "certificate": {
+              "lattice_basis": [
+                [
+                  80,
+                  0
+                ],
+                [
+                  9,
+                  1
+                ]
+              ],
+              "copies_per_period": 4,
+              "placements": [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  9,
+                  8,
+                  0
+                ],
+                [
+                  6,
+                  35,
+                  0
+                ],
+                [
+                  3,
+                  43,
+                  0
+                ]
+              ],
+              "residue_partition_checked": true
+            }
+          }
+        },
+        {
+          "canonical_digest": "3c44a83ef01d4abfa459e636257fe5aabe4cc80f03c3024da527883f9636dd0b",
+          "cells": [
+            [
+              -1,
+              6
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              2
+            ],
+            [
+              0,
+              3
+            ],
+            [
+              0,
+              5
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              1,
+              3
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              2,
+              3
+            ],
+            [
+              2,
+              4
+            ],
+            [
+              3,
+              1
+            ],
+            [
+              3,
+              2
+            ],
+            [
+              3,
+              3
+            ],
+            [
+              3,
+              4
+            ],
+            [
+              4,
+              0
+            ],
+            [
+              4,
+              1
+            ],
+            [
+              4,
+              3
+            ]
+          ],
+          "removed": [
+            [
+              2,
+              1
+            ]
+          ],
+          "added": [
+            [
+              -1,
+              6
+            ]
+          ],
+          "verified_depth": 3,
+          "witness": "results\\shapes\\inverse-3c44a83ef01d4abf.heesch",
+          "periodic_search": {
+            "status": "PERIODIC_TILER",
+            "seconds": 0.2223272998817265,
+            "lattices_tested": 78,
+            "certificate": {
+              "lattice_basis": [
+                [
+                  80,
+                  0
+                ],
+                [
+                  9,
+                  1
+                ]
+              ],
+              "copies_per_period": 4,
+              "placements": [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  3,
+                  43,
+                  0
+                ],
+                [
+                  6,
+                  35,
+                  0
+                ],
+                [
+                  9,
+                  8,
+                  0
+                ]
+              ],
+              "residue_partition_checked": true
+            }
+          }
+        },
+        {
+          "canonical_digest": "7b3051732c5fba87c32555c1af62cbffe23f653e23e0119d080e3a4de60db346",
+          "cells": [
+            [
+              -1,
+              5
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              2
+            ],
+            [
+              0,
+              3
+            ],
+            [
+              0,
+              5
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              1,
+              3
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              1
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              2,
+              3
+            ],
+            [
+              2,
+              4
+            ],
+            [
+              3,
+              2
+            ],
+            [
+              3,
+              3
+            ],
+            [
+              3,
+              4
+            ],
+            [
+              4,
+              0
+            ],
+            [
+              4,
+              1
+            ],
+            [
+              4,
+              3
+            ]
+          ],
+          "removed": [
+            [
+              3,
+              1
+            ]
+          ],
+          "added": [
+            [
+              -1,
+              5
+            ]
+          ],
+          "verified_depth": 3,
+          "witness": "results\\shapes\\inverse-7b3051732c5fba87.heesch",
+          "periodic_search": {
+            "status": "PERIODIC_TILER",
+            "seconds": 0.2071600998751819,
+            "lattices_tested": 78,
+            "certificate": {
+              "lattice_basis": [
+                [
+                  80,
+                  0
+                ],
+                [
+                  9,
+                  1
+                ]
+              ],
+              "copies_per_period": 4,
+              "placements": [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  9,
+                  8,
+                  0
+                ],
+                [
+                  6,
+                  35,
+                  0
+                ],
+                [
+                  3,
+                  43,
+                  0
+                ]
+              ],
+              "residue_partition_checked": true
+            }
+          }
+        },
+        {
+          "canonical_digest": "fce39aa95a5d0a1809ad62dd876b24a4714e8cc50af43e245b4cc3925b3b6d4e",
+          "cells": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              2
+            ],
+            [
+              0,
+              3
+            ],
+            [
+              0,
+              4
+            ],
+            [
+              0,
+              5
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              1,
+              3
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              1
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              2,
+              3
+            ],
+            [
+              2,
+              4
+            ],
+            [
+              3,
+              1
+            ],
+            [
+              3,
+              2
+            ],
+            [
+              3,
+              3
+            ],
+            [
+              3,
+              4
+            ],
+            [
+              4,
+              1
+            ],
+            [
+              4,
+              3
+            ]
+          ],
+          "removed": [
+            [
+              4,
+              0
+            ]
+          ],
+          "added": [
+            [
+              0,
+              4
+            ]
+          ],
+          "verified_depth": 3,
+          "witness": "results\\shapes\\inverse-fce39aa95a5d0a18.heesch",
+          "periodic_search": {
+            "status": "PERIODIC_TILER",
+            "seconds": 0.2872876999899745,
+            "lattices_tested": 83,
+            "certificate": {
+              "lattice_basis": [
+                [
+                  80,
+                  0
+                ],
+                [
+                  9,
+                  1
+                ]
+              ],
+              "copies_per_period": 4,
+              "placements": [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  3,
+                  43,
+                  0
+                ],
+                [
+                  6,
+                  35,
+                  0
+                ],
+                [
+                  9,
+                  8,
+                  0
+                ]
+              ],
+              "residue_partition_checked": true
+            }
+          }
+        },
+        {
+          "canonical_digest": "aa03827e99bf85ed2268ab4af5482940b7d3e576e62b7c81042f06b5174b450a",
+          "cells": [
+            [
+              -1,
+              4
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              2
+            ],
+            [
+              0,
+              3
+            ],
+            [
+              0,
+              5
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              1,
+              3
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              1
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              2,
+              3
+            ],
+            [
+              2,
+              4
+            ],
+            [
+              3,
+              1
+            ],
+            [
+              3,
+              2
+            ],
+            [
+              3,
+              3
+            ],
+            [
+              3,
+              4
+            ],
+            [
+              4,
+              0
+            ],
+            [
+              4,
+              3
+            ]
+          ],
+          "removed": [
+            [
+              4,
+              1
+            ]
+          ],
+          "added": [
+            [
+              -1,
+              4
+            ]
+          ],
+          "verified_depth": 3,
+          "witness": "results\\shapes\\inverse-aa03827e99bf85ed.heesch",
+          "periodic_search": {
+            "status": "PERIODIC_TILER",
+            "seconds": 0.14985649986192584,
+            "lattices_tested": 64,
+            "certificate": {
+              "lattice_basis": [
+                [
+                  40,
+                  0
+                ],
+                [
+                  18,
+                  2
+                ]
+              ],
+              "copies_per_period": 4,
+              "placements": [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  3,
+                  3,
+                  0
+                ],
+                [
+                  3,
+                  12,
+                  1
+                ],
+                [
+                  0,
+                  9,
+                  1
+                ]
+              ],
+              "residue_partition_checked": true
+            }
+          }
+        },
+        {
+          "canonical_digest": "0b31bebf74c044a0f6c803be04eb81ec569b1af6a41803b3e4e700da5114f9ed",
+          "cells": [
+            [
+              -1,
+              3
+            ],
+            [
+              0,
+              2
+            ],
+            [
+              0,
+              3
+            ],
+            [
+              0,
+              5
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              1,
+              3
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              1,
+              5
+            ],
+            [
+              2,
+              1
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              2,
+              3
+            ],
+            [
+              2,
+              4
+            ],
+            [
+              3,
+              1
+            ],
+            [
+              3,
+              2
+            ],
+            [
+              3,
+              3
+            ],
+            [
+              4,
+              0
+            ],
+            [
+              4,
+              1
+            ],
+            [
+              4,
+              3
+            ]
+          ],
+          "removed": [
+            [
+              0,
+              1
+            ],
+            [
+              3,
+              4
+            ]
+          ],
+          "added": [
+            [
+              -1,
+              3
+            ],
+            [
+              1,
+              5
+            ]
+          ],
+          "verified_depth": 3,
+          "witness": "results\\shapes\\inverse-0b31bebf74c044a0.heesch",
+          "periodic_search": {
+            "status": "PERIODIC_TILER",
+            "seconds": 0.26510609965771437,
+            "lattices_tested": 77,
+            "certificate": {
+              "lattice_basis": [
+                [
+                  80,
+                  0
+                ],
+                [
+                  9,
+                  1
+                ]
+              ],
+              "copies_per_period": 4,
+              "placements": [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  9,
+                  8,
+                  0
+                ],
+                [
+                  6,
+                  35,
+                  0
+                ],
+                [
+                  3,
+                  43,
+                  0
+                ]
+              ],
+              "residue_partition_checked": true
+            }
+          }
+        },
+        {
+          "canonical_digest": "c60647473382125f97df4598c3758c726477bce5ece01d37ced34bc1298c64bc",
+          "cells": [
+            [
+              0,
+              2
+            ],
+            [
+              0,
+              3
+            ],
+            [
+              0,
+              5
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              1,
+              3
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              1,
+              5
+            ],
+            [
+              2,
+              1
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              2,
+              3
+            ],
+            [
+              2,
+              4
+            ],
+            [
+              3,
+              1
+            ],
+            [
+              3,
+              2
+            ],
+            [
+              3,
+              3
+            ],
+            [
+              4,
+              0
+            ],
+            [
+              4,
+              1
+            ],
+            [
+              4,
+              3
+            ],
+            [
+              5,
+              1
+            ]
+          ],
+          "removed": [
+            [
+              0,
+              1
+            ],
+            [
+              3,
+              4
+            ]
+          ],
+          "added": [
+            [
+              1,
+              5
+            ],
+            [
+              5,
+              1
+            ]
+          ],
+          "verified_depth": 3,
+          "witness": "results\\shapes\\inverse-c60647473382125f.heesch",
+          "periodic_search": {
+            "status": "PERIODIC_TILER",
+            "seconds": 0.24580830009654164,
+            "lattices_tested": 81,
+            "certificate": {
+              "lattice_basis": [
+                [
+                  80,
+                  0
+                ],
+                [
+                  9,
+                  1
+                ]
+              ],
+              "copies_per_period": 4,
+              "placements": [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  9,
+                  8,
+                  0
+                ],
+                [
+                  3,
+                  3,
+                  0
+                ],
+                [
+                  6,
+                  75,
+                  0
+                ]
+              ],
+              "residue_partition_checked": true
+            }
+          }
+        },
+        {
+          "canonical_digest": "f63a16b467f765edae04ce225082179c574a942ae1dfed729d1e3ed3d7180251",
+          "cells": [
+            [
+              -1,
+              2
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              3
+            ],
+            [
+              0,
+              5
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              1,
+              3
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              1
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              2,
+              3
+            ],
+            [
+              2,
+              5
+            ],
+            [
+              3,
+              1
+            ],
+            [
+              3,
+              2
+            ],
+            [
+              3,
+              3
+            ],
+            [
+              3,
+              4
+            ],
+            [
+              4,
+              0
+            ],
+            [
+              4,
+              1
+            ],
+            [
+              4,
+              3
+            ]
+          ],
+          "removed": [
+            [
+              0,
+              2
+            ],
+            [
+              2,
+              4
+            ]
+          ],
+          "added": [
+            [
+              -1,
+              2
+            ],
+            [
+              2,
+              5
+            ]
+          ],
+          "verified_depth": 3,
+          "witness": "results\\shapes\\inverse-f63a16b467f765ed.heesch",
+          "periodic_search": {
+            "status": "PERIODIC_TILER",
+            "seconds": 0.18672790005803108,
+            "lattices_tested": 78,
+            "certificate": {
+              "lattice_basis": [
+                [
+                  80,
+                  0
+                ],
+                [
+                  9,
+                  1
+                ]
+              ],
+              "copies_per_period": 4,
+              "placements": [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  3,
+                  3,
+                  0
+                ],
+                [
+                  6,
+                  75,
+                  0
+                ],
+                [
+                  9,
+                  8,
+                  0
+                ]
+              ],
+              "residue_partition_checked": true
+            }
+          }
+        },
+        {
+          "canonical_digest": "fd6a8b2ccd851cadb2adb6d075da4d42703c0d80a652a2ac9801da0b6035eeac",
+          "cells": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              2
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              1,
+              3
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              1
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              2,
+              3
+            ],
+            [
+              2,
+              4
+            ],
+            [
+              3,
+              0
+            ],
+            [
+              3,
+              1
+            ],
+            [
+              3,
+              2
+            ],
+            [
+              3,
+              3
+            ],
+            [
+              3,
+              4
+            ],
+            [
+              4,
+              0
+            ],
+            [
+              4,
+              1
+            ],
+            [
+              4,
+              3
+            ],
+            [
+              5,
+              0
+            ]
+          ],
+          "removed": [
+            [
+              0,
+              3
+            ],
+            [
+              0,
+              5
+            ]
+          ],
+          "added": [
+            [
+              3,
+              0
+            ],
+            [
+              5,
+              0
+            ]
+          ],
+          "verified_depth": 3,
+          "witness": "results\\shapes\\inverse-fd6a8b2ccd851cad.heesch",
+          "periodic_search": {
+            "status": "PERIODIC_TILER",
+            "seconds": 0.011423199903219938,
+            "lattices_tested": 5,
+            "certificate": {
+              "lattice_basis": [
+                [
+                  8,
+                  0
+                ],
+                [
+                  2,
+                  10
+                ]
+              ],
+              "copies_per_period": 4,
+              "placements": [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  3,
+                  0,
+                  5
+                ],
+                [
+                  3,
+                  3,
+                  0
+                ],
+                [
+                  0,
+                  5,
+                  5
+                ]
+              ],
+              "residue_partition_checked": true
+            }
+          }
+        },
+        {
+          "canonical_digest": "c2a3d44219d832946c87f630fe458c988cf1c6639074b05fef2c3f3eb1086cd1",
+          "cells": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              2
+            ],
+            [
+              0,
+              5
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              1
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              2,
+              3
+            ],
+            [
+              2,
+              4
+            ],
+            [
+              3,
+              1
+            ],
+            [
+              3,
+              2
+            ],
+            [
+              3,
+              3
+            ],
+            [
+              3,
+              4
+            ],
+            [
+              4,
+              0
+            ],
+            [
+              4,
+              1
+            ],
+            [
+              4,
+              3
+            ],
+            [
+              5,
+              -1
+            ],
+            [
+              5,
+              0
+            ]
+          ],
+          "removed": [
+            [
+              0,
+              3
+            ],
+            [
+              1,
+              3
+            ]
+          ],
+          "added": [
+            [
+              5,
+              -1
+            ],
+            [
+              5,
+              0
+            ]
+          ],
+          "verified_depth": 3,
+          "witness": "results\\shapes\\inverse-c2a3d44219d83294.heesch",
+          "periodic_search": {
+            "status": "PERIODIC_TILER",
+            "seconds": 0.1785093997605145,
+            "lattices_tested": 77,
+            "certificate": {
+              "lattice_basis": [
+                [
+                  80,
+                  0
+                ],
+                [
+                  9,
+                  1
+                ]
+              ],
+              "copies_per_period": 4,
+              "placements": [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  9,
+                  8,
+                  0
+                ],
+                [
+                  6,
+                  35,
+                  0
+                ],
+                [
+                  3,
+                  43,
+                  0
+                ]
+              ],
+              "residue_partition_checked": true
+            }
+          }
+        },
+        {
+          "canonical_digest": "7e4c8f786b091ab9260ca59b1db17b622d77f8551d06cf3a7819f16eb266eb37",
+          "cells": [
+            [
+              -1,
+              6
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              2
+            ],
+            [
+              0,
+              5
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              1,
+              3
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              2,
+              3
+            ],
+            [
+              2,
+              4
+            ],
+            [
+              3,
+              1
+            ],
+            [
+              3,
+              2
+            ],
+            [
+              3,
+              3
+            ],
+            [
+              3,
+              4
+            ],
+            [
+              4,
+              0
+            ],
+            [
+              4,
+              1
+            ],
+            [
+              4,
+              3
+            ],
+            [
+              5,
+              0
+            ]
+          ],
+          "removed": [
+            [
+              0,
+              3
+            ],
+            [
+              2,
+              1
+            ]
+          ],
+          "added": [
+            [
+              -1,
+              6
+            ],
+            [
+              5,
+              0
+            ]
+          ],
+          "verified_depth": 3,
+          "witness": "results\\shapes\\inverse-7e4c8f786b091ab9.heesch",
+          "periodic_search": {
+            "status": "PERIODIC_TILER",
+            "seconds": 0.007126900367438793,
+            "lattices_tested": 5,
+            "certificate": {
+              "lattice_basis": [
+                [
+                  8,
+                  0
+                ],
+                [
+                  2,
+                  10
+                ]
+              ],
+              "copies_per_period": 4,
+              "placements": [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  3,
+                  0,
+                  5
+                ],
+                [
+                  0,
+                  5,
+                  5
+                ],
+                [
+                  3,
+                  3,
+                  0
+                ]
+              ],
+              "residue_partition_checked": true
+            }
+          }
+        },
+        {
+          "canonical_digest": "b4ad142ee42db78d76ead00f56525f42684701b1f39986666b5b9b2cb4348a75",
+          "cells": [
+            [
+              -1,
+              5
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              2
+            ],
+            [
+              0,
+              5
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              1,
+              3
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              1
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              2,
+              3
+            ],
+            [
+              2,
+              4
+            ],
+            [
+              3,
+              2
+            ],
+            [
+              3,
+              3
+            ],
+            [
+              3,
+              4
+            ],
+            [
+              4,
+              0
+            ],
+            [
+              4,
+              1
+            ],
+            [
+              4,
+              3
+            ],
+            [
+              5,
+              0
+            ]
+          ],
+          "removed": [
+            [
+              0,
+              3
+            ],
+            [
+              3,
+              1
+            ]
+          ],
+          "added": [
+            [
+              -1,
+              5
+            ],
+            [
+              5,
+              0
+            ]
+          ],
+          "verified_depth": 3,
+          "witness": "results\\shapes\\inverse-b4ad142ee42db78d.heesch",
+          "periodic_search": {
+            "status": "PERIODIC_TILER",
+            "seconds": 0.1704460997134447,
+            "lattices_tested": 77,
+            "certificate": {
+              "lattice_basis": [
+                [
+                  80,
+                  0
+                ],
+                [
+                  9,
+                  1
+                ]
+              ],
+              "copies_per_period": 4,
+              "placements": [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  9,
+                  8,
+                  0
+                ],
+                [
+                  6,
+                  35,
+                  0
+                ],
+                [
+                  3,
+                  43,
+                  0
+                ]
+              ],
+              "residue_partition_checked": true
+            }
+          }
+        },
+        {
+          "canonical_digest": "a02b3979aa6d1edd8e66329c346fd49596d4004ae6a4eba4d259c006c0a518ee",
+          "cells": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              2
+            ],
+            [
+              0,
+              4
+            ],
+            [
+              0,
+              5
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              1,
+              3
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              1
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              2,
+              3
+            ],
+            [
+              2,
+              4
+            ],
+            [
+              3,
+              1
+            ],
+            [
+              3,
+              2
+            ],
+            [
+              3,
+              3
+            ],
+            [
+              3,
+              4
+            ],
+            [
+              4,
+              1
+            ],
+            [
+              4,
+              3
+            ],
+            [
+              5,
+              0
+            ]
+          ],
+          "removed": [
+            [
+              0,
+              3
+            ],
+            [
+              4,
+              0
+            ]
+          ],
+          "added": [
+            [
+              0,
+              4
+            ],
+            [
+              5,
+              0
+            ]
+          ],
+          "verified_depth": 3,
+          "witness": "results\\shapes\\inverse-a02b3979aa6d1edd.heesch",
+          "periodic_search": {
+            "status": "PERIODIC_TILER",
+            "seconds": 0.2215641001239419,
+            "lattices_tested": 80,
+            "certificate": {
+              "lattice_basis": [
+                [
+                  80,
+                  0
+                ],
+                [
+                  9,
+                  1
+                ]
+              ],
+              "copies_per_period": 4,
+              "placements": [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  3,
+                  43,
+                  0
+                ],
+                [
+                  6,
+                  35,
+                  0
+                ],
+                [
+                  9,
+                  8,
+                  0
+                ]
+              ],
+              "residue_partition_checked": true
+            }
+          }
+        },
+        {
+          "canonical_digest": "46ad3afb6d5e4752bf6467029265f27cd3af40dec80dbcd2a538fa54b7cd14a8",
+          "cells": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              2
+            ],
+            [
+              0,
+              3
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              1
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              2,
+              3
+            ],
+            [
+              2,
+              4
+            ],
+            [
+              3,
+              0
+            ],
+            [
+              3,
+              1
+            ],
+            [
+              3,
+              2
+            ],
+            [
+              3,
+              3
+            ],
+            [
+              3,
+              4
+            ],
+            [
+              4,
+              0
+            ],
+            [
+              4,
+              1
+            ],
+            [
+              4,
+              3
+            ],
+            [
+              5,
+              -1
+            ]
+          ],
+          "removed": [
+            [
+              0,
+              5
+            ],
+            [
+              1,
+              3
+            ]
+          ],
+          "added": [
+            [
+              3,
+              0
+            ],
+            [
+              5,
+              -1
+            ]
+          ],
+          "verified_depth": 3,
+          "witness": "results\\shapes\\inverse-46ad3afb6d5e4752.heesch",
+          "periodic_search": {
+            "status": "PERIODIC_TILER",
+            "seconds": 0.14359400002285838,
+            "lattices_tested": 63,
+            "certificate": {
+              "lattice_basis": [
+                [
+                  40,
+                  0
+                ],
+                [
+                  18,
+                  2
+                ]
+              ],
+              "copies_per_period": 4,
+              "placements": [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  3,
+                  3,
+                  0
+                ],
+                [
+                  3,
+                  12,
+                  1
+                ],
+                [
+                  0,
+                  9,
+                  1
+                ]
+              ],
+              "residue_partition_checked": true
+            }
+          }
+        },
+        {
+          "canonical_digest": "b80f6c3dfa11fc98b5db9327220bf8356b590ba83fc7702c7010b9892637c904",
+          "cells": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              2
+            ],
+            [
+              0,
+              3
+            ],
+            [
+              0,
+              4
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              1,
+              3
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              1
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              2,
+              3
+            ],
+            [
+              2,
+              4
+            ],
+            [
+              3,
+              0
+            ],
+            [
+              3,
+              1
+            ],
+            [
+              3,
+              2
+            ],
+            [
+              3,
+              3
+            ],
+            [
+              3,
+              4
+            ],
+            [
+              4,
+              1
+            ],
+            [
+              4,
+              3
+            ]
+          ],
+          "removed": [
+            [
+              0,
+              5
+            ],
+            [
+              4,
+              0
+            ]
+          ],
+          "added": [
+            [
+              0,
+              4
+            ],
+            [
+              3,
+              0
+            ]
+          ],
+          "verified_depth": 3,
+          "witness": "results\\shapes\\inverse-b80f6c3dfa11fc98.heesch",
+          "periodic_search": {
+            "status": "PERIODIC_TILER",
+            "seconds": 0.17741459980607033,
+            "lattices_tested": 67,
+            "certificate": {
+              "lattice_basis": [
+                [
+                  40,
+                  0
+                ],
+                [
+                  18,
+                  2
+                ]
+              ],
+              "copies_per_period": 4,
+              "placements": [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  3,
+                  3,
+                  0
+                ],
+                [
+                  3,
+                  12,
+                  1
+                ],
+                [
+                  0,
+                  9,
+                  1
+                ]
+              ],
+              "residue_partition_checked": true
+            }
+          }
+        },
+        {
+          "canonical_digest": "20cc78876bd89fe44936ddb10f4e3a0963962afe348a7cbf1108bce4d1874a94",
+          "cells": [
+            [
+              0,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              2
+            ],
+            [
+              0,
+              3
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              1,
+              3
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              1
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              2,
+              3
+            ],
+            [
+              2,
+              4
+            ],
+            [
+              3,
+              1
+            ],
+            [
+              3,
+              2
+            ],
+            [
+              3,
+              3
+            ],
+            [
+              3,
+              4
+            ],
+            [
+              4,
+              0
+            ],
+            [
+              4,
+              3
+            ],
+            [
+              4,
+              4
+            ]
+          ],
+          "removed": [
+            [
+              0,
+              5
+            ],
+            [
+              4,
+              1
+            ]
+          ],
+          "added": [
+            [
+              0,
+              0
+            ],
+            [
+              4,
+              4
+            ]
+          ],
+          "verified_depth": 3,
+          "witness": "results\\shapes\\inverse-20cc78876bd89fe4.heesch",
+          "periodic_search": {
+            "status": "PERIODIC_TILER",
+            "seconds": 0.14688799995929003,
+            "lattices_tested": 65,
+            "certificate": {
+              "lattice_basis": [
+                [
+                  40,
+                  0
+                ],
+                [
+                  18,
+                  2
+                ]
+              ],
+              "copies_per_period": 4,
+              "placements": [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  3,
+                  3,
+                  0
+                ],
+                [
+                  3,
+                  12,
+                  1
+                ],
+                [
+                  0,
+                  9,
+                  1
+                ]
+              ],
+              "residue_partition_checked": true
+            }
+          }
+        },
+        {
+          "canonical_digest": "39b8fa874e471105b3f75872748ebfa8eaa07900b700ddedf0aa6ce8c865460a",
+          "cells": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              2
+            ],
+            [
+              0,
+              3
+            ],
+            [
+              0,
+              5
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              1,
+              3
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              0
+            ],
+            [
+              2,
+              1
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              2,
+              3
+            ],
+            [
+              2,
+              4
+            ],
+            [
+              3,
+              1
+            ],
+            [
+              3,
+              2
+            ],
+            [
+              3,
+              3
+            ],
+            [
+              3,
+              4
+            ],
+            [
+              4,
+              0
+            ],
+            [
+              4,
+              1
+            ],
+            [
+              4,
+              2
+            ]
+          ],
+          "removed": [
+            [
+              1,
+              0
+            ],
+            [
+              4,
+              3
+            ]
+          ],
+          "added": [
+            [
+              2,
+              0
+            ],
+            [
+              4,
+              2
+            ]
+          ],
+          "verified_depth": 3,
+          "witness": "results\\shapes\\inverse-39b8fa874e471105.heesch",
+          "periodic_search": {
+            "status": "PERIODIC_TILER",
+            "seconds": 0.2912261998280883,
+            "lattices_tested": 85,
+            "certificate": {
+              "lattice_basis": [
+                [
+                  80,
+                  0
+                ],
+                [
+                  9,
+                  1
+                ]
+              ],
+              "copies_per_period": 4,
+              "placements": [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  9,
+                  8,
+                  0
+                ],
+                [
+                  6,
+                  35,
+                  0
+                ],
+                [
+                  3,
+                  43,
+                  0
+                ]
+              ],
+              "residue_partition_checked": true
+            }
+          }
+        },
+        {
+          "canonical_digest": "442e2e7daf293e2411f0a17e75a9ab456725af8b89a8f0c474f38423da18a8c8",
+          "cells": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              2
+            ],
+            [
+              0,
+              3
+            ],
+            [
+              0,
+              5
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              1,
+              3
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              -1
+            ],
+            [
+              2,
+              1
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              2,
+              3
+            ],
+            [
+              2,
+              4
+            ],
+            [
+              3,
+              1
+            ],
+            [
+              3,
+              2
+            ],
+            [
+              3,
+              4
+            ],
+            [
+              4,
+              0
+            ],
+            [
+              4,
+              1
+            ],
+            [
+              4,
+              3
+            ],
+            [
+              5,
+              2
+            ]
+          ],
+          "removed": [
+            [
+              1,
+              1
+            ],
+            [
+              3,
+              3
+            ]
+          ],
+          "added": [
+            [
+              2,
+              -1
+            ],
+            [
+              5,
+              2
+            ]
+          ],
+          "verified_depth": 3,
+          "witness": "results\\shapes\\inverse-442e2e7daf293e24.heesch",
+          "periodic_search": {
+            "status": "PERIODIC_TILER",
+            "seconds": 0.1463671000674367,
+            "lattices_tested": 73,
+            "certificate": {
+              "lattice_basis": [
+                [
+                  80,
+                  0
+                ],
+                [
+                  9,
+                  1
+                ]
+              ],
+              "copies_per_period": 4,
+              "placements": [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  9,
+                  8,
+                  0
+                ],
+                [
+                  6,
+                  35,
+                  0
+                ],
+                [
+                  3,
+                  43,
+                  0
+                ]
+              ],
+              "residue_partition_checked": true
+            }
+          }
+        },
+        {
+          "canonical_digest": "e2864d2dbdc4c5e3f9a3cee58e32c9e47ddef6d6302c118755da4628128041bc",
+          "cells": [
+            [
+              -1,
+              6
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              2
+            ],
+            [
+              0,
+              3
+            ],
+            [
+              0,
+              5
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              2,
+              3
+            ],
+            [
+              2,
+              4
+            ],
+            [
+              3,
+              1
+            ],
+            [
+              3,
+              2
+            ],
+            [
+              3,
+              3
+            ],
+            [
+              3,
+              4
+            ],
+            [
+              4,
+              0
+            ],
+            [
+              4,
+              1
+            ],
+            [
+              4,
+              3
+            ],
+            [
+              5,
+              -1
+            ]
+          ],
+          "removed": [
+            [
+              1,
+              3
+            ],
+            [
+              2,
+              1
+            ]
+          ],
+          "added": [
+            [
+              -1,
+              6
+            ],
+            [
+              5,
+              -1
+            ]
+          ],
+          "verified_depth": 3,
+          "witness": "results\\shapes\\inverse-e2864d2dbdc4c5e3.heesch",
+          "periodic_search": {
+            "status": "PERIODIC_TILER",
+            "seconds": 0.14134309999644756,
+            "lattices_tested": 75,
+            "certificate": {
+              "lattice_basis": [
+                [
+                  80,
+                  0
+                ],
+                [
+                  9,
+                  1
+                ]
+              ],
+              "copies_per_period": 4,
+              "placements": [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  9,
+                  8,
+                  0
+                ],
+                [
+                  6,
+                  35,
+                  0
+                ],
+                [
+                  3,
+                  43,
+                  0
+                ]
+              ],
+              "residue_partition_checked": true
+            }
+          }
+        },
+        {
+          "canonical_digest": "ef4f9db67859bf7d52d1583276121ce49119f73782d6bb0725bd413cabf61c0b",
+          "cells": [
+            [
+              -1,
+              5
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              2
+            ],
+            [
+              0,
+              3
+            ],
+            [
+              0,
+              5
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              1
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              2,
+              3
+            ],
+            [
+              2,
+              4
+            ],
+            [
+              3,
+              2
+            ],
+            [
+              3,
+              3
+            ],
+            [
+              3,
+              4
+            ],
+            [
+              4,
+              0
+            ],
+            [
+              4,
+              1
+            ],
+            [
+              4,
+              3
+            ],
+            [
+              5,
+              -1
+            ]
+          ],
+          "removed": [
+            [
+              1,
+              3
+            ],
+            [
+              3,
+              1
+            ]
+          ],
+          "added": [
+            [
+              -1,
+              5
+            ],
+            [
+              5,
+              -1
+            ]
+          ],
+          "verified_depth": 3,
+          "witness": "results\\shapes\\inverse-ef4f9db67859bf7d.heesch",
+          "periodic_search": {
+            "status": "PERIODIC_TILER",
+            "seconds": 0.15009600017219782,
+            "lattices_tested": 76,
+            "certificate": {
+              "lattice_basis": [
+                [
+                  80,
+                  0
+                ],
+                [
+                  9,
+                  1
+                ]
+              ],
+              "copies_per_period": 4,
+              "placements": [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  9,
+                  8,
+                  0
+                ],
+                [
+                  6,
+                  35,
+                  0
+                ],
+                [
+                  3,
+                  43,
+                  0
+                ]
+              ],
+              "residue_partition_checked": true
+            }
+          }
+        },
+        {
+          "canonical_digest": "a52f3ce4e72c724d28b6873bbc49a182437b3632514a308b480bc8131818a88a",
+          "cells": [
+            [
+              -1,
+              4
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              2
+            ],
+            [
+              0,
+              3
+            ],
+            [
+              0,
+              5
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              1
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              2,
+              3
+            ],
+            [
+              2,
+              4
+            ],
+            [
+              3,
+              1
+            ],
+            [
+              3,
+              2
+            ],
+            [
+              3,
+              3
+            ],
+            [
+              3,
+              4
+            ],
+            [
+              4,
+              0
+            ],
+            [
+              4,
+              3
+            ],
+            [
+              5,
+              -1
+            ]
+          ],
+          "removed": [
+            [
+              1,
+              3
+            ],
+            [
+              4,
+              1
+            ]
+          ],
+          "added": [
+            [
+              -1,
+              4
+            ],
+            [
+              5,
+              -1
+            ]
+          ],
+          "verified_depth": 3,
+          "witness": "results\\shapes\\inverse-a52f3ce4e72c724d.heesch",
+          "periodic_search": {
+            "status": "PERIODIC_TILER",
+            "seconds": 0.11495439987629652,
+            "lattices_tested": 61,
+            "certificate": {
+              "lattice_basis": [
+                [
+                  40,
+                  0
+                ],
+                [
+                  18,
+                  2
+                ]
+              ],
+              "copies_per_period": 4,
+              "placements": [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  3,
+                  3,
+                  0
+                ],
+                [
+                  3,
+                  12,
+                  1
+                ],
+                [
+                  0,
+                  9,
+                  1
+                ]
+              ],
+              "residue_partition_checked": true
+            }
+          }
+        },
+        {
+          "canonical_digest": "88e15a7c0e2cb27c770133ecfabe0848a810cbcb1514833c1b0adaf3d5fdce3e",
+          "cells": [
+            [
+              -1,
+              5
+            ],
+            [
+              -1,
+              6
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              2
+            ],
+            [
+              0,
+              3
+            ],
+            [
+              0,
+              5
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              1,
+              3
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              2,
+              3
+            ],
+            [
+              2,
+              4
+            ],
+            [
+              3,
+              2
+            ],
+            [
+              3,
+              3
+            ],
+            [
+              3,
+              4
+            ],
+            [
+              4,
+              0
+            ],
+            [
+              4,
+              1
+            ],
+            [
+              4,
+              3
+            ]
+          ],
+          "removed": [
+            [
+              2,
+              1
+            ],
+            [
+              3,
+              1
+            ]
+          ],
+          "added": [
+            [
+              -1,
+              5
+            ],
+            [
+              -1,
+              6
+            ]
+          ],
+          "verified_depth": 3,
+          "witness": "results\\shapes\\inverse-88e15a7c0e2cb27c.heesch",
+          "periodic_search": {
+            "status": "PERIODIC_TILER",
+            "seconds": 0.1635102997533977,
+            "lattices_tested": 76,
+            "certificate": {
+              "lattice_basis": [
+                [
+                  80,
+                  0
+                ],
+                [
+                  9,
+                  1
+                ]
+              ],
+              "copies_per_period": 4,
+              "placements": [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  9,
+                  8,
+                  0
+                ],
+                [
+                  6,
+                  35,
+                  0
+                ],
+                [
+                  3,
+                  43,
+                  0
+                ]
+              ],
+              "residue_partition_checked": true
+            }
+          }
+        },
+        {
+          "canonical_digest": "769d435274f5c952f0d9f8b4d5fa023d2ea8a5686496a05bb43467a2933027e5",
+          "cells": [
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              2
+            ],
+            [
+              0,
+              3
+            ],
+            [
+              0,
+              5
+            ],
+            [
+              1,
+              -1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              1,
+              3
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              2,
+              3
+            ],
+            [
+              2,
+              4
+            ],
+            [
+              3,
+              1
+            ],
+            [
+              3,
+              3
+            ],
+            [
+              3,
+              4
+            ],
+            [
+              4,
+              0
+            ],
+            [
+              4,
+              1
+            ],
+            [
+              4,
+              3
+            ],
+            [
+              5,
+              3
+            ]
+          ],
+          "removed": [
+            [
+              2,
+              1
+            ],
+            [
+              3,
+              2
+            ]
+          ],
+          "added": [
+            [
+              1,
+              -1
+            ],
+            [
+              5,
+              3
+            ]
+          ],
+          "verified_depth": 3,
+          "witness": "results\\shapes\\inverse-769d435274f5c952.heesch",
+          "periodic_search": {
+            "status": "PERIODIC_TILER",
+            "seconds": 0.11160810012370348,
+            "lattices_tested": 67,
+            "certificate": {
+              "lattice_basis": [
+                [
+                  80,
+                  0
+                ],
+                [
+                  9,
+                  1
+                ]
+              ],
+              "copies_per_period": 4,
+              "placements": [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  9,
+                  8,
+                  0
+                ],
+                [
+                  6,
+                  35,
+                  0
+                ],
+                [
+                  3,
+                  43,
+                  0
+                ]
+              ],
+              "residue_partition_checked": true
+            }
+          }
+        },
+        {
+          "canonical_digest": "034bc6bf6d6e41a637fbae881d662473b05c7e7282c3d74485bddbb01c0d70a9",
+          "cells": [
+            [
+              -1,
+              6
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              2
+            ],
+            [
+              0,
+              3
+            ],
+            [
+              0,
+              4
+            ],
+            [
+              0,
+              5
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              1,
+              3
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              2,
+              3
+            ],
+            [
+              2,
+              4
+            ],
+            [
+              3,
+              1
+            ],
+            [
+              3,
+              2
+            ],
+            [
+              3,
+              3
+            ],
+            [
+              3,
+              4
+            ],
+            [
+              4,
+              1
+            ],
+            [
+              4,
+              3
+            ]
+          ],
+          "removed": [
+            [
+              2,
+              1
+            ],
+            [
+              4,
+              0
+            ]
+          ],
+          "added": [
+            [
+              -1,
+              6
+            ],
+            [
+              0,
+              4
+            ]
+          ],
+          "verified_depth": 3,
+          "witness": "results\\shapes\\inverse-034bc6bf6d6e41a6.heesch",
+          "periodic_search": {
+            "status": "PERIODIC_TILER",
+            "seconds": 0.2147172000259161,
+            "lattices_tested": 79,
+            "certificate": {
+              "lattice_basis": [
+                [
+                  80,
+                  0
+                ],
+                [
+                  9,
+                  1
+                ]
+              ],
+              "copies_per_period": 4,
+              "placements": [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  3,
+                  43,
+                  0
+                ],
+                [
+                  6,
+                  35,
+                  0
+                ],
+                [
+                  9,
+                  8,
+                  0
+                ]
+              ],
+              "residue_partition_checked": true
+            }
+          }
+        },
+        {
+          "canonical_digest": "c7f24848d06bdafd6c43cf965b76bb49b6d42302e32d3a8ad6719e9dba541aba",
+          "cells": [
+            [
+              -1,
+              4
+            ],
+            [
+              -1,
+              6
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              2
+            ],
+            [
+              0,
+              3
+            ],
+            [
+              0,
+              5
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              1,
+              3
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              2,
+              3
+            ],
+            [
+              2,
+              4
+            ],
+            [
+              3,
+              1
+            ],
+            [
+              3,
+              2
+            ],
+            [
+              3,
+              3
+            ],
+            [
+              3,
+              4
+            ],
+            [
+              4,
+              0
+            ],
+            [
+              4,
+              3
+            ]
+          ],
+          "removed": [
+            [
+              2,
+              1
+            ],
+            [
+              4,
+              1
+            ]
+          ],
+          "added": [
+            [
+              -1,
+              4
+            ],
+            [
+              -1,
+              6
+            ]
+          ],
+          "verified_depth": 3,
+          "witness": "results\\shapes\\inverse-c7f24848d06bdafd.heesch",
+          "periodic_search": {
+            "status": "PERIODIC_TILER",
+            "seconds": 0.18705369997769594,
+            "lattices_tested": 78,
+            "certificate": {
+              "lattice_basis": [
+                [
+                  80,
+                  0
+                ],
+                [
+                  9,
+                  1
+                ]
+              ],
+              "copies_per_period": 4,
+              "placements": [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  9,
+                  8,
+                  0
+                ],
+                [
+                  3,
+                  43,
+                  0
+                ],
+                [
+                  6,
+                  35,
+                  0
+                ]
+              ],
+              "residue_partition_checked": true
+            }
+          }
+        },
+        {
+          "canonical_digest": "bed09a5e0a79e3409037fa4bad8b5df8c29c194af8d66f700228c397fc746d80",
+          "cells": [
+            [
+              -1,
+              5
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              2
+            ],
+            [
+              0,
+              3
+            ],
+            [
+              0,
+              4
+            ],
+            [
+              0,
+              5
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              1,
+              3
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              1
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              2,
+              3
+            ],
+            [
+              2,
+              4
+            ],
+            [
+              3,
+              2
+            ],
+            [
+              3,
+              3
+            ],
+            [
+              3,
+              4
+            ],
+            [
+              4,
+              1
+            ],
+            [
+              4,
+              3
+            ]
+          ],
+          "removed": [
+            [
+              3,
+              1
+            ],
+            [
+              4,
+              0
+            ]
+          ],
+          "added": [
+            [
+              -1,
+              5
+            ],
+            [
+              0,
+              4
+            ]
+          ],
+          "verified_depth": 3,
+          "witness": "results\\shapes\\inverse-bed09a5e0a79e340.heesch",
+          "periodic_search": {
+            "status": "PERIODIC_TILER",
+            "seconds": 0.16787410015240312,
+            "lattices_tested": 55,
+            "certificate": {
+              "lattice_basis": [
+                [
+                  40,
+                  0
+                ],
+                [
+                  10,
+                  2
+                ]
+              ],
+              "copies_per_period": 4,
+              "placements": [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  3,
+                  4,
+                  1
+                ],
+                [
+                  0,
+                  25,
+                  1
+                ],
+                [
+                  3,
+                  19,
+                  0
+                ]
+              ],
+              "residue_partition_checked": true
+            }
+          }
+        },
+        {
+          "canonical_digest": "5493edeb7fc245e9de145bcfca3836c63804ca4e2bb36b5be58d65f4cce66ca2",
+          "cells": [
+            [
+              -1,
+              4
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              2
+            ],
+            [
+              0,
+              3
+            ],
+            [
+              0,
+              4
+            ],
+            [
+              0,
+              5
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              1,
+              2
+            ],
+            [
+              1,
+              3
+            ],
+            [
+              1,
+              4
+            ],
+            [
+              2,
+              1
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              2,
+              3
+            ],
+            [
+              2,
+              4
+            ],
+            [
+              3,
+              1
+            ],
+            [
+              3,
+              2
+            ],
+            [
+              3,
+              3
+            ],
+            [
+              3,
+              4
+            ],
+            [
+              4,
+              3
+            ]
+          ],
+          "removed": [
+            [
+              4,
+              0
+            ],
+            [
+              4,
+              1
+            ]
+          ],
+          "added": [
+            [
+              -1,
+              4
+            ],
+            [
+              0,
+              4
+            ]
+          ],
+          "verified_depth": 3,
+          "witness": "results\\shapes\\inverse-5493edeb7fc245e9.heesch",
+          "periodic_search": {
+            "status": "PERIODIC_TILER",
+            "seconds": 0.184952599927783,
+            "lattices_tested": 66,
+            "certificate": {
+              "lattice_basis": [
+                [
+                  40,
+                  0
+                ],
+                [
+                  18,
+                  2
+                ]
+              ],
+              "copies_per_period": 4,
+              "placements": [
+                [
+                  0,
+                  0,
+                  0
+                ],
+                [
+                  3,
+                  3,
+                  0
+                ],
+                [
+                  3,
+                  12,
+                  1
+                ],
+                [
+                  0,
+                  9,
+                  1
+                ]
+              ],
+              "residue_partition_checked": true
+            }
+          }
+        }
+      ],
+      "seconds": 7.052229099906981
+    },
+    {
+      "source_witness": "baseline.heesch",
+      "source_depth": 4,
+      "protected_cells": 149,
+      "boundary_candidates": 23,
+      "search_sizes": [
+        {
+          "exchanged_cells": 1,
+          "removal_sets": 15,
+          "addition_sets": 23
+        },
+        {
+          "exchanged_cells": 2,
+          "removal_sets": 105,
+          "addition_sets": 253
+        }
+      ],
+      "signature_matches": 0,
+      "legal_new_shapes": 0,
+      "verified_deep_shapes": 0,
+      "rejections": {},
+      "candidates": [],
+      "seconds": 0.03382939985021949
+    }
+  ],
+  "scope": "Complete one/two-cell exchanges in each specified first edge-neighbor shell, requiring protected occupancy signatures and fixed poses. No broader completeness claim."
+}

@@ -1,42 +1,27 @@
-# Heesch contribution: handoff to a signed-in agent
+# Publishing handoff
 
-The user has authorized useful public Heesch research contributions and prefers
-trying for a candidate result before publishing. A bounded follow-up is recorded
-in RESEARCH_UPDATE.md. No post, PR or leaderboard submission has been made.
+The user will perform the pushes. This preparation has not posted, opened a PR,
+configured a remote, or submitted a leaderboard entry. The refreshed files are
+uncommitted changes in this separate publishing repository, ready for review.
 
-Use an already authenticated GitHub session or Yukon CLI. If authentication is
-missing, ask the user to sign in through the normal interface; do not request,
-print or include credentials in a post. No additional approval to publish these
-reviewed research notes is needed.
+1. Read CONTRIBUTION.md and RESEARCH_UPDATE.md. Run the checks in REPRODUCE.md.
+2. Inspect `git status --short` and `git diff --stat`, then commit the reviewed
+   changes. Push this repository to your chosen research remote. Use your normal
+   Git authentication; the bundle contains no credentials.
+3. Reply to discussion #75 using FOLLOWUP_75.md. Attach
+   public-queue-certificates.json and link the pushed repository at its commit.
+   Check current replies first; these local results may overlap others' work.
+4. Publish RESEARCH_DISCUSSION.md as a separate research Discussion with links
+   to the committed certificates and checkers. Keep its local 184-shape family
+   separate from the public 153-case queue.
+5. For the encoder, use DISCUSSION_POST.md for review, or apply the supplied
+   patch in a disposable upstream checkout and run current CI before opening a
+   focused PR using PR_DESCRIPTION.md. Recheck the upstream base; the patch was
+   tested against ce3b8d6974d3f318c3c6081b421ed51c7d041d6e, not an assumed latest HEAD.
+6. After posting, verify the pages and record repository commit, Discussion/PR
+   URLs and dates in PUBLICATION_RECEIPTS.md. Leave acceptance status pending
+   until maintainers actually respond or merge.
 
-1. Read RESEARCH_UPDATE.md, DISCUSSION_POST.md and FOLLOWUP_75.md. Check current
-   discussions for overlapping posts and replies before publishing.
-2. Publish the result reply on https://github.com/Layr-Labs/heesch/discussions/75.
-   Integrate the newer certificate in RESEARCH_UPDATE.md with FOLLOWUP_75.md so
-   the reply is current. Include the executable checks and preserve attribution.
-3. Create a distinct discussion titled "Bitset contact graph: identical CNF
-   output with 4.2–9.8x local encoding speedups" using DISCUSSION_POST.md.
-   Its embedded patch and measurement records make it self-contained. Link the
-   result reply and ask for maintainer CI and deeper Linux/RSS measurements.
-4. Verify both published pages contain the intended content, then return their
-   URLs. Record URLs and publication time in a receipt. Do not claim publication
-   succeeded merely because a submit button was clicked or a request sent.
-
-Do not submit to the leaderboard, modify the benchmark contract, open a PR
-without a suitable checkout and validation, or claim that maintainers accepted
-the patch. No new finite Heesch number has been established. Local timeouts are
-UNKNOWN, solver UNSAT without a checked proof is provisional, and explicit
-periodic partitions exclude shapes as finite-Heesch candidates.
-
-The patch applies to upstream commit ce3b8d6974d3f318c3c6081b421ed51c7d041d6e,
-which matched remote master when checked on 7 September 2026. Recheck before a
-later PR. Tests completed and limitations are recorded in validation.json and
-the post. No complete upstream CI or official dual-checker proof replay is claimed.
-
-The measurements are single paired samples on Windows CPython 3.14. They measure
-formula generation, not SAT solving, end-to-end proof throughput or score gain.
-The algorithmic technique is standard; the contribution is its tested application.
-
-Credits: upstream encoder and verifier authors; Craig S. Kaplan for parent shapes
-and native solver; Frodan for the overlay recipe and earlier pipeline research;
-nasqret for the public unresolved queue and calibration audit. Prepared with Codex.
+No leaderboard submission is prepared: there is no new eligible witness with a
+checked non-tiler proof. Research Discussions do not themselves earn score.
+Prefer measured claims from CONTRIBUTION.md over the volume of generated files.

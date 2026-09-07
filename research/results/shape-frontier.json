@@ -1,0 +1,6595 @@
+{
+  "seed": 1907,
+  "attempts": 77,
+  "elapsed_seconds": 1.6932176002301276,
+  "candidate_count": 72,
+  "first_ring_survivors": 23,
+  "exhausted_first_ring": 49,
+  "timeouts": 0,
+  "scope": "Sampled growth, not exhaustive enumeration. First corona only; no non-tiler proofs.",
+  "candidates": [
+    {
+      "id": "73d01b51031eb35f",
+      "cells": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          3
+        ]
+      ],
+      "parent": "hex11-kaplan-hc4hh4",
+      "operator": "growth",
+      "area": 19,
+      "perimeter": 54,
+      "first_ring_status": "EXHAUSTED",
+      "nodes": 1,
+      "placement_options": 519,
+      "min_boundary_options": 0,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 0
+    },
+    {
+      "id": "28c7d27389792cc1",
+      "cells": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          3
+        ]
+      ],
+      "parent": "hex13-kaplan-hc4hh4",
+      "operator": "growth",
+      "area": 20,
+      "perimeter": 46,
+      "first_ring_status": "EXHAUSTED",
+      "nodes": 6,
+      "placement_options": 523,
+      "min_boundary_options": 5,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 0
+    },
+    {
+      "id": "bd0a194f6841d427",
+      "cells": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ]
+      ],
+      "parent": "hex15-kaplan-hc4hh4-a",
+      "operator": "paired-growth",
+      "area": 18,
+      "perimeter": 34,
+      "first_ring_status": "SAT",
+      "nodes": 7,
+      "placement_options": 408,
+      "min_boundary_options": 13,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 1,
+      "witness": "results\\shapes\\bd0a194f6841d427.heesch"
+    },
+    {
+      "id": "0c8e95ae6ed0ac4e",
+      "cells": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          7,
+          2
+        ]
+      ],
+      "parent": "hex16-kaplan-hc4hh4",
+      "operator": "paired-growth",
+      "area": 19,
+      "perimeter": 54,
+      "first_ring_status": "EXHAUSTED",
+      "nodes": 16,
+      "placement_options": 577,
+      "min_boundary_options": 2,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 0
+    },
+    {
+      "id": "9f62fb23cfac0e45",
+      "cells": [
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          1,
+          7
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          3,
+          6
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          4,
+          5
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          1
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          6,
+          1
+        ]
+      ],
+      "parent": "frontier-15hex-b",
+      "operator": "paired-growth",
+      "area": 20,
+      "perimeter": 60,
+      "first_ring_status": "EXHAUSTED",
+      "nodes": 2,
+      "placement_options": 605,
+      "min_boundary_options": 1,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 0
+    },
+    {
+      "id": "894c6bee87897538",
+      "cells": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          5,
+          3
+        ]
+      ],
+      "parent": "hex11-kaplan-hc4hh4",
+      "operator": "relocate-grow",
+      "area": 18,
+      "perimeter": 48,
+      "first_ring_status": "EXHAUSTED",
+      "nodes": 22,
+      "placement_options": 522,
+      "min_boundary_options": 2,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 0
+    },
+    {
+      "id": "956c70a2067e7972",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "parent": "hex13-kaplan-hc4hh4",
+      "operator": "relocate-grow",
+      "area": 19,
+      "perimeter": 56,
+      "first_ring_status": "EXHAUSTED",
+      "nodes": 11,
+      "placement_options": 537,
+      "min_boundary_options": 3,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 0
+    },
+    {
+      "id": "32cabd75640139af",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          1
+        ],
+        [
+          6,
+          1
+        ]
+      ],
+      "parent": "hex15-kaplan-hc4hh4-a",
+      "operator": "relocate-grow",
+      "area": 20,
+      "perimeter": 54,
+      "first_ring_status": "EXHAUSTED",
+      "nodes": 13,
+      "placement_options": 607,
+      "min_boundary_options": 6,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 0
+    },
+    {
+      "id": "6947d7b8463724c6",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          2
+        ]
+      ],
+      "parent": "hex16-kaplan-hc4hh4",
+      "operator": "growth",
+      "area": 18,
+      "perimeter": 50,
+      "first_ring_status": "EXHAUSTED",
+      "nodes": 2,
+      "placement_options": 502,
+      "min_boundary_options": 1,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 0
+    },
+    {
+      "id": "1c57411260548ef7",
+      "cells": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          5
+        ],
+        [
+          5,
+          1
+        ]
+      ],
+      "parent": "frontier-15hex-b",
+      "operator": "growth",
+      "area": 19,
+      "perimeter": 50,
+      "first_ring_status": "EXHAUSTED",
+      "nodes": 63,
+      "placement_options": 573,
+      "min_boundary_options": 8,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 0
+    },
+    {
+      "id": "db4aea29a9fd3ae1",
+      "cells": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          1
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          6,
+          1
+        ]
+      ],
+      "parent": "hex11-kaplan-hc4hh4",
+      "operator": "growth",
+      "area": 20,
+      "perimeter": 60,
+      "first_ring_status": "EXHAUSTED",
+      "nodes": 1,
+      "placement_options": 533,
+      "min_boundary_options": 0,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 0
+    },
+    {
+      "id": "e1973424513c3985",
+      "cells": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          6,
+          3
+        ]
+      ],
+      "parent": "hex13-kaplan-hc4hh4",
+      "operator": "paired-growth",
+      "area": 18,
+      "perimeter": 50,
+      "first_ring_status": "SAT",
+      "nodes": 11,
+      "placement_options": 584,
+      "min_boundary_options": 6,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 1,
+      "witness": "results\\shapes\\e1973424513c3985.heesch"
+    },
+    {
+      "id": "d54508bf62e564b5",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "parent": "hex15-kaplan-hc4hh4-a",
+      "operator": "paired-growth",
+      "area": 19,
+      "perimeter": 42,
+      "first_ring_status": "SAT",
+      "nodes": 9,
+      "placement_options": 489,
+      "min_boundary_options": 7,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 1,
+      "witness": "results\\shapes\\d54508bf62e564b5.heesch"
+    },
+    {
+      "id": "61c5661474263ac6",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          6,
+          2
+        ],
+        [
+          6,
+          3
+        ]
+      ],
+      "parent": "hex16-kaplan-hc4hh4",
+      "operator": "paired-growth",
+      "area": 20,
+      "perimeter": 50,
+      "first_ring_status": "EXHAUSTED",
+      "nodes": 18,
+      "placement_options": 567,
+      "min_boundary_options": 5,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 0
+    },
+    {
+      "id": "58ea2f2bcd0c7d12",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          4,
+          5
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          6,
+          2
+        ]
+      ],
+      "parent": "frontier-15hex-b",
+      "operator": "relocate-grow",
+      "area": 18,
+      "perimeter": 52,
+      "first_ring_status": "EXHAUSTED",
+      "nodes": 213,
+      "placement_options": 576,
+      "min_boundary_options": 8,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 0
+    },
+    {
+      "id": "f32008423e40f57d",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "parent": "hex13-kaplan-hc4hh4",
+      "operator": "relocate-grow",
+      "area": 20,
+      "perimeter": 52,
+      "first_ring_status": "EXHAUSTED",
+      "nodes": 1,
+      "placement_options": 467,
+      "min_boundary_options": 0,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 0
+    },
+    {
+      "id": "4bc78f9158e85189",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          5,
+          1
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          6,
+          0
+        ],
+        [
+          6,
+          1
+        ]
+      ],
+      "parent": "hex15-kaplan-hc4hh4-a",
+      "operator": "growth",
+      "area": 18,
+      "perimeter": 46,
+      "first_ring_status": "SAT",
+      "nodes": 85,
+      "placement_options": 533,
+      "min_boundary_options": 7,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 1,
+      "witness": "results\\shapes\\4bc78f9158e85189.heesch"
+    },
+    {
+      "id": "ea2c239316870098",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          1
+        ]
+      ],
+      "parent": "hex16-kaplan-hc4hh4",
+      "operator": "growth",
+      "area": 19,
+      "perimeter": 48,
+      "first_ring_status": "EXHAUSTED",
+      "nodes": 2,
+      "placement_options": 498,
+      "min_boundary_options": 1,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 0
+    },
+    {
+      "id": "592a63c9e62dca35",
+      "cells": [
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          3,
+          6
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          6,
+          2
+        ]
+      ],
+      "parent": "frontier-15hex-b",
+      "operator": "growth",
+      "area": 20,
+      "perimeter": 54,
+      "first_ring_status": "EXHAUSTED",
+      "nodes": 22,
+      "placement_options": 581,
+      "min_boundary_options": 3,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 0
+    },
+    {
+      "id": "63875c07548424e4",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          2
+        ]
+      ],
+      "parent": "hex11-kaplan-hc4hh4",
+      "operator": "paired-growth",
+      "area": 18,
+      "perimeter": 52,
+      "first_ring_status": "EXHAUSTED",
+      "nodes": 3,
+      "placement_options": 452,
+      "min_boundary_options": 2,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 0
+    },
+    {
+      "id": "881dcb43e53d8707",
+      "cells": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          2
+        ]
+      ],
+      "parent": "hex13-kaplan-hc4hh4",
+      "operator": "paired-growth",
+      "area": 19,
+      "perimeter": 54,
+      "first_ring_status": "EXHAUSTED",
+      "nodes": 28,
+      "placement_options": 574,
+      "min_boundary_options": 1,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 0
+    },
+    {
+      "id": "6e07e6a3dac5c51b",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          5,
+          3
+        ]
+      ],
+      "parent": "hex15-kaplan-hc4hh4-a",
+      "operator": "paired-growth",
+      "area": 20,
+      "perimeter": 54,
+      "first_ring_status": "EXHAUSTED",
+      "nodes": 1,
+      "placement_options": 532,
+      "min_boundary_options": 0,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 0
+    },
+    {
+      "id": "85fc7160bc945a62",
+      "cells": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          1
+        ],
+        [
+          6,
+          0
+        ]
+      ],
+      "parent": "hex16-kaplan-hc4hh4",
+      "operator": "relocate-grow",
+      "area": 18,
+      "perimeter": 50,
+      "first_ring_status": "SAT",
+      "nodes": 15,
+      "placement_options": 568,
+      "min_boundary_options": 6,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 1,
+      "witness": "results\\shapes\\85fc7160bc945a62.heesch"
+    },
+    {
+      "id": "c54c9cb8b2eccc19",
+      "cells": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          3,
+          6
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          4
+        ]
+      ],
+      "parent": "frontier-15hex-b",
+      "operator": "relocate-grow",
+      "area": 19,
+      "perimeter": 52,
+      "first_ring_status": "EXHAUSTED",
+      "nodes": 1,
+      "placement_options": 547,
+      "min_boundary_options": 0,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 0
+    },
+    {
+      "id": "ea604624e8b92f79",
+      "cells": [
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          4,
+          5
+        ],
+        [
+          5,
+          1
+        ],
+        [
+          6,
+          0
+        ]
+      ],
+      "parent": "hex13-kaplan-hc4hh4",
+      "operator": "growth",
+      "area": 18,
+      "perimeter": 44,
+      "first_ring_status": "EXHAUSTED",
+      "nodes": 50,
+      "placement_options": 526,
+      "min_boundary_options": 11,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 0
+    },
+    {
+      "id": "fc2c7106962ebaae",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          2
+        ]
+      ],
+      "parent": "hex15-kaplan-hc4hh4-a",
+      "operator": "growth",
+      "area": 19,
+      "perimeter": 42,
+      "first_ring_status": "SAT",
+      "nodes": 6,
+      "placement_options": 452,
+      "min_boundary_options": 3,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 1,
+      "witness": "results\\shapes\\fc2c7106962ebaae.heesch"
+    },
+    {
+      "id": "50118a5d83965b48",
+      "cells": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          2,
+          7
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ]
+      ],
+      "parent": "hex16-kaplan-hc4hh4",
+      "operator": "growth",
+      "area": 20,
+      "perimeter": 48,
+      "first_ring_status": "EXHAUSTED",
+      "nodes": 11,
+      "placement_options": 542,
+      "min_boundary_options": 5,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 0
+    },
+    {
+      "id": "b114b802fbefad5b",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          4,
+          5
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          5,
+          3
+        ]
+      ],
+      "parent": "frontier-15hex-b",
+      "operator": "paired-growth",
+      "area": 18,
+      "perimeter": 44,
+      "first_ring_status": "SAT",
+      "nodes": 8,
+      "placement_options": 513,
+      "min_boundary_options": 5,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 1,
+      "witness": "results\\shapes\\b114b802fbefad5b.heesch"
+    },
+    {
+      "id": "0a3848ab5534edc7",
+      "cells": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "parent": "hex11-kaplan-hc4hh4",
+      "operator": "paired-growth",
+      "area": 19,
+      "perimeter": 42,
+      "first_ring_status": "SAT",
+      "nodes": 35,
+      "placement_options": 504,
+      "min_boundary_options": 9,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 1,
+      "witness": "results\\shapes\\0a3848ab5534edc7.heesch"
+    },
+    {
+      "id": "90959aa2c1c9cbe8",
+      "cells": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          1
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          6,
+          2
+        ]
+      ],
+      "parent": "hex13-kaplan-hc4hh4",
+      "operator": "paired-growth",
+      "area": 20,
+      "perimeter": 44,
+      "first_ring_status": "SAT",
+      "nodes": 8,
+      "placement_options": 513,
+      "min_boundary_options": 7,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 1,
+      "witness": "results\\shapes\\90959aa2c1c9cbe8.heesch"
+    },
+    {
+      "id": "82ddf4e10a2062f6",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          5,
+          2
+        ]
+      ],
+      "parent": "hex15-kaplan-hc4hh4-a",
+      "operator": "relocate-grow",
+      "area": 18,
+      "perimeter": 36,
+      "first_ring_status": "SAT",
+      "nodes": 6,
+      "placement_options": 432,
+      "min_boundary_options": 16,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 1,
+      "witness": "results\\shapes\\82ddf4e10a2062f6.heesch"
+    },
+    {
+      "id": "12d1f7efcf0a56ba",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          1
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          5,
+          4
+        ],
+        [
+          6,
+          2
+        ]
+      ],
+      "parent": "frontier-15hex-b",
+      "operator": "relocate-grow",
+      "area": 20,
+      "perimeter": 48,
+      "first_ring_status": "SAT",
+      "nodes": 22,
+      "placement_options": 521,
+      "min_boundary_options": 2,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 1,
+      "witness": "results\\shapes\\12d1f7efcf0a56ba.heesch"
+    },
+    {
+      "id": "c81888562d8754dd",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          2
+        ]
+      ],
+      "parent": "hex11-kaplan-hc4hh4",
+      "operator": "growth",
+      "area": 18,
+      "perimeter": 50,
+      "first_ring_status": "EXHAUSTED",
+      "nodes": 1,
+      "placement_options": 449,
+      "min_boundary_options": 0,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 0
+    },
+    {
+      "id": "7c50dca8d891fe1e",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          2
+        ]
+      ],
+      "parent": "hex13-kaplan-hc4hh4",
+      "operator": "growth",
+      "area": 19,
+      "perimeter": 48,
+      "first_ring_status": "EXHAUSTED",
+      "nodes": 33,
+      "placement_options": 464,
+      "min_boundary_options": 2,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 0
+    },
+    {
+      "id": "16ae240197f29ba4",
+      "cells": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          1
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          6,
+          0
+        ]
+      ],
+      "parent": "hex15-kaplan-hc4hh4-a",
+      "operator": "growth",
+      "area": 20,
+      "perimeter": 46,
+      "first_ring_status": "SAT",
+      "nodes": 42,
+      "placement_options": 536,
+      "min_boundary_options": 9,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 1,
+      "witness": "results\\shapes\\16ae240197f29ba4.heesch"
+    },
+    {
+      "id": "c85a93f6b578ff23",
+      "cells": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          6,
+          3
+        ]
+      ],
+      "parent": "hex16-kaplan-hc4hh4",
+      "operator": "paired-growth",
+      "area": 18,
+      "perimeter": 48,
+      "first_ring_status": "EXHAUSTED",
+      "nodes": 50,
+      "placement_options": 540,
+      "min_boundary_options": 4,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 0
+    },
+    {
+      "id": "4cd743dde721e071",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          3,
+          6
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          4,
+          5
+        ],
+        [
+          5,
+          2
+        ]
+      ],
+      "parent": "frontier-15hex-b",
+      "operator": "paired-growth",
+      "area": 19,
+      "perimeter": 46,
+      "first_ring_status": "SAT",
+      "nodes": 23,
+      "placement_options": 536,
+      "min_boundary_options": 5,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 1,
+      "witness": "results\\shapes\\4cd743dde721e071.heesch"
+    },
+    {
+      "id": "8982c6e28e019fe2",
+      "cells": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          4,
+          5
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          5,
+          3
+        ]
+      ],
+      "parent": "hex11-kaplan-hc4hh4",
+      "operator": "paired-growth",
+      "area": 20,
+      "perimeter": 62,
+      "first_ring_status": "EXHAUSTED",
+      "nodes": 3,
+      "placement_options": 601,
+      "min_boundary_options": 1,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 0
+    },
+    {
+      "id": "de961bd9d38f59f4",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          2,
+          7
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "parent": "hex15-kaplan-hc4hh4-a",
+      "operator": "relocate-grow",
+      "area": 19,
+      "perimeter": 54,
+      "first_ring_status": "EXHAUSTED",
+      "nodes": 5,
+      "placement_options": 581,
+      "min_boundary_options": 2,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 0
+    },
+    {
+      "id": "f80de37162940c13",
+      "cells": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          1
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          6,
+          1
+        ]
+      ],
+      "parent": "hex16-kaplan-hc4hh4",
+      "operator": "relocate-grow",
+      "area": 20,
+      "perimeter": 48,
+      "first_ring_status": "EXHAUSTED",
+      "nodes": 1,
+      "placement_options": 497,
+      "min_boundary_options": 0,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 0
+    },
+    {
+      "id": "78b5d5dbe7e9e080",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          6,
+          1
+        ]
+      ],
+      "parent": "frontier-15hex-b",
+      "operator": "growth",
+      "area": 18,
+      "perimeter": 44,
+      "first_ring_status": "SAT",
+      "nodes": 23,
+      "placement_options": 502,
+      "min_boundary_options": 6,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 1,
+      "witness": "results\\shapes\\78b5d5dbe7e9e080.heesch"
+    },
+    {
+      "id": "a4262bd57f1be333",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          1
+        ],
+        [
+          6,
+          0
+        ]
+      ],
+      "parent": "hex11-kaplan-hc4hh4",
+      "operator": "growth",
+      "area": 19,
+      "perimeter": 62,
+      "first_ring_status": "EXHAUSTED",
+      "nodes": 1,
+      "placement_options": 587,
+      "min_boundary_options": 0,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 0
+    },
+    {
+      "id": "d24c529d453d937d",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          6,
+          3
+        ]
+      ],
+      "parent": "hex13-kaplan-hc4hh4",
+      "operator": "growth",
+      "area": 20,
+      "perimeter": 56,
+      "first_ring_status": "EXHAUSTED",
+      "nodes": 6,
+      "placement_options": 606,
+      "min_boundary_options": 4,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 0
+    },
+    {
+      "id": "f20bc6d8f0ebdbfc",
+      "cells": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          1
+        ]
+      ],
+      "parent": "hex15-kaplan-hc4hh4-a",
+      "operator": "paired-growth",
+      "area": 18,
+      "perimeter": 44,
+      "first_ring_status": "SAT",
+      "nodes": 11,
+      "placement_options": 508,
+      "min_boundary_options": 10,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 1,
+      "witness": "results\\shapes\\f20bc6d8f0ebdbfc.heesch"
+    },
+    {
+      "id": "4e36e2f41beddc89",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ]
+      ],
+      "parent": "hex16-kaplan-hc4hh4",
+      "operator": "paired-growth",
+      "area": 19,
+      "perimeter": 48,
+      "first_ring_status": "EXHAUSTED",
+      "nodes": 100,
+      "placement_options": 544,
+      "min_boundary_options": 6,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 0
+    },
+    {
+      "id": "5fbedd9122759202",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          5,
+          4
+        ],
+        [
+          6,
+          3
+        ],
+        [
+          7,
+          2
+        ],
+        [
+          7,
+          3
+        ]
+      ],
+      "parent": "frontier-15hex-b",
+      "operator": "paired-growth",
+      "area": 20,
+      "perimeter": 52,
+      "first_ring_status": "SAT",
+      "nodes": 7,
+      "placement_options": 577,
+      "min_boundary_options": 5,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 1,
+      "witness": "results\\shapes\\5fbedd9122759202.heesch"
+    },
+    {
+      "id": "9122f86504e5a7db",
+      "cells": [
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          5,
+          4
+        ],
+        [
+          6,
+          1
+        ]
+      ],
+      "parent": "hex13-kaplan-hc4hh4",
+      "operator": "relocate-grow",
+      "area": 19,
+      "perimeter": 50,
+      "first_ring_status": "EXHAUSTED",
+      "nodes": 6,
+      "placement_options": 532,
+      "min_boundary_options": 5,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 0
+    },
+    {
+      "id": "86154eb787441838",
+      "cells": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          5,
+          1
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          6,
+          2
+        ]
+      ],
+      "parent": "hex15-kaplan-hc4hh4-a",
+      "operator": "relocate-grow",
+      "area": 20,
+      "perimeter": 48,
+      "first_ring_status": "EXHAUSTED",
+      "nodes": 22,
+      "placement_options": 516,
+      "min_boundary_options": 4,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 0
+    },
+    {
+      "id": "5dff104104df0eaa",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "parent": "hex16-kaplan-hc4hh4",
+      "operator": "growth",
+      "area": 18,
+      "perimeter": 44,
+      "first_ring_status": "EXHAUSTED",
+      "nodes": 8,
+      "placement_options": 503,
+      "min_boundary_options": 4,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 0
+    },
+    {
+      "id": "7eef670b13c2168d",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          2,
+          7
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          3,
+          6
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ]
+      ],
+      "parent": "frontier-15hex-b",
+      "operator": "growth",
+      "area": 19,
+      "perimeter": 54,
+      "first_ring_status": "EXHAUSTED",
+      "nodes": 52,
+      "placement_options": 566,
+      "min_boundary_options": 3,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 0
+    },
+    {
+      "id": "d92ded2ab834ae2d",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          6,
+          1
+        ]
+      ],
+      "parent": "hex11-kaplan-hc4hh4",
+      "operator": "growth",
+      "area": 20,
+      "perimeter": 64,
+      "first_ring_status": "EXHAUSTED",
+      "nodes": 1,
+      "placement_options": 566,
+      "min_boundary_options": 0,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 0
+    },
+    {
+      "id": "5e183e31391bafc0",
+      "cells": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "parent": "hex13-kaplan-hc4hh4",
+      "operator": "paired-growth",
+      "area": 18,
+      "perimeter": 48,
+      "first_ring_status": "SAT",
+      "nodes": 153,
+      "placement_options": 513,
+      "min_boundary_options": 2,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 1,
+      "witness": "results\\shapes\\5e183e31391bafc0.heesch"
+    },
+    {
+      "id": "fd8cec72eaf1b378",
+      "cells": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          3,
+          6
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          4,
+          5
+        ]
+      ],
+      "parent": "hex15-kaplan-hc4hh4-a",
+      "operator": "paired-growth",
+      "area": 19,
+      "perimeter": 50,
+      "first_ring_status": "SAT",
+      "nodes": 228,
+      "placement_options": 571,
+      "min_boundary_options": 6,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 1,
+      "witness": "results\\shapes\\fd8cec72eaf1b378.heesch"
+    },
+    {
+      "id": "bc770d27509f1604",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "parent": "hex16-kaplan-hc4hh4",
+      "operator": "paired-growth",
+      "area": 20,
+      "perimeter": 42,
+      "first_ring_status": "EXHAUSTED",
+      "nodes": 1,
+      "placement_options": 444,
+      "min_boundary_options": 0,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 0
+    },
+    {
+      "id": "6779e684b946cff3",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          1
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          5,
+          4
+        ],
+        [
+          6,
+          2
+        ]
+      ],
+      "parent": "frontier-15hex-b",
+      "operator": "relocate-grow",
+      "area": 18,
+      "perimeter": 50,
+      "first_ring_status": "EXHAUSTED",
+      "nodes": 266,
+      "placement_options": 565,
+      "min_boundary_options": 3,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 0
+    },
+    {
+      "id": "8feb2d27243b3d48",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          4,
+          5
+        ],
+        [
+          5,
+          3
+        ]
+      ],
+      "parent": "hex11-kaplan-hc4hh4",
+      "operator": "relocate-grow",
+      "area": 19,
+      "perimeter": 62,
+      "first_ring_status": "EXHAUSTED",
+      "nodes": 30,
+      "placement_options": 611,
+      "min_boundary_options": 1,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 0
+    },
+    {
+      "id": "57e56f1eb2e8a338",
+      "cells": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          1,
+          7
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          7
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          1
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          5,
+          4
+        ],
+        [
+          6,
+          0
+        ]
+      ],
+      "parent": "hex13-kaplan-hc4hh4",
+      "operator": "relocate-grow",
+      "area": 20,
+      "perimeter": 70,
+      "first_ring_status": "EXHAUSTED",
+      "nodes": 10,
+      "placement_options": 665,
+      "min_boundary_options": 3,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 0
+    },
+    {
+      "id": "30116bd51006494d",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          1
+        ],
+        [
+          6,
+          1
+        ]
+      ],
+      "parent": "hex15-kaplan-hc4hh4-a",
+      "operator": "growth",
+      "area": 18,
+      "perimeter": 42,
+      "first_ring_status": "SAT",
+      "nodes": 216,
+      "placement_options": 481,
+      "min_boundary_options": 7,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 1,
+      "witness": "results\\shapes\\30116bd51006494d.heesch"
+    },
+    {
+      "id": "0b232ac4c56853d5",
+      "cells": [
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          1
+        ]
+      ],
+      "parent": "hex16-kaplan-hc4hh4",
+      "operator": "growth",
+      "area": 19,
+      "perimeter": 48,
+      "first_ring_status": "EXHAUSTED",
+      "nodes": 2,
+      "placement_options": 517,
+      "min_boundary_options": 1,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 0
+    },
+    {
+      "id": "66bc0467a76ef95a",
+      "cells": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          4,
+          5
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          5,
+          3
+        ]
+      ],
+      "parent": "frontier-15hex-b",
+      "operator": "growth",
+      "area": 20,
+      "perimeter": 56,
+      "first_ring_status": "EXHAUSTED",
+      "nodes": 1,
+      "placement_options": 527,
+      "min_boundary_options": 0,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 0
+    },
+    {
+      "id": "d5d1ae39de0e8b95",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          7
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          3,
+          7
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          4,
+          5
+        ],
+        [
+          4,
+          6
+        ],
+        [
+          5,
+          4
+        ]
+      ],
+      "parent": "hex11-kaplan-hc4hh4",
+      "operator": "paired-growth",
+      "area": 18,
+      "perimeter": 62,
+      "first_ring_status": "SAT",
+      "nodes": 29,
+      "placement_options": 625,
+      "min_boundary_options": 2,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 1,
+      "witness": "results\\shapes\\d5d1ae39de0e8b95.heesch"
+    },
+    {
+      "id": "c0049de57bc0ea20",
+      "cells": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          5,
+          1
+        ],
+        [
+          5,
+          3
+        ]
+      ],
+      "parent": "hex13-kaplan-hc4hh4",
+      "operator": "paired-growth",
+      "area": 19,
+      "perimeter": 54,
+      "first_ring_status": "EXHAUSTED",
+      "nodes": 2,
+      "placement_options": 529,
+      "min_boundary_options": 1,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 0
+    },
+    {
+      "id": "ed44a8d109196dbe",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          5,
+          1
+        ],
+        [
+          5,
+          2
+        ]
+      ],
+      "parent": "hex15-kaplan-hc4hh4-a",
+      "operator": "paired-growth",
+      "area": 20,
+      "perimeter": 50,
+      "first_ring_status": "EXHAUSTED",
+      "nodes": 4,
+      "placement_options": 489,
+      "min_boundary_options": 1,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 0
+    },
+    {
+      "id": "6ca23a05588a7a7d",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          1
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          6,
+          3
+        ]
+      ],
+      "parent": "hex16-kaplan-hc4hh4",
+      "operator": "relocate-grow",
+      "area": 18,
+      "perimeter": 52,
+      "first_ring_status": "EXHAUSTED",
+      "nodes": 6,
+      "placement_options": 565,
+      "min_boundary_options": 5,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 0
+    },
+    {
+      "id": "0f7af707ad44f37c",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          4,
+          5
+        ],
+        [
+          5,
+          2
+        ]
+      ],
+      "parent": "frontier-15hex-b",
+      "operator": "relocate-grow",
+      "area": 19,
+      "perimeter": 48,
+      "first_ring_status": "EXHAUSTED",
+      "nodes": 3,
+      "placement_options": 517,
+      "min_boundary_options": 2,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 0
+    },
+    {
+      "id": "dbf620571ad48ad3",
+      "cells": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          5,
+          4
+        ],
+        [
+          6,
+          1
+        ]
+      ],
+      "parent": "hex11-kaplan-hc4hh4",
+      "operator": "relocate-grow",
+      "area": 20,
+      "perimeter": 64,
+      "first_ring_status": "EXHAUSTED",
+      "nodes": 1,
+      "placement_options": 545,
+      "min_boundary_options": 0,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 0
+    },
+    {
+      "id": "21b02d685c6847c9",
+      "cells": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          1
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          5,
+          4
+        ],
+        [
+          6,
+          0
+        ]
+      ],
+      "parent": "hex13-kaplan-hc4hh4",
+      "operator": "growth",
+      "area": 18,
+      "perimeter": 54,
+      "first_ring_status": "EXHAUSTED",
+      "nodes": 29,
+      "placement_options": 563,
+      "min_boundary_options": 4,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 0
+    },
+    {
+      "id": "d9013d262f808186",
+      "cells": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          5,
+          1
+        ]
+      ],
+      "parent": "hex15-kaplan-hc4hh4-a",
+      "operator": "growth",
+      "area": 19,
+      "perimeter": 44,
+      "first_ring_status": "SAT",
+      "nodes": 10,
+      "placement_options": 433,
+      "min_boundary_options": 1,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 1,
+      "witness": "results\\shapes\\d9013d262f808186.heesch"
+    },
+    {
+      "id": "19ba4635a7f72ccd",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          1
+        ],
+        [
+          5,
+          2
+        ]
+      ],
+      "parent": "hex16-kaplan-hc4hh4",
+      "operator": "growth",
+      "area": 20,
+      "perimeter": 52,
+      "first_ring_status": "EXHAUSTED",
+      "nodes": 50,
+      "placement_options": 526,
+      "min_boundary_options": 1,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 0
+    },
+    {
+      "id": "1afbc89710b5b66e",
+      "cells": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          5,
+          4
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          6,
+          3
+        ]
+      ],
+      "parent": "frontier-15hex-b",
+      "operator": "paired-growth",
+      "area": 18,
+      "perimeter": 52,
+      "first_ring_status": "SAT",
+      "nodes": 17,
+      "placement_options": 613,
+      "min_boundary_options": 6,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 1,
+      "witness": "results\\shapes\\1afbc89710b5b66e.heesch"
+    },
+    {
+      "id": "91b3d0e65e526c6a",
+      "cells": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          1
+        ],
+        [
+          5,
+          2
+        ]
+      ],
+      "parent": "hex11-kaplan-hc4hh4",
+      "operator": "paired-growth",
+      "area": 19,
+      "perimeter": 54,
+      "first_ring_status": "EXHAUSTED",
+      "nodes": 1,
+      "placement_options": 527,
+      "min_boundary_options": 0,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 0
+    },
+    {
+      "id": "39c7d9f7af292671",
+      "cells": [
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          2
+        ]
+      ],
+      "parent": "hex13-kaplan-hc4hh4",
+      "operator": "paired-growth",
+      "area": 20,
+      "perimeter": 40,
+      "first_ring_status": "SAT",
+      "nodes": 6,
+      "placement_options": 476,
+      "min_boundary_options": 11,
+      "non_tiler_status": "UNPROVEN",
+      "hc_lower_bound": 1,
+      "witness": "results\\shapes\\39c7d9f7af292671.heesch"
+    }
+  ]
+}

@@ -1,0 +1,1542 @@
+{
+  "records": [
+    {
+      "canonical_digest": "0674154f7e722635f2a238cf334f9811d1f9f7804ebebf3620e2714c04fe944e",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "verified_depth": 3,
+      "witness": "results/shapes/repair-regrow-0674154f7e722635.heesch",
+      "periodic_search": {
+        "status": "PERIODIC_TILER",
+        "seconds": 0.2386000999249518,
+        "lattices_tested": 105,
+        "certificate": {
+          "lattice_basis": [
+            [
+              80,
+              0
+            ],
+            [
+              49,
+              1
+            ]
+          ],
+          "copies_per_period": 4,
+          "placements": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              6,
+              75,
+              0
+            ],
+            [
+              9,
+              8,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ],
+          "residue_partition_checked": true
+        }
+      }
+    },
+    {
+      "canonical_digest": "12625ea19faf8a5060bfe28c77736b973bb9c553a6ca86d36bf4228def585ab8",
+      "cells": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "verified_depth": 3,
+      "witness": "results/shapes/repair-regrow-12625ea19faf8a50.heesch",
+      "periodic_search": {
+        "status": "PERIODIC_TILER",
+        "seconds": 0.309406999964267,
+        "lattices_tested": 113,
+        "certificate": {
+          "lattice_basis": [
+            [
+              80,
+              0
+            ],
+            [
+              49,
+              1
+            ]
+          ],
+          "copies_per_period": 4,
+          "placements": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              6,
+              75,
+              0
+            ],
+            [
+              9,
+              8,
+              0
+            ]
+          ],
+          "residue_partition_checked": true
+        }
+      }
+    },
+    {
+      "canonical_digest": "13aa476b21755eab45890d6f3a02fb5eb1474c131490de6289b56e8c7fdf8ede",
+      "cells": [
+        [
+          -1,
+          2
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "verified_depth": 3,
+      "witness": "results/shapes/repair-regrow-13aa476b21755eab.heesch",
+      "periodic_search": {
+        "status": "PERIODIC_TILER",
+        "seconds": 0.012334099970757961,
+        "lattices_tested": 6,
+        "certificate": {
+          "lattice_basis": [
+            [
+              10,
+              0
+            ],
+            [
+              2,
+              8
+            ]
+          ],
+          "copies_per_period": 4,
+          "placements": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              4
+            ],
+            [
+              3,
+              8,
+              5
+            ],
+            [
+              3,
+              7,
+              1
+            ]
+          ],
+          "residue_partition_checked": true
+        }
+      }
+    },
+    {
+      "canonical_digest": "150186aa8ef64fd00c5ef05939fcb84c3a6b02b5a4c5f0d74c3fd16298e5a4b1",
+      "cells": [
+        [
+          -1,
+          6
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "verified_depth": 3,
+      "witness": "results/shapes/repair-regrow-150186aa8ef64fd0.heesch",
+      "periodic_search": {
+        "status": "PERIODIC_TILER",
+        "seconds": 0.006987599655985832,
+        "lattices_tested": 5,
+        "certificate": {
+          "lattice_basis": [
+            [
+              8,
+              0
+            ],
+            [
+              2,
+              10
+            ]
+          ],
+          "copies_per_period": 4,
+          "placements": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              3,
+              0,
+              5
+            ],
+            [
+              0,
+              5,
+              5
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ],
+          "residue_partition_checked": true
+        }
+      }
+    },
+    {
+      "canonical_digest": "1baad331bbb6068e2f4dea3ebf19cd0adb059280870908fe447fa010a43705fc",
+      "cells": [
+        [
+          -1,
+          2
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          0
+        ]
+      ],
+      "verified_depth": 3,
+      "witness": "results/shapes/repair-regrow-1baad331bbb6068e.heesch",
+      "periodic_search": {
+        "status": "PERIODIC_TILER",
+        "seconds": 0.2707738997414708,
+        "lattices_tested": 106,
+        "certificate": {
+          "lattice_basis": [
+            [
+              80,
+              0
+            ],
+            [
+              49,
+              1
+            ]
+          ],
+          "copies_per_period": 4,
+          "placements": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              9,
+              8,
+              0
+            ],
+            [
+              6,
+              75,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ],
+          "residue_partition_checked": true
+        }
+      }
+    },
+    {
+      "canonical_digest": "1ce5651a5290b37ef91323804650db0355e8b811044732a7aa891190808816a1",
+      "cells": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "verified_depth": 3,
+      "witness": "results/shapes/repair-regrow-1ce5651a5290b37e.heesch",
+      "periodic_search": {
+        "status": "PERIODIC_TILER",
+        "seconds": 0.28352070041000843,
+        "lattices_tested": 98,
+        "certificate": {
+          "lattice_basis": [
+            [
+              80,
+              0
+            ],
+            [
+              31,
+              1
+            ]
+          ],
+          "copies_per_period": 4,
+          "placements": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              9,
+              5,
+              0
+            ],
+            [
+              3,
+              13,
+              0
+            ],
+            [
+              6,
+              8,
+              0
+            ]
+          ],
+          "residue_partition_checked": true
+        }
+      }
+    },
+    {
+      "canonical_digest": "1fa87690288fbcb36be9f5497ca69d22cdb419398b4e29701ab7ce74484006d5",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          -1
+        ]
+      ],
+      "verified_depth": 3,
+      "witness": "results/shapes/repair-regrow-1fa87690288fbcb3.heesch",
+      "periodic_search": {
+        "status": "PERIODIC_TILER",
+        "seconds": 0.22242459980770946,
+        "lattices_tested": 104,
+        "certificate": {
+          "lattice_basis": [
+            [
+              80,
+              0
+            ],
+            [
+              49,
+              1
+            ]
+          ],
+          "copies_per_period": 4,
+          "placements": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              9,
+              8,
+              0
+            ],
+            [
+              6,
+              75,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ],
+          "residue_partition_checked": true
+        }
+      }
+    },
+    {
+      "canonical_digest": "2387288946568de9dcb9df5f8ce249e34a58160bbb5bf893fa06a20733e6dc34",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          -1
+        ]
+      ],
+      "verified_depth": 3,
+      "witness": "results/shapes/repair-regrow-2387288946568de9.heesch",
+      "periodic_search": {
+        "status": "PERIODIC_TILER",
+        "seconds": 0.13185249967500567,
+        "lattices_tested": 61,
+        "certificate": {
+          "lattice_basis": [
+            [
+              40,
+              0
+            ],
+            [
+              18,
+              2
+            ]
+          ],
+          "copies_per_period": 4,
+          "placements": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              6,
+              35,
+              0
+            ],
+            [
+              0,
+              9,
+              1
+            ],
+            [
+              6,
+              4,
+              1
+            ]
+          ],
+          "residue_partition_checked": true
+        }
+      }
+    },
+    {
+      "canonical_digest": "24891906538f15e9f3260986bd7186c87075e378571902e00d9f0cfd80fd3b7b",
+      "cells": [
+        [
+          -1,
+          6
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "verified_depth": 3,
+      "witness": "results/shapes/repair-regrow-24891906538f15e9.heesch",
+      "periodic_search": {
+        "status": "PERIODIC_TILER",
+        "seconds": 0.24864150024950504,
+        "lattices_tested": 103,
+        "certificate": {
+          "lattice_basis": [
+            [
+              80,
+              0
+            ],
+            [
+              49,
+              1
+            ]
+          ],
+          "copies_per_period": 4,
+          "placements": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              6,
+              75,
+              0
+            ],
+            [
+              9,
+              8,
+              0
+            ]
+          ],
+          "residue_partition_checked": true
+        }
+      }
+    },
+    {
+      "canonical_digest": "26dd9837a5277bd599f434ecad8928f3928b690dcd58a86f84c90546ac2b7be1",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "verified_depth": 3,
+      "witness": "results/shapes/repair-regrow-26dd9837a5277bd5.heesch",
+      "periodic_search": {
+        "status": "PERIODIC_TILER",
+        "seconds": 0.26812649983912706,
+        "lattices_tested": 107,
+        "certificate": {
+          "lattice_basis": [
+            [
+              80,
+              0
+            ],
+            [
+              49,
+              1
+            ]
+          ],
+          "copies_per_period": 4,
+          "placements": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              6,
+              75,
+              0
+            ],
+            [
+              9,
+              8,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ],
+          "residue_partition_checked": true
+        }
+      }
+    },
+    {
+      "canonical_digest": "2d98aff37fd4dc8335f440cd709e6c12192caee7beab10f845407ca19c79426e",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "verified_depth": 2,
+      "witness": "results/shapes/repair-regrow-2d98aff37fd4dc83.heesch",
+      "periodic_search": {
+        "status": "PERIODIC_TILER",
+        "seconds": 0.010255100205540657,
+        "lattices_tested": 5,
+        "certificate": {
+          "lattice_basis": [
+            [
+              8,
+              0
+            ],
+            [
+              2,
+              10
+            ]
+          ],
+          "copies_per_period": 4,
+          "placements": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              3,
+              0,
+              5
+            ],
+            [
+              0,
+              5,
+              5
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ],
+          "residue_partition_checked": true
+        }
+      }
+    },
+    {
+      "canonical_digest": "2e6e82273cba1f77e1d723815cf7f03a351343aea0764649ef2be9efd17717ae",
+      "cells": [
+        [
+          -1,
+          3
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "verified_depth": 3,
+      "witness": "results/shapes/repair-regrow-2e6e82273cba1f77.heesch",
+      "periodic_search": {
+        "status": "PERIODIC_TILER",
+        "seconds": 0.34058400010690093,
+        "lattices_tested": 110,
+        "certificate": {
+          "lattice_basis": [
+            [
+              80,
+              0
+            ],
+            [
+              49,
+              1
+            ]
+          ],
+          "copies_per_period": 4,
+          "placements": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              6,
+              75,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              9,
+              8,
+              0
+            ]
+          ],
+          "residue_partition_checked": true
+        }
+      }
+    }
+  ],
+  "scope": "First saved center repair per shape; bounded outer regrowth. Missing rings remain UNKNOWN.",
+  "non_tiler_proofs_generated": 0
+}

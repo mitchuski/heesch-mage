@@ -1,0 +1,22 @@
+{
+  "records": [
+    {
+      "target_depth": 3,
+      "official_proof_gate_run": false,
+      "clauses_added": 1119257,
+      "models_checked": 1,
+      "variables": 296733,
+      "universe_sizes": [
+        471,
+        4635,
+        12505
+      ],
+      "encode_seconds": 46.79700000025332,
+      "status": "VERIFIED_WITNESS",
+      "verified_depth": 3,
+      "seconds": 47.17200000025332,
+      "id": "hex16-kaplan-hc4hh4",
+      "witness": "results\\shapes\\sat-d3-hex16-kaplan-hc4hh4.heesch"
+    }
+  ]
+}

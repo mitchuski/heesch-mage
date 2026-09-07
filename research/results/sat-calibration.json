@@ -1,0 +1,76 @@
+{
+  "negative_shape": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      2
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      1
+    ],
+    [
+      2,
+      2
+    ]
+  ],
+  "census_hc_hh": [
+    0,
+    0
+  ],
+  "native_sat_negative": {
+    "target_depth": 1,
+    "official_proof_gate_run": false,
+    "clauses_added": 8213,
+    "models_checked": 0,
+    "variables": 1343,
+    "universe_sizes": [
+      264
+    ],
+    "encode_seconds": 0.030999999959021807,
+    "status": "UNSAT_FROZEN_FORMULA",
+    "seconds": 0.030999999959021807
+  },
+  "independent_geometry_negative": {
+    "status": "EXHAUSTED_RELAXED_EXPANSION",
+    "depth": 1,
+    "seconds": 0.0,
+    "search_nodes_completed_subcalls": 1,
+    "expansions_by_remaining_depth": {
+      "1": 1
+    },
+    "cached_failed_patches": 1,
+    "relaxed_witness": null,
+    "official_non_tiler_certificate": false
+  },
+  "monohex_positive": {
+    "target_depth": 1,
+    "official_proof_gate_run": false,
+    "clauses_added": 402,
+    "models_checked": 1,
+    "variables": 72,
+    "universe_sizes": [
+      72
+    ],
+    "encode_seconds": 0.0,
+    "status": "VERIFIED_WITNESS",
+    "verified_depth": 1,
+    "seconds": 0.0
+  },
+  "passed": true
+}

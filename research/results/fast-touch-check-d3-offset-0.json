@@ -1,0 +1,76 @@
+{
+  "random_graph_checks": 120,
+  "full_formula_comparisons": 1,
+  "records": [
+    {
+      "id": "hex11-kaplan-hc4hh4",
+      "depth": 3,
+      "runs": [
+        {
+          "touch_graph_seconds": 49.5015406999737,
+          "touch_graph_vertices": 7940,
+          "touch_graph_edges": 1126054,
+          "experimental_fast_graph": false,
+          "seconds": 61.22457369975746,
+          "ordered_clause_sha256": "6ea6d031a3acd8d63c1d4c4de18c3271dc4fa8ec673b5204ba5faf5671b50173",
+          "clauses": 529105,
+          "variables": 127407,
+          "family_counts": [
+            [
+              "1",
+              21
+            ],
+            [
+              "2",
+              361567
+            ],
+            [
+              "4",
+              10440
+            ],
+            [
+              "5",
+              89304
+            ],
+            [
+              "6",
+              67773
+            ]
+          ]
+        },
+        {
+          "touch_graph_seconds": 2.0302221002057195,
+          "touch_graph_vertices": 7940,
+          "touch_graph_edges": 1126054,
+          "experimental_fast_graph": true,
+          "seconds": 14.63710379973054,
+          "ordered_clause_sha256": "6ea6d031a3acd8d63c1d4c4de18c3271dc4fa8ec673b5204ba5faf5671b50173",
+          "clauses": 529105,
+          "variables": 127407,
+          "family_counts": [
+            [
+              "1",
+              21
+            ],
+            [
+              "2",
+              361567
+            ],
+            [
+              "4",
+              10440
+            ],
+            [
+              "5",
+              89304
+            ],
+            [
+              "6",
+              67773
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

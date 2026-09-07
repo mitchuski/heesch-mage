@@ -1,0 +1,6669 @@
+{
+  "source": "results/shapes/discussion75-d3-f8df9dc177363142.heesch",
+  "positive_calibration_passed": true,
+  "records": [
+    {
+      "canonical_digest": "0674154f7e722635f2a238cf334f9811d1f9f7804ebebf3620e2714c04fe944e",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 256,
+        "SAT": 256
+      },
+      "candidate_placements": 539,
+      "seconds": 0.03278909996151924,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          1,
+          18,
+          9,
+          10,
+          12,
+          16,
+          17,
+          25,
+          30
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "12625ea19faf8a5060bfe28c77736b973bb9c553a6ca86d36bf4228def585ab8",
+      "cells": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 384,
+        "SAT": 128
+      },
+      "candidate_placements": 540,
+      "seconds": 0.032705700024962425,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          7,
+          18,
+          9,
+          10,
+          12,
+          16,
+          17,
+          25,
+          30
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "13aa476b21755eab45890d6f3a02fb5eb1474c131490de6289b56e8c7fdf8ede",
+      "cells": [
+        [
+          -1,
+          2
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 384,
+        "SAT": 128
+      },
+      "candidate_placements": 484,
+      "seconds": 0.031316899694502354,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          10,
+          17,
+          7,
+          9,
+          12,
+          15,
+          18,
+          27,
+          28
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "150186aa8ef64fd00c5ef05939fcb84c3a6b02b5a4c5f0d74c3fd16298e5a4b1",
+      "cells": [
+        [
+          -1,
+          6
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 384,
+        "SAT": 128
+      },
+      "candidate_placements": 561,
+      "seconds": 0.032693599816411734,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          7,
+          18,
+          9,
+          10,
+          12,
+          16,
+          17,
+          25,
+          30
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "1baad331bbb6068e2f4dea3ebf19cd0adb059280870908fe447fa010a43705fc",
+      "cells": [
+        [
+          -1,
+          2
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          0
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 384,
+        "SAT": 128
+      },
+      "candidate_placements": 548,
+      "seconds": 0.03364429995417595,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          10,
+          17,
+          7,
+          9,
+          12,
+          15,
+          18,
+          27,
+          28
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "1ce5651a5290b37ef91323804650db0355e8b811044732a7aa891190808816a1",
+      "cells": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 384,
+        "SAT": 128
+      },
+      "candidate_placements": 476,
+      "seconds": 0.029614200349897146,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          7,
+          18,
+          9,
+          10,
+          12,
+          16,
+          17,
+          25,
+          30
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "1fa87690288fbcb36be9f5497ca69d22cdb419398b4e29701ab7ce74484006d5",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          -1
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 384,
+        "SAT": 128
+      },
+      "candidate_placements": 599,
+      "seconds": 0.03458610037341714,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          7,
+          18,
+          9,
+          10,
+          12,
+          16,
+          17,
+          25,
+          30
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "2387288946568de9dcb9df5f8ce249e34a58160bbb5bf893fa06a20733e6dc34",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          -1
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 384,
+        "SAT": 128
+      },
+      "candidate_placements": 564,
+      "seconds": 0.03415779955685139,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          7,
+          18,
+          9,
+          10,
+          12,
+          16,
+          17,
+          25,
+          30
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "24891906538f15e9f3260986bd7186c87075e378571902e00d9f0cfd80fd3b7b",
+      "cells": [
+        [
+          -1,
+          6
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 256,
+        "SAT": 256
+      },
+      "candidate_placements": 524,
+      "seconds": 0.0318685001693666,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          1,
+          18,
+          9,
+          10,
+          12,
+          16,
+          17,
+          25,
+          30
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "26dd9837a5277bd599f434ecad8928f3928b690dcd58a86f84c90546ac2b7be1",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 256,
+        "SAT": 256
+      },
+      "candidate_placements": 502,
+      "seconds": 0.03276690002530813,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          1,
+          18,
+          9,
+          10,
+          12,
+          16,
+          17,
+          25,
+          30
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "2d98aff37fd4dc8335f440cd709e6c12192caee7beab10f845407ca19c79426e",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 384,
+        "SAT": 128
+      },
+      "candidate_placements": 541,
+      "seconds": 0.033880199771374464,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          7,
+          18,
+          9,
+          10,
+          12,
+          16,
+          17,
+          25,
+          30
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "2e6e82273cba1f77e1d723815cf7f03a351343aea0764649ef2be9efd17717ae",
+      "cells": [
+        [
+          -1,
+          3
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 384,
+        "SAT": 128
+      },
+      "candidate_placements": 476,
+      "seconds": 0.02897300012409687,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          10,
+          17,
+          7,
+          9,
+          12,
+          15,
+          18,
+          27,
+          28
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "3d70fa71a64ab7b85d4a2a21467a5f55ef7bf999c6fe752c0c522d273dd79951",
+      "cells": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          -1
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 384,
+        "SAT": 128
+      },
+      "candidate_placements": 527,
+      "seconds": 0.029862800147384405,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          7,
+          18,
+          9,
+          10,
+          12,
+          16,
+          17,
+          25,
+          30
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "42bcb55a6a153a6ea24545a146f5de731b97edc523fabf7b7915effff8338546",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 384,
+        "SAT": 128
+      },
+      "candidate_placements": 497,
+      "seconds": 0.030304699670523405,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          7,
+          18,
+          9,
+          10,
+          12,
+          16,
+          17,
+          25,
+          30
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "42ca48e54d7ad2d20caa06a46f82770d4d593bc0da364da130dfa436901409e0",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 384,
+        "SAT": 128
+      },
+      "candidate_placements": 511,
+      "seconds": 0.030729299876838923,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          7,
+          18,
+          9,
+          10,
+          12,
+          16,
+          17,
+          25,
+          30
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "43e62caa8c09df23149d554f4bc4818eaa7aef368779f8e27435f795796fc991",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          0
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 384,
+        "SAT": 128
+      },
+      "candidate_placements": 549,
+      "seconds": 0.03275079978629947,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          7,
+          18,
+          9,
+          10,
+          12,
+          16,
+          17,
+          25,
+          30
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "4c7c6f08ae29e4abaa697775675e67e139eff171b3941a5117f6c5e39e463da3",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 384,
+        "SAT": 128
+      },
+      "candidate_placements": 460,
+      "seconds": 0.03124119993299246,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          7,
+          18,
+          9,
+          10,
+          12,
+          16,
+          17,
+          25,
+          30
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "4e8c33f23917ae81d12bd1f4a87e41484d254bff9ef49b01a9e1473427ddcee8",
+      "cells": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          -1
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 384,
+        "SAT": 128
+      },
+      "candidate_placements": 497,
+      "seconds": 0.030751800164580345,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          7,
+          18,
+          9,
+          10,
+          12,
+          16,
+          17,
+          25,
+          30
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "584532e1f7b501bd4abd5f26623af3774cc084f1a269bc29e01c7cd6dc382543",
+      "cells": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 384,
+        "SAT": 128
+      },
+      "candidate_placements": 444,
+      "seconds": 0.029307799879461527,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          7,
+          18,
+          9,
+          10,
+          12,
+          16,
+          17,
+          25,
+          30
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "5c7de4cdc1127b71c3b551d9382aad5ad4144e4dd847bd9f25f1120cdef92071",
+      "cells": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 384,
+        "SAT": 128
+      },
+      "candidate_placements": 452,
+      "seconds": 0.03086340008303523,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          7,
+          18,
+          9,
+          10,
+          12,
+          16,
+          17,
+          25,
+          30
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "5d3688919d69ddc31ba789e5104f33da88d2240cd0ef721242aa355243a0a428",
+      "cells": [
+        [
+          -1,
+          2
+        ],
+        [
+          -1,
+          5
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 384,
+        "SAT": 128
+      },
+      "candidate_placements": 520,
+      "seconds": 0.0317289000377059,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          10,
+          17,
+          7,
+          9,
+          12,
+          15,
+          18,
+          27,
+          28
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "5e4582a59122f08b8f3f7e48c18310142d0396fa90a2c9499c94a66d2e754132",
+      "cells": [
+        [
+          -1,
+          5
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 256,
+        "SAT": 256
+      },
+      "candidate_placements": 516,
+      "seconds": 0.03319309977814555,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          1,
+          18,
+          9,
+          10,
+          12,
+          16,
+          17,
+          25,
+          30
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "61de92e828c71d428133b0e628414e26516ef07f5467b1a0b901d463bd1d5ad1",
+      "cells": [
+        [
+          -1,
+          2
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 384,
+        "SAT": 128
+      },
+      "candidate_placements": 515,
+      "seconds": 0.0316189001314342,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          10,
+          17,
+          7,
+          9,
+          12,
+          15,
+          18,
+          27,
+          28
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "6bb68a70a50ad7981557fbbe3aa9bd3a0ad88d6dc0fcae52e15a939eb27f6ea9",
+      "cells": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          0
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 384,
+        "SAT": 128
+      },
+      "candidate_placements": 514,
+      "seconds": 0.03351580025628209,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          7,
+          18,
+          9,
+          10,
+          12,
+          16,
+          17,
+          25,
+          30
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "7022b79c8fc79c4775c199444cb56aaaab7d7122df31a24004065182fb4dfcfe",
+      "cells": [
+        [
+          -1,
+          5
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 384,
+        "SAT": 128
+      },
+      "candidate_placements": 512,
+      "seconds": 0.03285640012472868,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          7,
+          18,
+          9,
+          10,
+          12,
+          16,
+          17,
+          25,
+          30
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "72417aa2575e94e59922a5dabf61b6de4adc8579e9d54dbf9b91475241941138",
+      "cells": [
+        [
+          -1,
+          4
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 256,
+        "SAT": 256
+      },
+      "candidate_placements": 526,
+      "seconds": 0.03320699976757169,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          1,
+          18,
+          9,
+          10,
+          12,
+          16,
+          17,
+          25,
+          30
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "72646ed1a5ad594973e86601189a3b4b51001df3317753970f8a3128bcfe66db",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          0
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 384,
+        "SAT": 128
+      },
+      "candidate_placements": 530,
+      "seconds": 0.03263929998502135,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          7,
+          18,
+          9,
+          10,
+          12,
+          16,
+          17,
+          25,
+          30
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "776d4c999ede3865be6908a27a92fe3a1a25437bbe4567e7e31ecd221a6e2e5b",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 384,
+        "SAT": 128
+      },
+      "candidate_placements": 456,
+      "seconds": 0.030347099993377924,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          7,
+          18,
+          9,
+          10,
+          12,
+          16,
+          17,
+          25,
+          30
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "80477d110ca6011474e83852975d0d76a5cfa4e89bb4f33c517ced3fac372613",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 384,
+        "SAT": 128
+      },
+      "candidate_placements": 508,
+      "seconds": 0.0307543003000319,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          7,
+          18,
+          9,
+          10,
+          12,
+          16,
+          17,
+          25,
+          30
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "86ed212a37d95733b290a2c2d2c5078257868b3fc414141e0a585c3593b00f6a",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          -1
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 256,
+        "SAT": 256
+      },
+      "candidate_placements": 557,
+      "seconds": 0.032522100023925304,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          1,
+          18,
+          9,
+          10,
+          12,
+          16,
+          17,
+          25,
+          30
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "87b822a11b2a212376cd9216001cc4890665b06befb402dc797e0899fe11ebd8",
+      "cells": [
+        [
+          -1,
+          6
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          3
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 384,
+        "SAT": 128
+      },
+      "candidate_placements": 597,
+      "seconds": 0.04169720038771629,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          7,
+          18,
+          9,
+          10,
+          12,
+          16,
+          17,
+          25,
+          30
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "90df4e9ace393bcdf1f38286a1dac01cbeaf412ae93ef874d4ce87654e1fcfeb",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          0
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 256,
+        "SAT": 256
+      },
+      "candidate_placements": 529,
+      "seconds": 0.04346119984984398,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          1,
+          18,
+          9,
+          10,
+          12,
+          16,
+          17,
+          25,
+          30
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "98c368218059d542a27c305b0254a272fe34116752fcb22243d00605b7b960d3",
+      "cells": [
+        [
+          -1,
+          2
+        ],
+        [
+          -1,
+          3
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 384,
+        "SAT": 128
+      },
+      "candidate_placements": 504,
+      "seconds": 0.030544300097972155,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          10,
+          17,
+          7,
+          9,
+          12,
+          15,
+          18,
+          27,
+          28
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "a2335b51209a4a0b538e02c0ec767251a0c08d1d7ed8dcddb38aff1f11d4a58a",
+      "cells": [
+        [
+          -1,
+          5
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 384,
+        "SAT": 128
+      },
+      "candidate_placements": 564,
+      "seconds": 0.03235619980841875,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          7,
+          18,
+          9,
+          10,
+          12,
+          16,
+          17,
+          25,
+          30
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "a518e94387803b60f629ca978a8f7e4cbaee3f11f3f8f7370c948e75e139d38c",
+      "cells": [
+        [
+          -1,
+          1
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 384,
+        "SAT": 128
+      },
+      "candidate_placements": 505,
+      "seconds": 0.03021269990131259,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          10,
+          17,
+          7,
+          9,
+          12,
+          15,
+          18,
+          27,
+          28
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "aa4bedc3677d5500520a2c32accd2727d98aa0529b764b74471d916301b2a5ba",
+      "cells": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 384,
+        "SAT": 128
+      },
+      "candidate_placements": 517,
+      "seconds": 0.03161720000207424,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          7,
+          18,
+          9,
+          10,
+          12,
+          16,
+          17,
+          25,
+          30
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "aa850070a0a7a0c7e1c7a3ffbd86b262e823cc24c25cda44d3e680caddc4516b",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 384,
+        "SAT": 128
+      },
+      "candidate_placements": 548,
+      "seconds": 0.031516400165855885,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          7,
+          18,
+          9,
+          10,
+          12,
+          16,
+          17,
+          25,
+          30
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "ab79858f93c8faefe7d1582b4f266f3af7222bec2d9d83a6531cf0a45aeeeb24",
+      "cells": [
+        [
+          -1,
+          6
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 384,
+        "SAT": 128
+      },
+      "candidate_placements": 579,
+      "seconds": 0.03484509978443384,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          7,
+          18,
+          9,
+          10,
+          12,
+          16,
+          17,
+          25,
+          30
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "b90149c530986c52e46f0ca440c3f35dd7802d352c453c17c61ab8d699cad3c7",
+      "cells": [
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 384,
+        "SAT": 128
+      },
+      "candidate_placements": 473,
+      "seconds": 0.030095700174570084,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          7,
+          18,
+          9,
+          10,
+          12,
+          16,
+          17,
+          25,
+          30
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "b9d28c6fa505127149369b0c6a5dff8ad38ed00f11a4e3eb1b9aaaa6d9e4d13e",
+      "cells": [
+        [
+          -1,
+          4
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 384,
+        "SAT": 128
+      },
+      "candidate_placements": 513,
+      "seconds": 0.030747999902814627,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          7,
+          18,
+          9,
+          10,
+          12,
+          16,
+          17,
+          25,
+          30
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "c079722a1f736b572ca328943783eaf18e29f635c701ac072432e525c210dcea",
+      "cells": [
+        [
+          -1,
+          3
+        ],
+        [
+          -1,
+          5
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 384,
+        "SAT": 128
+      },
+      "candidate_placements": 511,
+      "seconds": 0.031804199796169996,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          10,
+          17,
+          7,
+          9,
+          12,
+          15,
+          18,
+          27,
+          28
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "c6bf9305ab8cf2fe8fecbda34bec1b80a6c37a8541513ea16c1ab4bac0122e1d",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 384,
+        "SAT": 128
+      },
+      "candidate_placements": 532,
+      "seconds": 0.031186100095510483,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          7,
+          18,
+          9,
+          10,
+          12,
+          16,
+          17,
+          25,
+          30
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "c8676dfd5df11cb750980c5b41da06b87c6624e5872ea57dc455c81238905b7a",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 256,
+        "SAT": 256
+      },
+      "candidate_placements": 532,
+      "seconds": 0.03222629986703396,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          1,
+          18,
+          9,
+          10,
+          12,
+          16,
+          17,
+          25,
+          30
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "c9d8cb7efa6fc80bbb30fd1c21aec07635f1a30997cb79f553068f1696b6192b",
+      "cells": [
+        [
+          -1,
+          2
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          -1
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 384,
+        "SAT": 128
+      },
+      "candidate_placements": 573,
+      "seconds": 0.035542599856853485,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          10,
+          17,
+          7,
+          9,
+          12,
+          15,
+          18,
+          27,
+          28
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "cd9c115beb050b109d7d129ba94f2212e5ea9cbff4a806f4de5e860cda2ba9d4",
+      "cells": [
+        [
+          -1,
+          4
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 384,
+        "SAT": 128
+      },
+      "candidate_placements": 532,
+      "seconds": 0.0307114003226161,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          7,
+          18,
+          9,
+          10,
+          12,
+          16,
+          17,
+          25,
+          30
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "cdf38cbf11d815bab319ee5de46b645feb5ecc907a0a2bb45a2e45825ca3c5fb",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 384,
+        "SAT": 128
+      },
+      "candidate_placements": 476,
+      "seconds": 0.03141230018809438,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          7,
+          18,
+          9,
+          10,
+          12,
+          16,
+          17,
+          25,
+          30
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "cfe181fa9aa4dbc72074f0ee125e8705e1d99db66325fe926f7739239b44adb8",
+      "cells": [
+        [
+          -1,
+          6
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 384,
+        "SAT": 128
+      },
+      "candidate_placements": 540,
+      "seconds": 0.03272720007225871,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          7,
+          18,
+          9,
+          10,
+          12,
+          16,
+          17,
+          25,
+          30
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "cff5e9e9a248dfc3c90a782d52c1648bbd96f010cffa6d90f36c726b04025647",
+      "cells": [
+        [
+          -1,
+          6
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 384,
+        "SAT": 128
+      },
+      "candidate_placements": 601,
+      "seconds": 0.03579379990696907,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          7,
+          18,
+          9,
+          10,
+          12,
+          16,
+          17,
+          25,
+          30
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "d016391710d7abb971c7bd97fc8a7d6c49c42b60b90123717c7dae3a6c67a84d",
+      "cells": [
+        [
+          -1,
+          2
+        ],
+        [
+          -1,
+          6
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 384,
+        "SAT": 128
+      },
+      "candidate_placements": 569,
+      "seconds": 0.0353647000156343,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          10,
+          17,
+          7,
+          9,
+          12,
+          15,
+          18,
+          27,
+          28
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "d4a54eb169a4cbba3527fd75fa41a0ed6db43ad30dae761eca5d5f565f23ad0b",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 256,
+        "SAT": 256
+      },
+      "candidate_placements": 457,
+      "seconds": 0.03857390023767948,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          1,
+          18,
+          9,
+          10,
+          12,
+          16,
+          17,
+          25,
+          30
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "dfc7f284fdef0beb6d211a83593cf119214c68030e7224897df75257efc8af69",
+      "cells": [
+        [
+          -1,
+          5
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 384,
+        "SAT": 128
+      },
+      "candidate_placements": 500,
+      "seconds": 0.04176909988746047,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          7,
+          18,
+          9,
+          10,
+          12,
+          16,
+          17,
+          25,
+          30
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "e02e97470bd862522b063c1e7a5d9e2e92f1fd9d1f06577765e870951449517e",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          -1
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 384,
+        "SAT": 128
+      },
+      "candidate_placements": 567,
+      "seconds": 0.03368090000003576,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          7,
+          18,
+          9,
+          10,
+          12,
+          16,
+          17,
+          25,
+          30
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "e094a26ba43889b79434d2c8e91d3f3252ef17a4027f20e4c354757d8775a684",
+      "cells": [
+        [
+          -1,
+          3
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          -1
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 384,
+        "SAT": 128
+      },
+      "candidate_placements": 561,
+      "seconds": 0.03348800027742982,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          10,
+          17,
+          7,
+          9,
+          12,
+          15,
+          18,
+          27,
+          28
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "e483a72af329c43613aa07ae0761f940e4b21b99fdd33ba83a5145820de3917b",
+      "cells": [
+        [
+          -1,
+          3
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 384,
+        "SAT": 128
+      },
+      "candidate_placements": 509,
+      "seconds": 0.030859699938446283,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          10,
+          17,
+          7,
+          9,
+          12,
+          15,
+          18,
+          27,
+          28
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "e4e04c71bcbd303e641e41749c8aa8aca3113ea60cea6ae8a5fdbb03c447c595",
+      "cells": [
+        [
+          -1,
+          3
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          0
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 384,
+        "SAT": 128
+      },
+      "candidate_placements": 538,
+      "seconds": 0.03274479974061251,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          10,
+          17,
+          7,
+          9,
+          12,
+          15,
+          18,
+          27,
+          28
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "e763dc0b8168d97543ae09a84ae9afbecce3a7bd3a3385aa0f775981ea5e240b",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 256,
+        "SAT": 256
+      },
+      "candidate_placements": 494,
+      "seconds": 0.033072799909859896,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          1,
+          18,
+          9,
+          10,
+          12,
+          16,
+          17,
+          25,
+          30
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "e8334259267997952d627ebb5067d898c12378481a273034c07efea0ad68bdbe",
+      "cells": [
+        [
+          -1,
+          3
+        ],
+        [
+          -1,
+          6
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 384,
+        "SAT": 128
+      },
+      "candidate_placements": 562,
+      "seconds": 0.033115699887275696,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          10,
+          17,
+          7,
+          9,
+          12,
+          15,
+          18,
+          27,
+          28
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "ea7efffb7a6d23f8df2ab4c5d262f9c0991b9edd02046a39d1ea51269234ec2c",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 384,
+        "SAT": 128
+      },
+      "candidate_placements": 276,
+      "seconds": 0.023760000243782997,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          7,
+          18,
+          9,
+          10,
+          12,
+          16,
+          17,
+          25,
+          30
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "ebadc2dc834ee132f6cb492c54f5b71c85c69d037bf28597e580a760d9218a83",
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 384,
+        "SAT": 128
+      },
+      "candidate_placements": 469,
+      "seconds": 0.03146569989621639,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          7,
+          18,
+          9,
+          10,
+          12,
+          16,
+          17,
+          25,
+          30
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    },
+    {
+      "canonical_digest": "ed219340efce08bb1f2107d011d903d6cba77488db8b44e079bf6d9937681295",
+      "cells": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          6
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "minimum_removals": 9,
+      "possible_covers": 512,
+      "counts": {
+        "covers_tested": 512,
+        "uncoverable_gap": 256,
+        "SAT": 256
+      },
+      "candidate_placements": 449,
+      "seconds": 0.030567099805921316,
+      "witness": null,
+      "successful_removed": null,
+      "relaxed_center_example": {
+        "removed": [
+          1,
+          18,
+          9,
+          10,
+          12,
+          16,
+          17,
+          25,
+          30
+        ],
+        "added": []
+      },
+      "all_covers_tested": true
+    }
+  ],
+  "target": "center",
+  "scope": "Minimum nine-pose repairs. Inner-two target requires verified depth three; center target only tests disjoint coverage of the center halo, with no hole or full-corona claim. Failures concern retained poses only.",
+  "non_tiler_proofs_generated": 0
+}

@@ -1,0 +1,143 @@
+{
+  "records": [
+    {
+      "verified_depth": 3,
+      "target_depth": 3,
+      "seconds": 0.2053658002987504,
+      "valid_patches_by_depth": {
+        "1": 2,
+        "2": 1,
+        "3": 1
+      },
+      "upper_bound": null,
+      "id": "5d6f3077234d6d6c",
+      "witness": "results\\shapes\\multiring-5d6f3077234d6d6c.heesch"
+    },
+    {
+      "verified_depth": 3,
+      "target_depth": 3,
+      "seconds": 0.8771445001475513,
+      "valid_patches_by_depth": {
+        "1": 14,
+        "2": 2,
+        "3": 1
+      },
+      "upper_bound": null,
+      "id": "b69cad5b664dcef7",
+      "witness": "results\\shapes\\multiring-b69cad5b664dcef7.heesch"
+    },
+    {
+      "verified_depth": 2,
+      "target_depth": 3,
+      "seconds": 2.008898299653083,
+      "valid_patches_by_depth": {
+        "1": 32,
+        "2": 2
+      },
+      "upper_bound": null,
+      "id": "d745fc78a0133020",
+      "witness": "results\\shapes\\multiring-d745fc78a0133020.heesch"
+    },
+    {
+      "verified_depth": 1,
+      "target_depth": 3,
+      "seconds": 2.0368921998888254,
+      "valid_patches_by_depth": {
+        "1": 34
+      },
+      "upper_bound": null,
+      "id": "571221128a0af8d1",
+      "witness": "results\\shapes\\multiring-571221128a0af8d1.heesch"
+    },
+    {
+      "verified_depth": 3,
+      "target_depth": 3,
+      "seconds": 0.7312464001588523,
+      "valid_patches_by_depth": {
+        "1": 10,
+        "2": 1,
+        "3": 1
+      },
+      "upper_bound": null,
+      "id": "f974eba5f573e74a",
+      "witness": "results\\shapes\\multiring-f974eba5f573e74a.heesch"
+    },
+    {
+      "verified_depth": 3,
+      "target_depth": 3,
+      "seconds": 1.1205877996981144,
+      "valid_patches_by_depth": {
+        "1": 14,
+        "2": 2,
+        "3": 1
+      },
+      "upper_bound": null,
+      "id": "2958b33f3df4b12a",
+      "witness": "results\\shapes\\multiring-2958b33f3df4b12a.heesch"
+    },
+    {
+      "verified_depth": 3,
+      "target_depth": 3,
+      "seconds": 0.16228900011628866,
+      "valid_patches_by_depth": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "upper_bound": null,
+      "id": "355a6d9f2d8fee05",
+      "witness": "results\\shapes\\multiring-355a6d9f2d8fee05.heesch"
+    },
+    {
+      "verified_depth": 2,
+      "target_depth": 3,
+      "seconds": 0.9332153000868857,
+      "valid_patches_by_depth": {
+        "1": 12,
+        "2": 2
+      },
+      "upper_bound": null,
+      "id": "064c7fa8949c4bd9",
+      "witness": "results\\shapes\\multiring-064c7fa8949c4bd9.heesch"
+    },
+    {
+      "verified_depth": 3,
+      "target_depth": 3,
+      "seconds": 0.40025349985808134,
+      "valid_patches_by_depth": {
+        "1": 5,
+        "2": 1,
+        "3": 1
+      },
+      "upper_bound": null,
+      "id": "6a758b5112acb7ff",
+      "witness": "results\\shapes\\multiring-6a758b5112acb7ff.heesch"
+    },
+    {
+      "verified_depth": 2,
+      "target_depth": 3,
+      "seconds": 0.8203966999426484,
+      "valid_patches_by_depth": {
+        "1": 12,
+        "2": 2
+      },
+      "upper_bound": null,
+      "id": "15336def3f3b6b91",
+      "witness": "results\\shapes\\multiring-15336def3f3b6b91.heesch"
+    },
+    {
+      "verified_depth": 3,
+      "target_depth": 3,
+      "seconds": 0.46699959971010685,
+      "valid_patches_by_depth": {
+        "1": 6,
+        "2": 1,
+        "3": 1
+      },
+      "upper_bound": null,
+      "id": "da95dc5cd7e10383",
+      "witness": "results\\shapes\\multiring-da95dc5cd7e10383.heesch"
+    }
+  ],
+  "non_tiler_proofs_generated": 0
+}
