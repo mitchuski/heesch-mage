@@ -1,0 +1,901 @@
+{
+  "records": [
+    {
+      "source_index": 24,
+      "canonical_digest": "ca232e7fada5ac5237f57c9818196d89742edf66f47de7667731760342b1c880",
+      "screen": {
+        "status": "RELAXED_EXPANSION_FOUND",
+        "depth": 2,
+        "seconds": 0.038983899634331465,
+        "search_nodes_completed_subcalls": 112,
+        "expansions_by_remaining_depth": {
+          "2": 1,
+          "1": 2
+        },
+        "cached_failed_patches": 1,
+        "relaxed_witness": [
+          [
+            [
+              -1,
+              -1,
+              1,
+              1,
+              0,
+              2
+            ],
+            [
+              0,
+              1,
+              -2,
+              -1,
+              -1,
+              3
+            ],
+            [
+              -1,
+              0,
+              0,
+              0,
+              -1,
+              9
+            ],
+            [
+              1,
+              1,
+              -1,
+              -1,
+              0,
+              7
+            ],
+            [
+              -1,
+              -1,
+              10,
+              0,
+              1,
+              -3
+            ]
+          ],
+          [
+            [
+              0,
+              -1,
+              2,
+              1,
+              1,
+              6
+            ],
+            [
+              0,
+              -1,
+              10,
+              -1,
+              0,
+              4
+            ],
+            [
+              0,
+              1,
+              4,
+              1,
+              0,
+              5
+            ],
+            [
+              0,
+              1,
+              1,
+              -1,
+              -1,
+              15
+            ],
+            [
+              1,
+              0,
+              9,
+              -1,
+              -1,
+              0
+            ],
+            [
+              1,
+              1,
+              1,
+              0,
+              -1,
+              -2
+            ],
+            [
+              1,
+              1,
+              -2,
+              -1,
+              0,
+              -4
+            ],
+            [
+              1,
+              1,
+              -8,
+              -1,
+              0,
+              2
+            ],
+            [
+              0,
+              -1,
+              -5,
+              1,
+              1,
+              1
+            ],
+            [
+              1,
+              0,
+              -8,
+              0,
+              1,
+              8
+            ]
+          ]
+        ],
+        "official_non_tiler_certificate": false
+      },
+      "verified_depth": 2,
+      "witness": "results\\shapes\\discussion75-geometry-d2-ca232e7fada5ac52.heesch",
+      "deeper_search": {
+        "verified_depth": 2,
+        "target_depth": 3,
+        "seconds": 5.007050300016999,
+        "valid_patches_by_depth": {
+          "1": 253,
+          "2": 6
+        },
+        "upper_bound": null
+      }
+    },
+    {
+      "source_index": 25,
+      "canonical_digest": "7461b150d8dcac2d5f1be7e2ce0bf62ec215a3bbf7be7d38b8fd2801ea6d37de",
+      "screen": {
+        "status": "UNKNOWN_TIMEOUT",
+        "depth": 2,
+        "seconds": 1.0024622003547847,
+        "search_nodes_completed_subcalls": 211,
+        "expansions_by_remaining_depth": {
+          "2": 1,
+          "1": 49
+        },
+        "cached_failed_patches": 49,
+        "relaxed_witness": null,
+        "official_non_tiler_certificate": false
+      },
+      "verified_depth": 0
+    },
+    {
+      "source_index": 26,
+      "canonical_digest": "602ce4b28282c1012d860c38f79b54c005e02d9811207cfaa152162b3c3dad07",
+      "screen": {
+        "status": "UNKNOWN_TIMEOUT",
+        "depth": 2,
+        "seconds": 1.0177346002310514,
+        "search_nodes_completed_subcalls": 279,
+        "expansions_by_remaining_depth": {
+          "2": 1,
+          "1": 43
+        },
+        "cached_failed_patches": 43,
+        "relaxed_witness": null,
+        "official_non_tiler_certificate": false
+      },
+      "verified_depth": 0
+    },
+    {
+      "source_index": 27,
+      "canonical_digest": "b3da1a442241527f92d03b1da37409e959d2435ea8e040c55eeaaca22e8f4262",
+      "screen": {
+        "status": "UNKNOWN_TIMEOUT",
+        "depth": 2,
+        "seconds": 1.0214772997424006,
+        "search_nodes_completed_subcalls": 275,
+        "expansions_by_remaining_depth": {
+          "2": 1,
+          "1": 55
+        },
+        "cached_failed_patches": 55,
+        "relaxed_witness": null,
+        "official_non_tiler_certificate": false
+      },
+      "verified_depth": 0
+    },
+    {
+      "source_index": 28,
+      "canonical_digest": "cabbada8ba2622fd4b8c3d931b6e3830c7969a15638ae0d7224bc37a332c0c11",
+      "screen": {
+        "status": "UNKNOWN_TIMEOUT",
+        "depth": 2,
+        "seconds": 1.0093661001883447,
+        "search_nodes_completed_subcalls": 138,
+        "expansions_by_remaining_depth": {
+          "2": 1,
+          "1": 40
+        },
+        "cached_failed_patches": 40,
+        "relaxed_witness": null,
+        "official_non_tiler_certificate": false
+      },
+      "verified_depth": 0
+    },
+    {
+      "source_index": 29,
+      "canonical_digest": "0a28e6af07eb7cdc7a7b280cd15aeaa9f8e7d29002d514ee96206fce8c141493",
+      "screen": {
+        "status": "EXHAUSTED_RELAXED_EXPANSION",
+        "depth": 2,
+        "seconds": 0.049804999958723783,
+        "search_nodes_completed_subcalls": 19,
+        "expansions_by_remaining_depth": {
+          "2": 1,
+          "1": 2
+        },
+        "cached_failed_patches": 3,
+        "relaxed_witness": null,
+        "official_non_tiler_certificate": false
+      },
+      "verified_depth": 0
+    },
+    {
+      "source_index": 30,
+      "canonical_digest": "5db4f91196ff599f0bf89c5b6935d50df1df81ba86453c6e8385998ff2cabcb1",
+      "screen": {
+        "status": "EXHAUSTED_RELAXED_EXPANSION",
+        "depth": 2,
+        "seconds": 0.20237889979034662,
+        "search_nodes_completed_subcalls": 80,
+        "expansions_by_remaining_depth": {
+          "2": 1,
+          "1": 8
+        },
+        "cached_failed_patches": 9,
+        "relaxed_witness": null,
+        "official_non_tiler_certificate": false
+      },
+      "verified_depth": 0
+    },
+    {
+      "source_index": 31,
+      "canonical_digest": "58cfccb0da6a972a509f7dc98d6a10dac72f05505890b5dfea9adaee46496e40",
+      "screen": {
+        "status": "UNKNOWN_TIMEOUT",
+        "depth": 2,
+        "seconds": 1.017436500173062,
+        "search_nodes_completed_subcalls": 174,
+        "expansions_by_remaining_depth": {
+          "2": 1,
+          "1": 50
+        },
+        "cached_failed_patches": 50,
+        "relaxed_witness": null,
+        "official_non_tiler_certificate": false
+      },
+      "verified_depth": 0
+    },
+    {
+      "source_index": 32,
+      "canonical_digest": "fb01c0c1f200aabb2b619f26cf07d81e355f8d1fa62844fb3f27ff549c184779",
+      "screen": {
+        "status": "UNKNOWN_TIMEOUT",
+        "depth": 2,
+        "seconds": 1.0055895000696182,
+        "search_nodes_completed_subcalls": 211,
+        "expansions_by_remaining_depth": {
+          "2": 1,
+          "1": 47
+        },
+        "cached_failed_patches": 47,
+        "relaxed_witness": null,
+        "official_non_tiler_certificate": false
+      },
+      "verified_depth": 0
+    },
+    {
+      "source_index": 33,
+      "canonical_digest": "716e30c78a07412f14087540f6117503a5854bcaa559be9759c9eac4a636e96c",
+      "screen": {
+        "status": "EXHAUSTED_RELAXED_EXPANSION",
+        "depth": 2,
+        "seconds": 0.04072569962590933,
+        "search_nodes_completed_subcalls": 23,
+        "expansions_by_remaining_depth": {
+          "2": 1,
+          "1": 2
+        },
+        "cached_failed_patches": 3,
+        "relaxed_witness": null,
+        "official_non_tiler_certificate": false
+      },
+      "verified_depth": 0
+    },
+    {
+      "source_index": 34,
+      "canonical_digest": "4155c2546d147999ee5e57798f5ebbf16e620d9e6aa757d7567fd295bdbb5f95",
+      "screen": {
+        "status": "RELAXED_EXPANSION_FOUND",
+        "depth": 2,
+        "seconds": 0.10606280015781522,
+        "search_nodes_completed_subcalls": 41,
+        "expansions_by_remaining_depth": {
+          "2": 1,
+          "1": 5
+        },
+        "cached_failed_patches": 4,
+        "relaxed_witness": [
+          [
+            [
+              -1,
+              0,
+              1,
+              0,
+              -1,
+              9
+            ],
+            [
+              1,
+              0,
+              -4,
+              0,
+              1,
+              -1
+            ],
+            [
+              -1,
+              -1,
+              7,
+              1,
+              0,
+              -4
+            ],
+            [
+              0,
+              1,
+              4,
+              -1,
+              -1,
+              3
+            ],
+            [
+              1,
+              0,
+              4,
+              0,
+              1,
+              1
+            ],
+            [
+              -1,
+              0,
+              5,
+              0,
+              -1,
+              10
+            ]
+          ],
+          [
+            [
+              -1,
+              0,
+              -3,
+              0,
+              -1,
+              8
+            ],
+            [
+              1,
+              0,
+              -7,
+              0,
+              1,
+              8
+            ],
+            [
+              0,
+              -1,
+              1,
+              1,
+              1,
+              7
+            ],
+            [
+              1,
+              1,
+              -2,
+              -1,
+              0,
+              14
+            ],
+            [
+              -1,
+              0,
+              9,
+              0,
+              -1,
+              11
+            ],
+            [
+              -1,
+              -1,
+              12,
+              1,
+              0,
+              -8
+            ],
+            [
+              1,
+              1,
+              -3,
+              -1,
+              0,
+              -3
+            ],
+            [
+              0,
+              1,
+              -6,
+              1,
+              0,
+              -4
+            ],
+            [
+              1,
+              1,
+              -12,
+              -1,
+              0,
+              4
+            ],
+            [
+              -1,
+              0,
+              12,
+              1,
+              1,
+              -5
+            ],
+            [
+              0,
+              -1,
+              14,
+              1,
+              1,
+              -10
+            ],
+            [
+              1,
+              0,
+              8,
+              0,
+              1,
+              2
+            ]
+          ]
+        ],
+        "official_non_tiler_certificate": false
+      },
+      "verified_depth": 2,
+      "witness": "results\\shapes\\discussion75-geometry-d2-4155c2546d147999.heesch",
+      "deeper_search": {
+        "verified_depth": 2,
+        "target_depth": 3,
+        "seconds": 5.000435800291598,
+        "valid_patches_by_depth": {
+          "1": 241,
+          "2": 10
+        },
+        "upper_bound": null
+      }
+    },
+    {
+      "source_index": 35,
+      "canonical_digest": "3f106ce5485bb21476b2c1fc98caf5245619236efbb9a513c14a66e67afd93b0",
+      "screen": {
+        "status": "UNKNOWN_TIMEOUT",
+        "depth": 2,
+        "seconds": 1.0033872998319566,
+        "search_nodes_completed_subcalls": 248,
+        "expansions_by_remaining_depth": {
+          "2": 1,
+          "1": 49
+        },
+        "cached_failed_patches": 49,
+        "relaxed_witness": null,
+        "official_non_tiler_certificate": false
+      },
+      "verified_depth": 0
+    },
+    {
+      "source_index": 36,
+      "canonical_digest": "710a8ed5611ca854b1bf083e8048f44817df68eeceed6de6d75959658c51004d",
+      "screen": {
+        "status": "UNKNOWN_TIMEOUT",
+        "depth": 2,
+        "seconds": 1.008917999919504,
+        "search_nodes_completed_subcalls": 388,
+        "expansions_by_remaining_depth": {
+          "2": 1,
+          "1": 58
+        },
+        "cached_failed_patches": 58,
+        "relaxed_witness": null,
+        "official_non_tiler_certificate": false
+      },
+      "verified_depth": 0
+    },
+    {
+      "source_index": 37,
+      "canonical_digest": "a4024a1d6ec232394f2594898161dc81f794a96bdb2f99ea432e5a08ad3824a7",
+      "screen": {
+        "status": "EXHAUSTED_RELAXED_EXPANSION",
+        "depth": 2,
+        "seconds": 0.5680963001213968,
+        "search_nodes_completed_subcalls": 493,
+        "expansions_by_remaining_depth": {
+          "2": 1,
+          "1": 27
+        },
+        "cached_failed_patches": 28,
+        "relaxed_witness": null,
+        "official_non_tiler_certificate": false
+      },
+      "verified_depth": 0
+    },
+    {
+      "source_index": 38,
+      "canonical_digest": "725af01c2de8489457ec12c031c67746b4d9361acfe4edba5bb9f746860042e9",
+      "screen": {
+        "status": "EXHAUSTED_RELAXED_EXPANSION",
+        "depth": 2,
+        "seconds": 0.9676768998615444,
+        "search_nodes_completed_subcalls": 666,
+        "expansions_by_remaining_depth": {
+          "2": 1,
+          "1": 64
+        },
+        "cached_failed_patches": 65,
+        "relaxed_witness": null,
+        "official_non_tiler_certificate": false
+      },
+      "verified_depth": 0
+    },
+    {
+      "source_index": 39,
+      "canonical_digest": "5ca666518cfccf6ee057ac1a02c951e84b3074f2446ef85211d85125ce1f46eb",
+      "screen": {
+        "status": "UNKNOWN_TIMEOUT",
+        "depth": 2,
+        "seconds": 1.0007369001396,
+        "search_nodes_completed_subcalls": 337,
+        "expansions_by_remaining_depth": {
+          "2": 1,
+          "1": 37
+        },
+        "cached_failed_patches": 37,
+        "relaxed_witness": null,
+        "official_non_tiler_certificate": false
+      },
+      "verified_depth": 0
+    },
+    {
+      "source_index": 40,
+      "canonical_digest": "034c3b238cdf27e7ebf1abf070cd700391342736a70f4f0465da1305e2327dd3",
+      "screen": {
+        "status": "UNKNOWN_TIMEOUT",
+        "depth": 2,
+        "seconds": 1.0133669995702803,
+        "search_nodes_completed_subcalls": 373,
+        "expansions_by_remaining_depth": {
+          "2": 1,
+          "1": 41
+        },
+        "cached_failed_patches": 41,
+        "relaxed_witness": null,
+        "official_non_tiler_certificate": false
+      },
+      "verified_depth": 0
+    },
+    {
+      "source_index": 41,
+      "canonical_digest": "e13c51d351a26b314e0c7e8dbefa72d858ed21702bdac4292d595f6159e6556a",
+      "screen": {
+        "status": "UNKNOWN_TIMEOUT",
+        "depth": 2,
+        "seconds": 1.0207382002845407,
+        "search_nodes_completed_subcalls": 198,
+        "expansions_by_remaining_depth": {
+          "2": 1,
+          "1": 45
+        },
+        "cached_failed_patches": 45,
+        "relaxed_witness": null,
+        "official_non_tiler_certificate": false
+      },
+      "verified_depth": 0
+    },
+    {
+      "source_index": 42,
+      "canonical_digest": "f78f3dce1d127eddccc256c30bdebeacec1c04afeae53ef7f1d906e38297365f",
+      "screen": {
+        "status": "UNKNOWN_TIMEOUT",
+        "depth": 2,
+        "seconds": 1.0096638998948038,
+        "search_nodes_completed_subcalls": 189,
+        "expansions_by_remaining_depth": {
+          "2": 1,
+          "1": 46
+        },
+        "cached_failed_patches": 46,
+        "relaxed_witness": null,
+        "official_non_tiler_certificate": false
+      },
+      "verified_depth": 0
+    },
+    {
+      "source_index": 43,
+      "canonical_digest": "b47720b325d371f956b7e58eb28dc0c63053f8b3e15b803a9f2dfa3bef51136e",
+      "screen": {
+        "status": "RELAXED_EXPANSION_FOUND",
+        "depth": 2,
+        "seconds": 0.5130938002839684,
+        "search_nodes_completed_subcalls": 283,
+        "expansions_by_remaining_depth": {
+          "2": 1,
+          "1": 26
+        },
+        "cached_failed_patches": 25,
+        "relaxed_witness": [
+          [
+            [
+              -1,
+              0,
+              0,
+              0,
+              -1,
+              9
+            ],
+            [
+              -1,
+              -1,
+              4,
+              0,
+              1,
+              -2
+            ],
+            [
+              -1,
+              -1,
+              8,
+              1,
+              0,
+              -5
+            ],
+            [
+              -1,
+              -1,
+              6,
+              0,
+              1,
+              6
+            ],
+            [
+              0,
+              1,
+              3,
+              1,
+              0,
+              1
+            ],
+            [
+              0,
+              1,
+              5,
+              -1,
+              -1,
+              3
+            ]
+          ],
+          [
+            [
+              0,
+              -1,
+              -1,
+              -1,
+              0,
+              13
+            ],
+            [
+              1,
+              0,
+              4,
+              0,
+              1,
+              4
+            ],
+            [
+              1,
+              0,
+              6,
+              -1,
+              -1,
+              -1
+            ],
+            [
+              1,
+              1,
+              -7,
+              0,
+              -1,
+              17
+            ],
+            [
+              0,
+              1,
+              0,
+              1,
+              0,
+              10
+            ],
+            [
+              1,
+              1,
+              -1,
+              -1,
+              0,
+              -5
+            ],
+            [
+              1,
+              0,
+              -4,
+              -1,
+              -1,
+              1
+            ],
+            [
+              1,
+              0,
+              -7,
+              0,
+              1,
+              -1
+            ],
+            [
+              1,
+              0,
+              -8,
+              0,
+              1,
+              4
+            ],
+            [
+              1,
+              0,
+              -11,
+              0,
+              1,
+              10
+            ],
+            [
+              0,
+              -1,
+              14,
+              1,
+              1,
+              -6
+            ],
+            [
+              1,
+              0,
+              9,
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              1,
+              11,
+              1,
+              0,
+              -9
+            ]
+          ]
+        ],
+        "official_non_tiler_certificate": false
+      },
+      "verified_depth": 2,
+      "witness": "results\\shapes\\discussion75-geometry-d2-b47720b325d371f9.heesch",
+      "deeper_search": {
+        "verified_depth": 2,
+        "target_depth": 3,
+        "seconds": 5.017271200194955,
+        "valid_patches_by_depth": {
+          "1": 199,
+          "2": 9
+        },
+        "upper_bound": null
+      }
+    },
+    {
+      "source_index": 44,
+      "canonical_digest": "e913972efc5cfa5a1246306ae574299ac1178ad29d0d8dc4a18d0029e947105a",
+      "screen": {
+        "status": "UNKNOWN_TIMEOUT",
+        "depth": 2,
+        "seconds": 1.0079880999401212,
+        "search_nodes_completed_subcalls": 282,
+        "expansions_by_remaining_depth": {
+          "2": 1,
+          "1": 60
+        },
+        "cached_failed_patches": 60,
+        "relaxed_witness": null,
+        "official_non_tiler_certificate": false
+      },
+      "verified_depth": 0
+    },
+    {
+      "source_index": 45,
+      "canonical_digest": "7364b23dd2ce33c83900cbf62bcfff9843b369feaa0c497dbd4518874341cc0e",
+      "screen": {
+        "status": "UNKNOWN_TIMEOUT",
+        "depth": 2,
+        "seconds": 1.017066300380975,
+        "search_nodes_completed_subcalls": 1434,
+        "expansions_by_remaining_depth": {
+          "2": 1,
+          "1": 54
+        },
+        "cached_failed_patches": 54,
+        "relaxed_witness": null,
+        "official_non_tiler_certificate": false
+      },
+      "verified_depth": 0
+    },
+    {
+      "source_index": 46,
+      "canonical_digest": "1127ac3a55a7790471ed9b85f702e0d5d6ec406802500299e98e038778b03779",
+      "screen": {
+        "status": "EXHAUSTED_RELAXED_EXPANSION",
+        "depth": 2,
+        "seconds": 0.16261540027335286,
+        "search_nodes_completed_subcalls": 60,
+        "expansions_by_remaining_depth": {
+          "2": 1,
+          "1": 8
+        },
+        "cached_failed_patches": 9,
+        "relaxed_witness": null,
+        "official_non_tiler_certificate": false
+      },
+      "verified_depth": 0
+    },
+    {
+      "source_index": 47,
+      "canonical_digest": "471ffba029877396b56e2812638923ec710dbc0a038c7b190679e1042b568ea7",
+      "screen": {
+        "status": "UNKNOWN_TIMEOUT",
+        "depth": 2,
+        "seconds": 1.0220729000866413,
+        "search_nodes_completed_subcalls": 103,
+        "expansions_by_remaining_depth": {
+          "2": 1,
+          "1": 40
+        },
+        "cached_failed_patches": 40,
+        "relaxed_witness": null,
+        "official_non_tiler_certificate": false
+      },
+      "verified_depth": 0
+    }
+  ],
+  "scope": "Bounded relaxed geometry search; positives independently checked. No official non-tiler certificates."
+}

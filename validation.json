@@ -1,0 +1,24 @@
+{
+  "fresh_process_runs": [
+    {
+      "hash_seed": "0",
+      "exit_code": 0
+    },
+    {
+      "hash_seed": "1",
+      "exit_code": 0
+    },
+    {
+      "hash_seed": "42",
+      "exit_code": 0
+    },
+    {
+      "hash_seed": "260907",
+      "exit_code": 0
+    }
+  ],
+  "golden_fixtures_per_run": 7,
+  "geometric_oracle_cases_per_run": 240,
+  "emission_lint_checks": 3,
+  "full_upstream_ci_run": false
+}

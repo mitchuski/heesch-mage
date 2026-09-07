@@ -1,0 +1,301 @@
+{
+  "records": [
+    {
+      "canonical_digest": "ca232e7fada5ac5237f57c9818196d89742edf66f47de7667731760342b1c880",
+      "source_index": 24,
+      "cells": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          5,
+          2
+        ]
+      ],
+      "verified_depth": 2,
+      "periodic_search": {
+        "status": "UNRESOLVED",
+        "lattices_tested": 406,
+        "certificate": null
+      },
+      "status": "UNRESOLVED_GEOMETRIC_LEAD",
+      "deeper_search": {
+        "verified_depth": 2,
+        "target_depth": 3,
+        "seconds": 15.009877900127321,
+        "valid_patches_by_depth": {
+          "1": 766,
+          "2": 6
+        },
+        "upper_bound": null
+      }
+    },
+    {
+      "canonical_digest": "4155c2546d147999ee5e57798f5ebbf16e620d9e6aa757d7567fd295bdbb5f95",
+      "source_index": 34,
+      "cells": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ]
+      ],
+      "verified_depth": 2,
+      "periodic_search": {
+        "status": "UNRESOLVED",
+        "lattices_tested": 280,
+        "certificate": null
+      },
+      "status": "UNRESOLVED_GEOMETRIC_LEAD",
+      "deeper_search": {
+        "verified_depth": 2,
+        "target_depth": 3,
+        "seconds": 15.003138900268823,
+        "valid_patches_by_depth": {
+          "1": 789,
+          "2": 16
+        },
+        "upper_bound": null
+      }
+    },
+    {
+      "canonical_digest": "b47720b325d371f956b7e58eb28dc0c63053f8b3e15b803a9f2dfa3bef51136e",
+      "source_index": 43,
+      "cells": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          5,
+          0
+        ]
+      ],
+      "verified_depth": 2,
+      "periodic_search": {
+        "status": "UNRESOLVED",
+        "lattices_tested": 444,
+        "certificate": null
+      },
+      "status": "UNRESOLVED_GEOMETRIC_LEAD",
+      "deeper_search": {
+        "verified_depth": 2,
+        "target_depth": 3,
+        "seconds": 15.00096599990502,
+        "valid_patches_by_depth": {
+          "1": 624,
+          "2": 8
+        },
+        "upper_bound": null
+      }
+    }
+  ]
+}
