@@ -8,6 +8,14 @@ Start with [CONTRIBUTION.md](CONTRIBUTION.md) for measured value and limitations
 [REPRODUCE.md](REPRODUCE.md) for checks, and
 [PUBLISHING_HANDOFF.md](PUBLISHING_HANDOFF.md) for push and posting steps.
 
+Published 7 September 2026 (see [PUBLICATION_RECEIPTS.md](PUBLICATION_RECEIPTS.md)):
+
+- Queue follow-up reply on [discussion #75](https://github.com/Layr-Labs/heesch/discussions/75#discussioncomment-18338170).
+- Inverse-design research [Discussion #83](https://github.com/Layr-Labs/heesch/discussions/83).
+- Encoder proposal [Discussion #84](https://github.com/Layr-Labs/heesch/discussions/84).
+
+No pull request was opened and no leaderboard submission was made.
+
 Publication-ready drafts:
 
 - [FOLLOWUP_75.md](FOLLOWUP_75.md): three certified tilers from the public queue.
